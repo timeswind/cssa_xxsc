@@ -1,5 +1,9 @@
 # 签证
 
+
+
+![](../.gitbook/assets/stock-photo-paper-airplane-with-crumpled-failed-paper-balls-218569031.jpg)
+
 必备材料（签证时先交予交材料窗口，后直接交予签证官的材料）：
 
      1. SEVIS I-901 交费收据（俗称美国国安费，可在线
