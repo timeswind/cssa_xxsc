@@ -2,7 +2,7 @@
 
 1. 准备好相关材料：
 
-　　1）登录http://studentaffairs.psu.edu/health/immunizations/ 并打印Penn　State Immunization Verification Form （图片）
+　　1）登录[http://studentaffairs.psu.edu/health/immunizations](http://studentaffairs.psu.edu/health/immunizations) 并打印Penn State Immunization Verification Form （图片）
 
 　　2）过往的疫苗记录
 
@@ -12,7 +12,7 @@
 
 　　5）充足的现金
 
-2. 带好上述材料到你所在当地的『国际旅游卫生保健中心』，将打印好的　　表格拿给医生看，他们会知道你需要打些什么疫苗和所需体检项目。
+2. 带好上述材料到你所在当地的『国际旅游卫生保健中心』，将打印好的表格拿给医生看，他们会知道你需要打些什么疫苗和所需体检项目。
 
 【温馨提示】关于TB test，中国新生刚到时可能被要求接受皮试，以判断是否感染了结核杆菌。值得注意的是,很大一部分中国学生的测试结果都是阳性。
 
@@ -26,7 +26,7 @@
 
 3. 完成体检项目并接种所需疫苗之后，会收到一个小红
 
-本和一个小黄本，分别是体检和疫苗接种证明，拿到后，记得回学校的给的网址填写信息 http://studentaffairs.psu.edu/health/myUHS/login.shtml。
+本和一个小黄本，分别是体检和疫苗接种证明，拿到后，记得回学校的给的网址填写信息 [http://studentaffairs.psu.edu/health/myUHS/login.shtml](http://studentaffairs.psu.edu/health/myUHS/login.shtml)。
 
 【温馨提示】因为有的疫苗不能同时打或者需要打好几剂，所以会用上几个月的时间，建议及早的开始准备。强烈建议大家在国内把所有的疫苗打完，如果实在没打完，可以等到了Penn State在校医院\(Student Health Center\)补打，保险一般包含其费用
 

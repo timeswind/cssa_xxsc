@@ -12,7 +12,7 @@ Lionpath  （替换原先使用的elion）
 
 ◇ 更详细的攻略请向CSSA公众号发送Lionpath。
 
-◇ 网址：http://launch.lionpath.psu.edu/
+◇ 网址：[http://launch.lionpath.psu.edu/](http://launch.lionpath.psu.edu/)
 
 ◇ Lionpath 是Penn State学生用来用于注册选课（加/退课），缴学费，查整学期成绩，学生账户专业毕业要求等。每学期开始都需要在上面更新住址，紧急联系人等个人资料才可以进行选课等操作。
 

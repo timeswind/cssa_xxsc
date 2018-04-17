@@ -12,7 +12,7 @@
 
 住校内住宿必须买学校的　meal plan。Meal plan分两部分，1370刀的基本费用（不能使用）加上可以使用的meal points。住校内宿舍的同学必须要选meal plan，有三个等级可供选择，可以在校内所有的食堂（自助性质，每餐钱数固定，无限供应各种餐点和饮品）、餐厅、咖啡馆和小卖部刷meal points。每学期结束前可以随意更改等级，但是没花完钱会在每个春季期末清零。校外住宿的同学可以自行选择是否购买meal plan。meal plan的主要优点是在食堂吃比较便宜。
 
-关于学校meal plan的更多消息欢迎登录http://foodservices.psu.edu/campus-meal-plan
+关于学校meal plan的更多消息欢迎登录[http://foodservices.psu.edu/campus-meal-plan](http://foodservices.psu.edu/campus-meal-plan)
 
 
 

@@ -4,7 +4,7 @@
 
 _**（签证时先交予交材料窗口，后直接交予签证官的材料）**_
 
-     1. SEVIS I-901 交费收据（俗称美国国安费，可在线提交，必须收到I-20才填写，金额200美元，可用信用卡交费）网址：https://www.fmjfee.com
+     1. SEVIS I-901 交费收据（俗称美国国安费，可在线提交，必须收到I-20才填写，金额200美元，可用信用卡交费）网址：[https://www.fmjfee.com](https://www.fmjfee.com)
 
      2. 签证申请费收据 （用预约确认信也可以，上面有申请费收据号码）
 
@@ -89,7 +89,7 @@ _**（签证时先交予交材料窗口，后直接交予签证官的材料）**
 
  2）到交材料的窗口，将必备材料，如：DS-160确认页；签证费收据（现在可拿签证预约确单，排队等待与VO面谈，有时会等很久，不要表现得很紧张，或者大声喧哗，VO会在签证的同时观察后面等待的人。
 
-     7. 查询签证状态，护照追踪与检索 网址：http://www.ustraveldocs.com/cn\_zh/cn-niv-passporttrack.asp
+     7. 查询签证状态，护照追踪与检索 网址：[http://www.ustraveldocs.com/cn\_zh/cn-niv-passporttrack.asp](http://www.ustraveldocs.com/cn_zh/cn-niv-passporttrack.asp)
 
 签证申请获得批准之后，您的护照及签证将被送还至您之前选择的中信银行营业网点。
 
