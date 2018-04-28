@@ -22,19 +22,10 @@ Lionpath  （替换原先使用的elion）
 
 ◇ 进入Lionpath主页面，主要由六个部分组成：
 
-     1. 第一部分是背景图为PENN STATE标志石狮作底的栏目。Holds一般陈列出在作出某种操作前必须填写的申请表和调查，是校方用来控制学生选课或者转出学校成绩单的政策。To Do List 是用来核对个人信息的。
-
-Communication 则是学校通知区域。
-
-     2. 第二部分是Quick Link，罗列了大量学生常用的页
-
-面。
-
-     3. 第三，四部分分别是是My Class Schedule和My 
-
-Grade，可以查看目前所选的课和成绩。
-
-     4. 剩下的两个部分分别是Academic Calender，Enrollment date，分别是校方的校方时间表和注册日期。
+1. 第一部分是背景图为PENN STATE标志石狮作底的栏目。Holds一般陈列出在作出某种操作前必须填写的申请表和调查，是校方用来控制学生选课或者转出学校成绩单的政策。To Do List 是用来核对个人信息的。Communication 则是学校通知区域。
+2. 二部分是Quick Link，罗列了大量学生常用的页面。
+3. 第三，四部分分别是是My Class Schedule和My Grade，可以查看目前所选的课和成绩。
+4. 剩下的两个部分分别是Academic Calender，Enrollment date，分别是校方的校方时间表和注册日期。
 
           ◇ 主页面顶有四个选项。分别是主页，Academics，Finaces和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
 
