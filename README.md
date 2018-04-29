@@ -1,5 +1,7 @@
 # CSSA简介
 
+![PSU CSSA](.gitbook/assets/m2w690hq92lt_h_large_611w_5f3d0005a5022f75.png)
+
 ## I.概况
 
   
