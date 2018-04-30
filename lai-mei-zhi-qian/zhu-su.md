@@ -1,6 +1,8 @@
 # 住宿
 
-校内住宿
+### 校内住宿
+
+![](../.gitbook/assets/warnock_commons_exterior_3.1.jpg)
 
 大一新生必须要住学校的宿舍，大家一定要在来美之前通过eLiving，http://www.eliving.psu.edu选好宿舍和食堂套餐（meal plan）。
 
