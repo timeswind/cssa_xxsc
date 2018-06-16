@@ -2,6 +2,7 @@
 
 * [CSSA简介](README.md)
 * [新生手册编写策划人员](xin-sheng-shou-ce-bian-xie-ce-hua-ren-yuan.md)
+* [The Pennsylvania  State University  欢迎你!](the-pennsylvania-state-university-huan-ying-ni.md)
 * [来美之前](lai-mei-zhi-qian/README.md)
   * [签证](lai-mei-zhi-qian/qian-zheng.md)
   * [档案](lai-mei-zhi-qian/dang-an.md)
