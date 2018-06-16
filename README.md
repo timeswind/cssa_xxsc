@@ -49,3 +49,7 @@ PSU CSSA 的宗旨是服务全体中国留学生和学者, 增进团结和友谊
 
 2018-2019
 
+![&#x7AE0;&#x5B63;&#x6F9C;  &#x4E3B;&#x5E2D;&#x56E2;\|&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%282%29.png)
+
+
+
