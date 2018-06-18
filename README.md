@@ -49,51 +49,51 @@ PSU CSSA 的宗旨是服务全体中国留学生和学者, 增进团结和友谊
 
 2018-2019
 
-![&#x7AE0;&#x5B63;&#x6F9C;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D;](.gitbook/assets/image%20%285%29.png)
+![&#x7AE0;&#x5B63;&#x6F9C;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D;](.gitbook/assets/image%20%2816%29.png)
 
-![&#x949F;&#x5A31;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x79D8;&#x4E66;&#x957F;](.gitbook/assets/image%20%283%29.png)
+![&#x949F;&#x5A31;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x79D8;&#x4E66;&#x957F;](.gitbook/assets/image%20%2810%29.png)
 
-![&#x5F20;&#x777F;&#x6CFD;  &#x5BA3;&#x4F20;&#x90E8; \| &#x603B;&#x76D1;](.gitbook/assets/image%20%286%29.png)
+![&#x5F20;&#x777F;&#x6CFD;  &#x5BA3;&#x4F20;&#x90E8; \| &#x603B;&#x76D1;](.gitbook/assets/image%20%2818%29.png)
 
-![&#x90ED;&#x6587;&#x6D69;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%2834%29.png)
+![&#x90ED;&#x6587;&#x6D69;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28102%29.png)
 
-![&#x5468;&#x5E73;&#x5B87;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%2848%29.png)
+![&#x5468;&#x5E73;&#x5B87;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28130%29.png)
 
-![&#x7F57;&#x6DFB;&#x7545;  &#x5BA3;&#x4F20;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2843%29.png)
+![&#x7F57;&#x6DFB;&#x7545;  &#x5BA3;&#x4F20;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28119%29.png)
 
-![&#x738B;&#x8363;&#x4ED5;  &#x7F51;&#x7EDC;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2813%29.png)
+![&#x738B;&#x8363;&#x4ED5;  &#x7F51;&#x7EDC;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2844%29.png)
 
-![&#x6731;&#x76CA;&#x5E7F;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%2839%29.png)
+![&#x6731;&#x76CA;&#x5E7F;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28110%29.png)
 
-![&#x4EFB;&#x6587;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x7814;&#x7A76;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%2841%29.png)
+![&#x4EFB;&#x6587;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x7814;&#x7A76;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28115%29.png)
 
-![&#x8303;&#x79CB;&#x6668;  &#x5BA3;&#x4F20;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2815%29.png)
+![&#x8303;&#x79CB;&#x6668;  &#x5BA3;&#x4F20;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2849%29.png)
 
-![&#x5F90;&#x9759;&#x6021;  &#x7F51;&#x7EDC;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2827%29.png)
+![&#x5F90;&#x9759;&#x6021;  &#x7F51;&#x7EDC;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2881%29.png)
 
-![&#x738B;&#x60DF;&#x626C;  &#x8D22;&#x52A1;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image.png)
+![&#x738B;&#x60DF;&#x626C;  &#x8D22;&#x52A1;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%281%29.png)
 
-![&#x5218;&#x9E4F;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2844%29.png)
+![&#x5218;&#x9E4F;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28125%29.png)
 
-![&#x674E;&#x660E;&#x6CFD;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2833%29.png)
+![&#x674E;&#x660E;&#x6CFD;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2897%29.png)
 
-![&#x5F20;&#x6587;&#x8F69;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2845%29.png)
+![&#x5F20;&#x6587;&#x8F69;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28126%29.png)
 
-![&#x5E84;&#x5F71;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2823%29.png)
+![&#x5E84;&#x5F71;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2874%29.png)
 
-![&#x9648;&#x601D;&#x4F73;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2830%29.png)
+![&#x9648;&#x601D;&#x4F73;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2892%29.png)
 
-![&#x949F;&#x6653;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2837%29.png)
+![&#x949F;&#x6653;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28105%29.png)
 
-![&#x6731;&#x8FEA;&#x626C;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2835%29.png)
+![&#x6731;&#x8FEA;&#x626C;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28103%29.png)
 
-![&#x5218;&#x777F;&#x54F2;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2850%29.png)
+![&#x5218;&#x777F;&#x54F2;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28132%29.png)
 
-![&#x90A2;&#x6B63;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2824%29.png)
+![&#x90A2;&#x6B63;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2876%29.png)
 
-![&#x5F20;&#x96E8;&#x6674;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%284%29.png)
+![&#x5F20;&#x96E8;&#x6674;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2814%29.png)
 
-![&#x5218;&#x5176;&#x950B;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2838%29.png)
+![&#x5218;&#x5176;&#x950B;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28109%29.png)
 
-![&#x8D3E;&#x8BD7;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2832%29.png)
+![&#x8D3E;&#x8BD7;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2895%29.png)
 
