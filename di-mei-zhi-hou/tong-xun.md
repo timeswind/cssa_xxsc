@@ -46,10 +46,6 @@
 
 中国移动美洲公司作为在美首家推出电信移动业务的中国运营商。自2018年5月20日起，凡是Penn State的新生，用邮箱注册即可领卡。首月仅需1美元，就可享受价值29/39/49美元的高流量套餐。手机卡可以免费寄到中/美两地。在出国前一天激活手机卡，下飞机插卡即可使用，真正做到中美通讯无缝衔接。每一款套餐除了有无限美国本地通话，还包含了拨打中国等10个国家的无限国际通话。
 
-![](../.gitbook/assets/image%20%2837%29.png)
-
-![](../.gitbook/assets/image%20%2820%29.png)
-
 ### 2.AT&T
 
 网址：www.att.com
@@ -61,6 +57,10 @@ Perpaid plan 是AT&T最基本的套餐，以下是套餐内容:
 2\) Mobile share plan
 
 Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名holder（主线）和数名member（上限为10人）组成。申请套餐时，如果holder没有SSN，每位成员需支付$500/人押金，半年后返还。
+
+
+
+![Mobile share plan](../.gitbook/assets/image%20%2837%29.png)
 
 3\)合约机
 
@@ -79,6 +79,10 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 与ATT 有异曲同工之妙：
 
 2）The More Everything plan \(Family plan\)与类似AT&T，上限为10人。
+
+
+
+![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2820%29.png)
 
 3）Single Line plan \(indivitual plan\)
 

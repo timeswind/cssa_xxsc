@@ -1,6 +1,6 @@
 # CSSA简介
 
-![PSU CSSA](.gitbook/assets/m2w690hq92lt_h_large_611w_5f3d0005a5022f75.png)
+![PSU CSSA](.gitbook/assets/cssa_logo_gradient.png)
 
 ## I.概况
 
@@ -17,25 +17,16 @@ PSU CSSA 的宗旨是服务全体中国留学生和学者, 增进团结和友谊
 
 ### 10个部门
 
-◆ 宣传部\(Communication Department\)
-
-◆ 财务部\(Treasury Department\)
-
-◆ 活动策划部\(Culture Event Department\)
-
-◆ 文体娱乐部\(Recreation & Sport Department\)
-
-◆ 学术发展部\(Intellectual Development Department\)
-
-◆ 公共关系部\(Public Relation Department\)
-
-◆ 人力资源部\(Human Resource Department\)
-
-◆ 网络部\(Web Team Department\)
-
-◆ THON 部（THON Department\)
-
-◆ 研究生部（Graduate Student Department）
+* 宣传部\(Communication Department\)
+* 财务部\(Treasury Department\)
+* 活动策划部\(Culture Event Department\)
+* 文体娱乐部\(Recreation & Sport Department\)
+* 学术发展部\(Intellectual Development Department\)
+* 公共关系部\(Public Relation Department\)
+* 人力资源部\(Human Resource Department\)
+* 网络部\(Web Team Department\)
+* THON 部\(THON Department\)
+* 研究生部（Graduate Student Department）
 
 每个部门由部长、副部长及 Officer 组成,分工协作完成各项活动。
 
@@ -43,11 +34,9 @@ PSU CSSA 的宗旨是服务全体中国留学生和学者, 增进团结和友谊
 
 每一个华人，或对中国文化感兴趣的个体都是我们的一份子。CSSA不向任何成员以任何形式收取费用。 每个对中国社区发展和普及中华文化的朋友都可以以各种形式加入到CSSA的活动中去。我们需要更多有相同志趣的志愿者的付出和支持，来共同打造一个美好和谐的华人文化社区。
 
+## 宾夕法尼亚州立大学中国学生学者联合会主席团及部长团成员
 
-
-### 宾夕法尼亚州立大学中国学生学者联合会主席团及部长团成员
-
-2018-2019
+### 2018-2019
 
 ![&#x7AE0;&#x5B63;&#x6F9C;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D;](.gitbook/assets/image%20%2816%29.png)
 

@@ -8,7 +8,7 @@
 
 ### 1.准备好相关材料：
 
-* 登录[http://studentaffairs.psu.edu/health/immunizations/](http://studentaffairs.psu.edu/health/immunizations/)
+登录[http://studentaffairs.psu.edu/health/immunizations/](http://studentaffairs.psu.edu/health/immunizations/)
 
 并打印Penn State Immunization Verification Form 
 
