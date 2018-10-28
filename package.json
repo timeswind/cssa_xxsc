@@ -1,0 +1,15 @@
+{
+  "name": "your-package",
+  "version": "0.0.1",
+  "description": "My very first package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user/project_name.git"
+  },
+  "author": "Michal Frystacky",
+  "license": "MIT"
+}
