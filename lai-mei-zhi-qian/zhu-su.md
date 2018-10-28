@@ -16,7 +16,7 @@
 
 关于学校meal plan的更多消息欢迎登录
 
-{% embed data="{\"url\":\"http://foodservices.psu.edu/campus-meal-plan\",\"type\":\"link\",\"title\":\"Campus Meal Plan \| PSU Food Services\",\"description\":\"Recommended option for off-campus students who eat 14 or more meals per week at the dining commons \(Required for students living on campus\).\",\"icon\":{\"type\":\"icon\",\"url\":\"http://foodservices.psu.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png\",\"width\":144,\"height\":144,\"aspectRatio\":1}}" %}
+{% embed url="http://foodservices.psu.edu/campus-meal-plan" %}
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
