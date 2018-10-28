@@ -1,4 +1,4 @@
-# CSSA简介测试3
+# CSSA简介
 
 ![PSU CSSA](.gitbook/assets/cssa_logo_gradient.png)
 
