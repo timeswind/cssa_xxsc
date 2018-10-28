@@ -1,0 +1,5 @@
+deploy:
+  provider: s3
+  access_key_id: "AKIAJD537TXES36YGCFQ"
+  secret_access_key: "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"
+  bucket: “psucssa-xssc”
