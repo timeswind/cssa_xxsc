@@ -12,15 +12,15 @@ PSU-CSSA 的全体成员由衷的欢迎每一位新同学的到来w，在校园�
 
 ## PSU CSSA
 
-微信公众号：pennstatecssa 留学在宾州州立CSSA
+微信公众号：pennstatecssa
 
-新生微信群招生官微信号：psuiddcssa PSUCSSA-新生微信群招生官
+新生微信群招生官微信号: psuiddcssa
 
-Facebook:@CSSAPSU
+Facebook: @CSSAPSU
 
-Instagram:pennstatecssa
+Instagram: pennstatecssa
 
-Tiwtter:@CSSA\_PSU
+Tiwtter: @CSSA\_PSU
 
 最后，衷心地祝愿大家在PSU度过难忘的校园生活，脚踏实地，勇敢追梦，不负青春。『Study Hard!Play Harder!』
 
