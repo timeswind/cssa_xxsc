@@ -8,7 +8,7 @@
 
 ### 1.准备好相关材料：
 
-登录[http://studentaffairs.psu.edu/health/immunizations/](http://studentaffairs.psu.edu/health/immunizations/)
+登录[https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers](https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers)
 
 并打印Penn State Immunization Verification Form 
 
@@ -31,7 +31,7 @@
 
 ３.完成体检项目并接种所需疫苗之后，会收到一个小红本和一个小黄本，分别是体检和疫苗接种证明，拿到后，记得回学校的给的网址填写信息。 　　
 
-[http://studentaffairs.psu.edu/health/myUHS/login.shtml](http://studentaffairs.psu.edu/health/myUHS/login.shtml)
+[https://studentaffairs.psu.edu/health-wellness/medical-services/myuhs](https://studentaffairs.psu.edu/health-wellness/medical-services/myuhs)
 
 **【温馨提示】**
 

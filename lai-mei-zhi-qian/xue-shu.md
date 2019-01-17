@@ -10,11 +10,9 @@
 
 ◆更详细的攻略请向CSSA公众号发送Lionpath。
 
-◆网址：http://launch.lionpath.psu.edu/
+◆网址：[https://lionpathsupport.psu.edu/](https://lionpathsupport.psu.edu/)
 
-◆Lionpath 是Penn state学生用来注册选课（加/退
-
-课），缴学费，查整学期成绩，学生账户，专业毕业要求等的重要网站。每学期开始都需要在上面更新住址、紧急联系人等个人资料才可以进行选课等操作。
+◆Lionpath 是Penn state学生用来注册选课（加/退课），缴学费，查整学期成绩，学生账户，专业毕业要求等的重要网站。每学期开始都需要在上面更新住址、紧急联系人等个人资料才可以进行选课等操作。
 
 ◆Lionpath主页面主要由六个部分组成：
 
@@ -28,9 +26,9 @@
 
 3）第三，四部分是 My Class Schedule和My Grade，可以查看目前所选的课和成绩。
 
-4）剩下的两个部分分别是Academic Calender和Enrollment date，分别是校历和注册日期。
+4）剩下的两个部分分别是Academic Calendar和Enrollment date，分别是校历和注册日期。
 
-◆主页面上方有四个选项。分别是主页，Academics，Finaces和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
+◆主页面上方有四个选项。分别是主页，Academics，Fiances和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
 
 ![](../.gitbook/assets/image%20%28117%29.png)
 
@@ -50,7 +48,7 @@ Enrollment：可以自由选课和Drop课；
 
 Academic Records：转学分、成绩单、毕业信息等基本信息；
 
-Research Activites：关于学校Research的详细功能；
+Research Activities：关于学校Research的详细功能；
 
 ### 3）选课具体步骤
 
@@ -147,7 +145,7 @@ Penn State 本科所选的课程主要分为通识课\(general\)和专业课两�
 
 选课是大学生活很重要的一门技巧，选课的好坏直接影响学习质量和毕业时间。如果是大二进专业并且有GPA门槛，在大一第一年就要保持较高的GPA才能保证大二能够顺利进入心仪的专业。建议在大一第一年先选一些比较简单的General Education里的课程。
 
-每学期选课前都应该先咨询学长学姐和advisor，他们的建议是多年经验的结晶。另外学生可以在Rate My Professors\(http://www.ratemyprofessors.com\)，上面可以找到过往学生对一些教授的评价，也是选课的重要参考。
+每学期选课前都应该先咨询学长学姐和advisor，他们的建议是多年经验的结晶。另外学生可以在Rate My Professors\([http://www.ratemyprofessors.com](https://www.ratemyprofessors.com/)\)，上面可以找到过往学生对一些教授的评价，也是选课的重要参考。
 
 ## 教材准备
 
@@ -195,7 +193,7 @@ PSU的图书馆资源丰富，大部分教授每学期都会保留几本教材�
 
 １）转学生会在收到正式纸质录取通知书的同时收到自己的transfer credit evaluation form。这个表格会告诉新生哪些学分是被学校承认的。绝大多数学分都是可以被承认的。具体信息见PSU相关网站：　　
 
-http://admissions.psu.edu/info/future/transfer/credit/
+[http://admissions.psu.edu/info/future/transfer/credit/](https://admissions.psu.edu/info/future/transfer/credit/)
 
 ２）学生所能够被承认转的学分有时候并不会被完全适用于其完成专业、完成学位所需要的学分。有时学校的顾问可能会建议学生重上某部分课程。
 
@@ -203,13 +201,13 @@ http://admissions.psu.edu/info/future/transfer/credit/
 
 ## 海外修学Study Abroad
 
-Penn State致力于为学生们提供一个感受和学习不同文化的环境和机遇，在海外修学可以丰富我们的知识面和经历。Penn State每年提供近300个不同时长和不同种类的海外修学program，有兴趣去海外修学的同学可以在https://global.psu.edu/上找到详尽的信息。由于申请过程较为繁琐，建议提早一年开始计划和安排海外修学。
+Penn State致力于为学生们提供一个感受和学习不同文化的环境和机遇，在海外修学可以丰富我们的知识面和经历。Penn State每年提供近300个不同时长和不同种类的海外修学program，有兴趣去海外修学的同学可以在[https://global.psu.edu/](https://global.psu.edu/)上找到详尽的信息。由于申请过程较为繁琐，建议提早一年开始计划和安排海外修学。
 
 下面简单介绍一下申请Study Abroad Program的步骤:
 
 1）参加学校的宣讲会，对海外修学program有初步的了解，如program的种类、申请截止日、奖学金、助学金等。
 
-2）在Program Search Page （http://gpglobalea.gp.psu.edu/index.cfm?FuseAction=Programs.SimpleSearch）上找到适合自己的program（指定国家或地区、指定时长、指定种类等）。
+2）在Program Search Page （[http://gpglobalea.gp.psu.edu/index.cfmFuseAction=Programs.SimpleSearch](http://gpglobalea.gp.psu.edu/index.cfm?FuseAction=Programs.SimpleSearch)）上找到适合自己的program（指定国家或地区、指定时长、指定种类等）。
 
 3）与Peer Adviser,Academic Adviser和Education Abroad Adviser讨论并制定出最合适自己的海外修学计划。
 
@@ -223,7 +221,39 @@ Penn State致力于为学生们提供一个感受和学习不同文化的环境�
 
 ![AP &#x5151;&#x6362;&#x8BFE;&#x8868;](../.gitbook/assets/image%20%2840%29.png)
 
+## PSU 奖学金申请
 
+ Scholarship是根据学生的成绩或经济需要，或根据具体的奖学金项目的规定，根据两者的结合而颁发的。典型的PSU大学奖学金每年在1500美元到3000美元之间。
+
+奖学金的申请方法有两种：通过邮件或网站申请
+
+### 1. 通过邮件
+
+收到学校发出的 offer 之后会不定期收到学校的邮件，其中有专门邮件是关于奖学金申请，点进去然后填写相关信息（写申请文书，找老师等帮忙写推荐文书，准备resume，并提交成绩单等相关证明文件），完成提交之后等待结果就好。
+
+### 2. 网站申请
+
+如果找不到学校发出的关于奖学金的邮件的话，可以上网搜索penn state scholarship，网址链接如下：
+
+[https://studentaid.psu.edu/apply](https://studentaid.psu.edu/apply)
+
+进入之后会有学校奖学金的详细介绍，可以仔细阅读了解自己是否符合学校奖学金申请要求。之后点击apply，会出现较为具体的奖学金申请步骤以及问题咨询。
+
+点击FASFA，或直接搜索连接如下：[https://studentaid.ed.gov/sa/fafsa](https://studentaid.ed.gov/sa/fafsa)
+
+打开之后会出现将学金申请页面，按照指导一步步自己的基本信息填写完，并将所需资料提前准备好（需要准备的资料参考方法1中提到的），填写完成提交后等待学校邮件通知结果就好。
+
+### 申请奖学金所需资料
+
+*  申请奖学金的文书（类似于申请学校时写的小作文，主要阐明申请奖学金的原因
+* 推荐文书（如果是因为成绩优异而申请奖学金的话，最好找老师等帮忙写个推荐信，国外学校一般都很注重推荐信里的内容）
+* 准备好自己的resume（重点突出自身优点，比如得过的奖项或参加比赛名次等）
+* 成绩单（最好提前联系自己之前的学校开好近几年的成绩证明，特别是近一年的成绩）
+
+#### 【温馨提示】
+
+* 一般奖学金申请最好在确定学校之后立马开始，因为一般学校奖学金会在本学期或学年开始前6个月开始颁发并且竞争激烈，所以越早申请越好。
+* 奖学金是根据学生的成绩或经济需要，或根据具体的奖学金项目的规定，根据两者的结合而颁发的。
 
 ## Schreyer Honors College 荣誉学院申请
 
