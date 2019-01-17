@@ -2,9 +2,9 @@
 
 ![](.gitbook/assets/image%20%2893%29.png)
 
-## 1.从中国飞往 SCE 中途需要转机么? 在哪里转? 转几趟? 整个行程多少小时? 晚点怎么办?睡哪? 那种方案最好?
+## 1.从中国飞往 SCE（学校当地机场） 中途需要转机吗? 在哪里转? 转几趟? 整个行程多少小时? 晚点怎么办?睡哪? 哪种方案最好?
 
-大部分需要转机， SCE 是个小型机场，进入美国后需在中转地换乘小型飞机然飞往 SCE。转机地点: San Francisco,New York, Detroit, Washington, Philadelphia等。转机次数因人而异，次数越多机票越便宜。
+大部分航班需要转机。SCE（全称：University Park, 又称大学公园机场） 是个小型机场，进入美国后需在中转地换乘小型飞机然飞往 SCE。转机地点: San Francisco,New York, Detroit, Washington, Philadelphia等。转机次数因人而异，次数越多机票越便宜。
 
 在入境地点（到达的第一个美国机场）办理入关手续。需出示机票、护照、I20和相关文件。 其他转机需再出示 I-20 、机票和护照。
 
