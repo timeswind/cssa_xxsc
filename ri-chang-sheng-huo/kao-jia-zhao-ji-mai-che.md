@@ -18,13 +18,12 @@ Learner’s permit 相当于考驾照的笔试部分抽测，在美国是一种�
 
 已经学过车，了解基本交通法规，想要在短时间内通过考试的同学，可以选择下载手机软件，通过刷题的方式，快速地掌握大部分题目。
 
-笔试需要的证明
+笔试需要的证明（列表在以下网站上[https://beaver.psu.edu/admissions/become-a-pennstater/international/drivers-license](https://beaver.psu.edu/admissions/become-a-pennstater/international/drivers-license)）
 
-### **体检报告**
+DL-180\(包括体检报告\)可在以上网站下载打印
 
-1.校内体检：在学校的Student Health Center现场预约体检（driver license physical test）或者在网上预约，当天可以拿到体检报告吗？。收费三十刀，会算在学校交学费的account里。
-
-2.校外体检：在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址： 1613 N Atherton St Suite B, State College, PA 16803）
+* 1.校内体检：在学校的Student Health Center现场预约体检（driver license physical test）或者在网上预约，当天可以拿到体检报告吗。收费三十刀，会算在学校交学费的account里，也可以用卡支付。
+* 2.校外体检：在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址： 1613 N Atherton St Suite B, State College, PA 16803）
 
 身份证明（护照，I-20或者访问学者的相应文件）
 
@@ -34,7 +33,7 @@ Learner’s permit 相当于考驾照的笔试部分抽测，在美国是一种�
 
 两份居住人姓名和地址一致的居住证明（银行信件，房租合同，水电费单，W2表格，工资单，税表，等等）
 
-现金，money order 或者支票\(假如只是办驾照就是一张$35.5）
+现金，money order 或者支票\(假如只是办驾照就是一张$30.5（2019年1月数据））
 
 Social Security Number（没有SSN的同学，需要去SSN办公室开具证明你没有SSN的证明信）
 
@@ -92,7 +91,7 @@ Social Security Number（没有SSN的同学，需要去SSN办公室开具证明�
 
 Q：一共能考几次路考？
 
-A：考一次permit，可以考三次路考。超过三次后要重新考permit。并且第一次交的路考的钱只能考三次。之后的就要再交$5考三次。
+A：考一次permit，可以考三次路考。超过三次后要重新考permit。并且第一次交的路考的钱只能考三次。之后的就要再交钱考三次。
 
 Q：我平时要上课，可以周末路考吗？
 

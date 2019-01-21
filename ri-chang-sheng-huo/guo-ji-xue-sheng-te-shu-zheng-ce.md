@@ -30,9 +30,9 @@ Social Security Number \(SSN\) 是来到美国以后最重要的身份证明，�
 
 ## 纳税和报税
 
-所有在校收入每月都将按照一定比例被预先扣税，每月的实发工资是税后工资。但由于一系列的优惠政策，实际纳税额度一般低于扣税。因此每年年初需要报税已获得上一年的多交税款的退税，一般为几百刀。需要注意的是，报税的意义不仅在于返还一定收入，同时还为报税人提供纳税记录，在以后可能会有所帮助。中美之间有一个Tax Treaty，F-1学生可获得每年5000美元收入免税的优惠政策，可以去James Elliott Building办理。
+所有在校收入每月都将按照一定比例被预先扣税，每月的实发工资是税后工资。但由于一系列的优惠政策，实际纳税额度一般低于扣税。因此每年年初需要报税已获得上一年的多交税款的退税，一般为几百刀。需要注意的是，报税的意义不仅在于返还一定收入，同时还为报税人提供纳税记录，在以后可能会有所帮助。F-1学生20小时内的在校工作不用交社保/医保税。
 
-每年的4月18日？是交前一年税表的截止日期，所谓报税就是填好税表然后在4月15号前寄出去。税表分为联邦、州和地方税三种，要寄到不同的地方。表格需要的基本信息是各种收入的数值，学生可在ESSIC\(Employee Self-service Information Center\)上查询自己的W2表，得到具体收入数值。Penn State 的DISSA每年有针对填写税表的讲座以及专人指导。第一次填的同学可以完全按照DISSA的流程，在网上预填表，然后再预约专业人士帮助填表。有经验的同学可以直接自己填，然后拿到DISSA让咨询师检查一下。
+每年的4月15日\(2019\)是交前一年税表的截止日期，所谓报税就是填好税表然后在4月15号前寄出去。税表分为联邦、州和地方税三种，要寄到不同的地方。表格需要的基本信息是各种收入的数值，学生可在ESSIC\(Employee Self-service Information Center\)上查询自己的W2表，得到具体收入数值。Penn State 的DISSA每年有针对填写税表的讲座以及专人指导。第一次填的同学可以完全按照DISSA的流程，在网上预填表，然后再预约专业人士帮助填表。有经验的同学可以直接自己填，然后拿到DISSA让咨询师检查一下。
 
 有收入的同学需要上报三种税单：
 
@@ -66,9 +66,7 @@ c\)本地税 State College Taxes
 
 前往314 Boucke 进行当面预约。
 
-尽可能自主使用Windstar NFTRsoftware 填写能够填写的税单内容。
-
-请携带 identification documents，all tax documents for 2016 and any previous years you haveavailable，和 a print-out of your Windstar form.
+尽可能自主使用Windstar NFTR software 填写能够填写的税单内容。
 
 了解更多关于 Global Connections 报税指导服务的信息请致电：814-867-2531 或访问 http://www.gc-cc.org/programs/tax-assistance/。
 
