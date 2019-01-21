@@ -35,6 +35,7 @@
   * [国际学生特殊政策](ri-chang-sheng-huo/guo-ji-xue-sheng-te-shu-zheng-ce.md)
   * [学生组织](ri-chang-sheng-huo/xue-sheng-zu-zhi.md)
 * [分校信息](fen-xiao-xin-xi/README.md)
+  * [布兰德万河Penn State Brandywine](fen-xiao-xin-xi/bu-lan-de-wan-he-penn-state-brandywine.md)
   * [哈里斯堡校区 Penn State  Harrisburg](fen-xiao-xin-xi/untitled.md)
   * [伊利校区 Penn State Erie](fen-xiao-xin-xi/yi-li-xiao-qu-penn-state-erie.md)
   * [阿宾顿校区 Penn State Abington](fen-xiao-xin-xi/e-bin-dun-xiao-qu-penn-state-abington.md)

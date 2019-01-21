@@ -138,3 +138,11 @@ GCC宾州州立大学分部成立于2016年，由一群充满激情的本科生�
 
 EPPIC的全称是English For Professional Purposes Intercultural Center，是一个为国际学生提供英语辅导的组织。EPPIC提供的帮助包括：撰写学术论文、编写学术邮件、修改Oral Presentation、写求职简历等。EPPIC联系邮箱：eppic@psu.edu，地点：201 Willard Building。
 
+## 27. Robo X 
+
+![](../.gitbook/assets/robo-x1.png)
+
+Penn State第一个华人机器人社团，也是一个让每个工程圈小伙伴交流互助的社交圈。专注于研究和学习各大机器人技能，针对ICRA和robomaster比赛进行相关培训学习。对机器人感兴趣的朋友们都可以参加，欢迎有热心零基础的朋友踊跃报名~~
+
+
+
