@@ -8,9 +8,9 @@
 
 ### University Health Service
 
-这是学校的医院，以全科医生为主，类似国内的社区医院。虽然医院不大，但是设施还是很齐全的，而且护士和医生都很友善。如果身体不适，一定要第一时间去看病。
+这是学校的医院，以全科医生为主，类似国内的社区医院。虽然医院不大，但是设施还是很齐全的，而且护士和医生都很友善。如果身体不适，一定要第一时间去看病。紧急情况外，这里是不错的第一选择。
 
-地址：438 Student Health Ctr, University Park, PA 16802
+地址：438 Student Health Ctr, University Park, PA 16802（Berkey Creamery附近，游泳池对面）
 
 网上预约地址：[http://studentaffairs.psu.edu/health/myUHS/login.shtml](http://studentaffairs.psu.edu/health/myUHS/login.shtml)
 
@@ -60,9 +60,23 @@ MedExpress Urgent Care 地址：1613 N Atherton St Suite B, State College, PA 16
 
 ### Student Insurance Office \(University Health Service\)
 
-从Fall 2017开始，学校提供给学生的医疗保险是Penn State Student Health Insurance plan \(SHIP\)，每年价格都会变，17-18的价格为$2444一年。2017新的医保政策规定国际学生必须购买在宾州注册的保险公司的产品，所以SM和ISO都不会被Student Insurance Office接受。
+从Fall 2017开始，学校提供给学生的医疗保险是Penn State Student Health Insurance plan \(SHIP\)，每年价格都会变，18-19的价格为$2619一年。2017新的医保政策规定国际学生必须购买在宾州注册的保险公司的产品，所以SM和ISO都不会被Student Insurance Office接受。
 
 注意：1.在美国看病都是要事先预约的，而且预约了几点，你就必须按时到达除非你提前一小时把预约取消了（有些特殊检查需要提前24小时，详情请见PSU UHS官方网站），否则即便是没有去看病，你还是需要付钱的。
+
+学校保险特殊服务
+
+1.Language Assistance Program
+
+如果在就医过程中遇到语言困难，请致电免费的中文语言协助服务：1-866-260-2723
+
+2.Student Assistance Program
+
+如需要咨询服务、律师建议或是财务问题解答，可以拨打1-877-862-1172（24小时，一周7天）
+
+3.UnitedHealthCare Global
+
+旅途中遇到紧急情况，可以拨打1-877-461-2273（免费）或1-410-453-6330或发送邮件到assistance@uhcglobal.com
 
 【温馨提示】
 

@@ -167,7 +167,7 @@ W
 
 注: 总的来说，寄小包裹的话，USPS 的价格是最实惠的，pick up 包裹是免费的（其他两家收费）。
 
-### State College 主要邮局
+### State **College** 主要邮局
 
 **1. USPS:**
 
@@ -191,9 +191,19 @@ W
 
 **3. FedEx:**
 
-1\) FedEx Office Print & Ship Center
+1\) FedEx Office Print & Ship Center（小四川附近）
 
 地址：101 N Atherton St，State College，PA 16801
+
+#### **学校邮寄地址**
+
+寄往residence halls的信件或包裹统一在各自的commons desk拿取，收件地址格式如下：
+
+Student's Official Name
+
+Room Number, Residence Hall Name（宿舍楼名字+Hall）
+
+University Park PA 16802（注意不要写State College）
 
 **【温馨提示】**
 

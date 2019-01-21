@@ -4,11 +4,11 @@
 
 ### 服饰鞋履
 
-**1.The Shoe Box**
+**1.People's Nation**
 
-销售多种品牌的鞋子，较多的两个牌子是UGG和New balance。
+销售女士休闲装，有T-shirt、裙子和牛仔裤等。
 
-地址：214 E College Ave,State College,PA 16801
+地址：126 E College Ave,State College,PA 16801
 
 **2.Barefoot**
 
@@ -34,21 +34,15 @@
 
 地址：426 E College Ave,State College,PA 16801
 
-**6.Dwellings**
+**6.Harpers**
 
-在Waffle Shop 旁，经常会有东西打折。
+专卖男士正装，也有部分女装。
 
-地址：358 East College Avenue State College PA,16801
+地址：224 E College Ave,State College,PA 16801
 
-**7.Harper’s Shop for Men**
+**7.Urban Outfitters**
 
-专卖男士正装。
-
-地址：114 W College Ave,State College,PA 16801
-
-**8.Urban Outfitter**
-
-Downtown最大的一家服饰店，男士和女士的衣服都有。
+Downtown最大的一家连锁服饰店，男士和女士的衣服都有。
 
 地址：234 E College Ave,State College,PA 16801
 
@@ -74,7 +68,7 @@ Downtown最大的一家服饰店，男士和女士的衣服都有。
 
 **4.Student Book Store**
 
-可以在这家书店租借书，去的时候记得带好ID卡和信用卡就可以借书了。
+卖各种penn state衣服和纪念品，也可以在这家书店租借书，去的时候记得带好ID卡和信用卡就可以借书了。
 
 **注意：**
 
@@ -106,13 +100,13 @@ Downtown最大的一家服饰店，男士和女士的衣服都有。
 
 ### 乐器
 
-**8.Connecting Point Computers**
+**8.Rainbow Music**
 
-地址：135 S Allen St State College,PA 16801
+地址：140 N Atherton St, State College,PA 16801
 
 **9.Music Mart**
 
-地址：227 E Beaver Ave State College,PA 16801
+地址：227 E Beaver Ave, State College,PA 16801
 
 ## 出行工具
 
@@ -284,9 +278,15 @@ State College最大的shopping mall。其中有Macy’s，Dunham’s Sports, Sea
 
 学校图书馆和Pollock commons 都有修理店，需要收取一定维修费用。
 
+### **Connecting Point Computer**
+
+地址：135 S Allen St, State College, PA 16801
+
 ### **P2P Computer Solutions**
 
-地址：214 E College Ave, State College, PA 16801 在downtown，收取的费用较高
+在downtown，收取的费用较高
+
+地址：214 E College Ave, State College, PA 16801
 
 Note：苹果电脑或手机坏了是最头疼的，因为State College没有Apple Store，大家最近也只能去费城或匹斯堡修理，或者寄修。
 
