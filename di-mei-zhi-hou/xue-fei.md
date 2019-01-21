@@ -4,7 +4,7 @@
 
 学姐学长以及CSSA最推荐的学费支付平台。它作为民生银行旗下的留学生付费平台，和传统方式比更适合留学生，比如直接用人名币按照当前汇率支付学费，不占用外汇额度，不受外汇限额，手续费也比较低廉。民生银行的用户可以直接在民生手机app上使用。
 
-详细信息请登录http://www.easytransfer.cn/
+详细信息请登录 [http://www.easytransfer.cn/](http://www.easytransfer.cn/) 
 
 ### 2）PNC银行
 
@@ -12,5 +12,5 @@
 
 ### 3）奖学金
 
-无论是fellowship或者是assistantship,申请过程基本都由各系的主管负责管理，学生只需要填写申请表格即可。详细的内容请咨询系内adviser。
+无论是Fellowship或者是Assistantship,申请过程基本都由各系的主管负责管理，学生只需要填写申请表格即可。详细的内容请咨询系内adviser。
 

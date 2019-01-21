@@ -16,7 +16,7 @@
 
 ### 4.买IP卡
 
-可以从Lovecard\(Loudclear公司），cmcall.com, Zaptel, ecallichina购买国际电话卡，价格相对便宜，在晚上9点之后和周末打电话回中国可以省钱。
+可以从Love Card（LoudClear公司），cmcall.com，Zaptel，eCallChina购买国际电话卡，价格相对便宜，在晚上9点之后和周末打电话回中国可以省钱。
 
 ## 美国手机套餐种类简介
 
@@ -44,7 +44,11 @@
 
 网址：[https://www.ctexcel.us](https://www.ctexcel.us)
 
-中国移动美洲公司作为在美首家推出电信移动业务的中国运营商。自2018年5月20日起，凡是Penn State的新生，用邮箱注册即可领卡。首月仅需1美元，就可享受价值29/39/49美元的高流量套餐。手机卡可以免费寄到中/美两地。在出国前一天激活手机卡，下飞机插卡即可使用，真正做到中美通讯无缝衔接。每一款套餐除了有无限美国本地通话，还包含了拨打中国等10个国家的无限国际通话。
+中国移动美洲公司作为在美首家推出电信移动业务的中国运营商，推出了CTExcel业务，除了免费赠送电话卡，还有四种价位的电话套餐可供选择:$45/m，$39/m，$29/m，$19/m. 后三种业务除了美国本地无限量的通话和短信，还拥有1000 分钟免费的中美国际通话，而$45/m的套餐，除了无限本地流量，本地通话，中美国际通话，还能免费获得一个国内的号码。这就是极具特色的一卡双号业务，让顾客在国内依然可以享受电信通信服务。
+
+ 一卡双号的特色，最具竞争力的价格，贴心的人性化的服务。选择中国电信CTExcel，选择为在美华人私人订 制的最优服务。 
+
+*  一卡双号: 拥有了虚拟中国号码后，国内的亲人可以拨打此中国号码 \(免国际长途费用\)， 轻松连接到顾客在美国本土的手机上。
 
 ### 2.AT&T
 
@@ -52,7 +56,7 @@
 
 1）Prepaid plan \(Gophone\)
 
-Perpaid plan 是AT&T最基本的套餐，以下是套餐内容:
+Prepaid plan 是AT&T最基本的套餐，以下是套餐内容:
 
 2\) Mobile share plan
 
@@ -72,11 +76,11 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 ### 3.Verizon
 
-网址：www.verizonwireless.com
+网址：[www.verizonwireless.com](www.verizonwireless.com)
 
 1）Prepaid plan
 
-与ATT 有异曲同工之妙：
+与AT&T 有异曲同工之妙：
 
 2）The More Everything plan \(Family plan\)与类似AT&T，上限为10人。
 
@@ -84,9 +88,9 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 ![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2820%29.png)
 
-3）Single Line plan \(indivitual plan\)
+3）Single Line plan \(individual plan\)
 
-无限通话短信，每月5GB流量。
+无限通话短信，每月5 GB流量。
 
 【温馨提示】
 

@@ -1,6 +1,6 @@
 # Orientation
 
-对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： 暑期ISO（ 从6月22开始），秋季大学生ISO（从8月11开始） 以及 秋季研究生ISO（从八月7开始）。
+对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： 暑期ISO（ 从6月22开始），秋季大学生ISO（从8月11开始） 以及 秋季研究生ISO（从八月7开始）。 
 
 详情咨询：[https://global.psu.edu/taxonomy/term/245](https://global.psu.edu/taxonomy/term/245)
 
@@ -12,13 +12,15 @@
 
 参加ISO可以选择住学校的临时宿舍， 也可以选择住校外酒店。 对于选择学校的临时宿舍， 新生可以在网上先预定好学校临时宿舍，每晚20刀。
 
-8月11号是ISO新生，转学生注册日，所以建议新生提早到达学校。8月11号当天，可在HUB申请PNC 银行卡和领取学生卡（请带护照，admission letter上的9个数字，i-20 和student handbook）。在8月11号你也会被分到不同的team当中进行活动，不同的team活动时间不一样， 密切关注你的student handbook，因为里面有所有的活动和行程安排。在活动中新生会熟悉学校环境和学校的规章制度。在ISO结束后会有NSO Advising Day,advisor和学生志愿者在HUB对新生进行专业及选课指导。在此期间，新生可以进行转专业的咨询。
+8月11号是ISO新生，转学生注册日，所以建议新生提早到达学校。8月11号当天，可在HUB申请PNC 银行卡和领取学生卡（请带护照，admission letter上的9个数字，i-20 和student handbook）。在8月11号你也会被分到不同的team当中进行活动，不同的team活动时间不一样， 密切关注你的student handbook，因为里面有所有的活动和行程安排。在活动中新生会熟悉学校环境和学校的规章制度。在ISO结束后会有NSO Advising Day, adviser 和学生志愿者在HUB对新生进行专业及选课指导。在此期间，新生可以进行转专业的咨询。
 
 官方信息
 
-以上信息来自主办方Global Office 官方网站上对ISO的详细介绍，所有表格链接请点击:
+以下信息来自主办方Global Office官方网站上对ISO的详细介绍，所有链接请点击: 
 
-[https://orientation.psu.edu/](https://orientation.psu.edu/)
+[https://global.psu.edu/category/international-student-orientation-iso](https://global.psu.edu/category/international-student-orientation-iso)  \(ISO\) 
+
+[https://orientation.psu.edu/up](https://orientation.psu.edu/up) （NSO）
 
 ## Orientation准备
 
@@ -34,7 +36,7 @@
 
 3）这是学校国际学生orientation的网站，有针对国际生的指导：
 
-[https://global.psu.edu/info/internationals-psu/students/international-student-orientation](https://global.psu.edu/info/internationals-psu/students/international-student-orientation)
+[https://global.psu.edu/category/international-students](https://global.psu.edu/category/international-students)
 
 ４）参加Orientation前需要准备护照、I-20、admission letter等重要文件，研究生还要带上成绩单，学位证和毕业证原件。
 
