@@ -1,15 +1,13 @@
 {
-  "name": "your-package",
+  "name": "CSSA-xssc-gitbook",
   "version": "0.0.1",
-  "description": "My very first package",
+  "description": "Penn State CSSA新手手册，后端开发：杨铭添",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No tests\" && exit 0"
+    "test": "node deploy.js && exit 0"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/user/project_name.git"
-  },
-  "author": "Michal Frystacky",
-  "license": "MIT"
+  "author": "Mingtian Yang",
+  "dependencies": {
+    "copy-dir": "^0.4.0"
+  }
 }
