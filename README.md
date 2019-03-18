@@ -1,6 +1,6 @@
 # CSSA简介
 
-![PSU CSSA](.gitbook/assets/cssa_logo_gradient.png)
+![Penn State CSSA](.gitbook/assets/cssa_logo_2019-600-600.png)
 
 ## I.概况
 
