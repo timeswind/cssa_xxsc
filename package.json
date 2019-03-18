@@ -1,6 +1,6 @@
 {
   "name": "CSSA-xssc-gitbook",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "Penn State CSSA新手手册，后端开发：杨铭添",
   "main": "index.js",
   "scripts": {
