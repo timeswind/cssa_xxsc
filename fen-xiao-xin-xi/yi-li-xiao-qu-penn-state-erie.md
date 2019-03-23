@@ -50,6 +50,27 @@ Ohio：[https://www.youtube.com/watch?v=RC2JpdNOiOg](https://www.youtube.com/wat
 
 Almy：[https://www.youtube.com/watch?v=jahqeZlFhSE](https://www.youtube.com/watch?v=jahqeZlFhSE)
 
+  
+
+
+_**修改版：**_
+
+Lawrence Hall 1. business专业上课较近。2. 有Game Room, 有游戏机，台球桌和电视。 3. 洗衣房较大，两个大的洗衣房。4. 离一个食堂（Dobbins）最近。
+
+Perry Hall 1.在学校中心的位置，去每个教学楼都很方便
+
+2. 每一层有两个洗衣房，一边一个楼有两个小的洗衣房。
+
+Niagra 1. 有一个study room，方便大家学习。2. business专业上课较近
+
+＊这三个链接是宿舍的介绍，有兴趣的小伙伴可以看看呦！
+
+**Lawrance**：https://www.youtube.com/watch?v=HxUKK\_pIT5Y
+
+**Ohio**：https://www.youtube.com/watch?v=RC2JpdNOiOg
+
+**Almy**：https://www.youtube.com/watch?v=jahqeZlFhSE
+
 ## 校外住宿
 
 校外学生比较集中的公寓主要有四个，分别为University Gates Apartment \(Ugates\),Hudson Lofts,CherryHill,和Shadow Pine。
@@ -130,6 +151,17 @@ Chopstix：也是一家日本&中国式料理，因为离学校比较近，所�
 
 ◇电话：\(814\) 616-6352
 
+  
+
+
+_**修改：**_
+
+1. Tasty Bowl: 一家四川风味的中餐馆。没有北京和长安那么知名，但是味道绝对正宗。
+
+² 地址：7400 Schultz Rd
+
+² 电话：\(814\) 860-8888
+
 ## 生活购物
 
 ### Macy’s
@@ -171,6 +203,10 @@ Mall, Erie, PA 16509
 Downtown 和 Peach Street 可能是平时学生会去的最多的地方。
 
 Peach Street离学校十五分钟车程，沃尔玛，书店，饭店，电影院都集中在PeachStreet上。
+
+_**修改：**_
+
+伊利湖：去伊利一定会去看的地方
 
 ## 天气
 

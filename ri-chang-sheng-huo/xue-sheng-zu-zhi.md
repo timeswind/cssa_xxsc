@@ -4,7 +4,7 @@
 
 ## Involvement Fair
 
-每个学期两次的Involvement fair是一个了解各个学生组织非常好的方式，每年学期初的一天，大多数社团会在HUB聚集并支起展台，向新生详细地介绍自己的社团。同学们可以去转一转，找一找自己感兴趣的社团。如果你有极好的想法希望创建一个学生组织，也可以点击[http://studentaffairs.psu.edu/hub/studentorgs/new.shtml](http://studentaffairs.psu.edu/hub/studentorgs/new.shtml)，寻找相信信息。
+每个学期两次的Involvement fair是一个了解各个学生组织非常好的方式，每年学期初的一天，大多数社团会在HUB聚集并支起展台，向新生详细地介绍自己的社团。同学们可以去转一转，找一找自己感兴趣的社团。如果你有极好的想法希望创建一个学生组织，也可以点击[https://studentaffairs.psu.edu/involvement-student-life/student-organizations/starting-organization](https://studentaffairs.psu.edu/involvement-student-life/student-organizations/starting-organization)，寻找相信信息。
 
 **以下介绍一些同学们可能感兴趣的，比较大的社团和组织，以及一些专业相关的社团。**
 
@@ -12,19 +12,19 @@
 
 网站：[https://THON.org/](https://THON.org/)
 
-THON是一个学生运营的慈善组织，为了改善有患有癌症儿童的家庭的生活。Dance Marathon这个活动是通过一些舞者46小时不停歇地跳舞来呼吁更多人关注到儿童癌症患者并为他们筹集善款，每年二月底在BJC举办。这是世界上最大的学生运营非盈利性活动，也是PSU每年最火爆的活动之一。除了这个活动，Penn State的大部分学生组织会在全年以THON的名义展开各种Alternative Fundraising 活动去筹集善款，善款将直接纳入FOUR DIAMONDS FUND基金会，并直接帮助到Pennsylvania Hershey Hospital的癌症患儿们。迄今位置，Penn State THON迄今为止已经有40年的历史了，帮助了至少3000多个癌症患儿家庭。在2017年，THON一共为癌症患儿们筹到了$10,045,478，Penn Staters给更多的癌症患儿家庭带去了温暖与希望。
+THON是一个学生运营的慈善组织，为了改善有患有癌症儿童的家庭的生活。Dance Marathon这个活动是通过一些舞者46小时不停歇地跳舞来呼吁更多人关注到儿童癌症患者并为他们筹集善款，每年二月底在BJC举办。这是世界上最大的学生运营非盈利性活动，也是PSU每年最火爆的活动之一。除了这个活动，Penn State的大部分学生组织会在全年以THON的名义展开各种Alternative Fundraising 活动去筹集善款，善款将直接纳入FOUR DIAMONDS FUND基金会，并直接帮助到Pennsylvania Hershey Hospital的癌症患儿们。迄今位置，Penn State THON迄今为止已经有40多年的历史了，帮助了至少4000多个癌症患儿家庭。在2018年，THON一共为癌症患儿们筹到了$10,151,663.93，Penn Staters给更多的癌症患儿家庭带去了温暖与希望。
 
 ![THON](../.gitbook/assets/image%20%2887%29.png)
 
 ### CSSA与THON
 
-CSSA每一年都会积极参与到THON的活动中，CSSA内部也有专门的THON Department，为中国学者提供平台直接参与到THON当中，且荣幸的成为唯一一个有资格派出THON CHAIR以及参加THON WEEKEND的中国学生会组织。每年CSSA会组织义卖，洗车，情人节礼包，以及与节日相对应的活动等来筹集善款！除此之外，也有的筹款活动，比如THON Canning，Hershey Park Tour等等。到时候微信平台会有相关推送，大家可以关注一下，感兴趣的话可以报名，积极参与到THON中来，感受PSU的文化！
+CSSA每一年都会积极参与到THON的活动中，CSSA内部也有专门的THON Department，为中国学者提供平台直接参与到THON当中，且荣幸的成为唯一一个有资格派出THON CHAIR以及参加THON WEEKEND的中国学生会组织。每年CSSA会组织义卖，洗车，情人节礼包，以及与节日相对应的活动等来筹集善款！除此之外，也有的筹款活动，比如Hershey Park Tour等等。到时候微信平台会有相关推送，大家可以关注一下，感兴趣的话可以报名，积极参与到THON中来，感受PSU的文化！
 
 ## 2.Bounce 舞团
 
 ![](../.gitbook/assets/image%20%2836%29.png)
 
-Bounce街舞社成立于2015年，包含Jazz，Hip-Hop，Breaking，Popping等多个舞种。社团每周都会开展内部团员训练，以及对所有学生公开的街舞教学课。社团会参与学校各种活动的表演，并每年举办专场演出。有基础或零基础的爱好者都可以加入。感兴趣的小伙伴可以关注一下舞团的微信公众号bounce\_psu，了解舞社最新信息。
+Bounce街舞社成立于2015年，包含Jazz，Hip-Hop，Breaking，Popping等多个舞种。社团每周都会开展内部团员训练，以及对所有学生公开的街舞教学课。社团会参与学校各种活动的表演，并每年举办专场演出。有基础或零基础的爱好者都可以加入。感兴趣的小伙伴可以关注一下舞团的微信公众号Bounce街舞社，了解舞社最新信息。
 
 ## 3.茶Institute
 

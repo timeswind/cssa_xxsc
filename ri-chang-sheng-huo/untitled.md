@@ -42,5 +42,5 @@ University Park 校区位于宾州中部的小城 State College。这个城市�
 
 **【温馨提示】**
 
-以上数据都是按照单程计算\(其中汽车速度按平均 65mile/h\)。过路费需要$15。另外，每年华人 教会都会组织一些旅游活动，包括 Go West \(加州\)，New York 以及 Florida 的 trips。也可以留意一下学校的 ISS News Letter \(PSU 邮箱中每天会收到\)，有些不错的 one day trip，由学校组织，便宜又方便。比如去纽约、华盛顿等。
+以上数据都是按照单程计算\(其中汽车速度按平均 65mile/h\)。过路费需要$15。另外，每年华人教会都会组织一些旅游活动，包括 Go West \(加州\)，New York 以及 Florida 的 trips。也可以留意一下学校的 ISS News Letter \(PSU 邮箱中每天会收到\)，有些不错的 one day trip，由学校组织，便宜又方便。比如去纽约、华盛顿等。
 

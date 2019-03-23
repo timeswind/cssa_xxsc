@@ -22,10 +22,12 @@ Learner’s permit 相当于考驾照的笔试部分抽测，在美国是一种�
 
 DL-180\(包括体检报告\)可在以上网站下载打印
 
-* 1.校内体检：在学校的Student Health Center现场预约体检（driver license physical test）或者在网上预约，当天可以拿到体检报告吗。收费三十刀，会算在学校交学费的account里，也可以用卡支付。
-* 2.校外体检：在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址： 1613 N Atherton St Suite B, State College, PA 16803）
+* 1.校内体检：在学校的Student Health Center现场预约体检（driver's license physical exam）或者在网上预约，当天可以拿到体检报告。收费三十刀，会算在学校交学费的account里，也可以用卡支付。
+* 2.校外体检：在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址：1613 N Atherton St Unit B, State College, PA 16803）
 
-身份证明（护照，I-20或者访问学者的相应文件）
+护照
+
+I-20或者访问学者的相应文件
 
 纸质I94（Google搜索 I94，进入官网获取即可打印）
 
@@ -33,9 +35,9 @@ DL-180\(包括体检报告\)可在以上网站下载打印
 
 两份居住人姓名和地址一致的居住证明（银行信件，房租合同，水电费单，W2表格，工资单，税表，等等）
 
-现金，money order 或者支票\(假如只是办驾照就是一张$30.5（2019年1月数据））
+空白支票或者money order（建议现场填金额），不接受现金
 
-Social Security Number（没有SSN的同学，需要去SSN办公室开具证明你没有SSN的证明信）
+Social Security Number（没有SSN的同学，需要去Social Security Administration开具证明你没有SSN的证明信，即SSN rejection letter）地址：Suite 2, 901 University Dr, State College, PA 16801\)
 
 注：
 
@@ -61,7 +63,7 @@ Social Security Number（没有SSN的同学，需要去SSN办公室开具证明�
 
 1）考前准备
 
-预约路考：Google搜索pa dmv，点击driver license，找到get a license,step6即可找到预约路考界面。
+预约路考：Google搜索pa dmv，点击driver license，找到get a license, step6即可找到预约路考界面。
 
 练车场推荐：一个是Parkway Plaza门前的专用练车场。现在很多专门的汽车驾校会用这个场所来练习，只有晚上和周末才开放给个人练习。另外一个是在北面Target和Kohl’s中间的闲置的停车场，地方特别宽敞，也相对安全。）
 
@@ -79,7 +81,7 @@ Social Security Number（没有SSN的同学，需要去SSN办公室开具证明�
 
 2）路考流程
 
-车停在车位后的黄线后，然后考官会让你演示各种车内指示系统操作，包括low beam,high beam,horn,left/right turn,emergency light,emergency brake等，同时也会检查你的车灯有没有故障。
+车停在车位后的黄线后，然后考官会让你演示各种车内指示系统操作，包括low beam, high beam, horn, left/right turn, emergency light, emergency brake等，同时也会检查你的车灯有没有故障。
 
 平行停车（Parallel parking）
 
