@@ -8,26 +8,7 @@
 
 ## 住宿
 
-  
-
-
 阿宾顿校区的宿舍还在建设当中，所以所有学生都必须住在校外。
-
-_**修改版：**_
-
-**住宿**
-
-学校宿舍
-
-Penn State Lions Gate Apartments
-
-² 和College Station 条件差不多，但是比较新，是去年才建成的。虽然是学校建的，但不在学校里面。到学校坐公交十分钟左右。
-
-² 地址：1001 Old York Rd, Abington, PA 19001
-
-² 电话: \(215\) 881-7300
-
-
 
 **1. College Station**
 
@@ -79,11 +60,6 @@ Penn State Lions Gate Apartments
 
 ◇电话：215-464-6900
 
-
-
-  
-
-
 **6. Towers at Wyncote**
 
 ◇Towers小区设施齐全，有健身房，网球场，室内游泳池，并向业主提供免费到septa火车站的大巴。距离费城，KOP都约在20分钟车程。有车的同学冬天可以停车库免去扫雪的困扰。不过房间价格相对偏高，适合有车
@@ -95,29 +71,6 @@ Penn State Lions Gate Apartments
 ◇地址：8470 Limekiln Pike，Wyncote, PA
 
 ◇电话：215-791-8295
-
-Note：推荐无家具的房子，带家具的价格会比较贵。
-
-
-
-  
-
-
-修改：
-
-**6. Towers at Wyncote**
-
-◇ Towers小区设施齐全，有健身房，网球场，室内游泳池，并向业主提供免费到septa火车站的大巴。距离费城，KOP都约在20分钟车程。有车的同学冬天可以停车库免去扫雪的困扰。
-
-或想养宠物的同学。
-
-◇ 网站：http://towersatwyncoteapartments.com/
-
-contact-us/
-
-◇ 地址：8470 Limekiln Pike，Wyncote, PA
-
-◇ 电话：215-791-8295
 
 Note：推荐无家具的房子，带家具的价格会比较贵。
 

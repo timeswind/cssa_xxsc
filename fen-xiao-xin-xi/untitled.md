@@ -2,26 +2,6 @@
 
 **哈里斯堡（Harrisburg）是宾夕法尼亚州首府，哈里斯堡分校位于宾夕法尼亚州南部，坐落于哈里斯堡国际机场旁边的小镇－Middletown.**
 
-\*\*\*\*
-
-#### **分校内容**
-
-2+2项目
-
-**具体内容：**Penn State 24所分校均提供大一大二学生所需的基础课程。通常分校学生都会在第二年结束分校学习生涯，通过申请转校到主校学习（在分校就读两年，在主校就读两年）
-
-，大三大四修高阶专业必修课。
-
-**转校时间和要求**：一般来说，修满进专业之前要求的必修课，并且学分在本专业要求的范围内，就可以转到主校区了。可转校时间并不固定。（每个专业都有不同的要求，详情可以咨询自己的advisor；也可以参考：https://www.
-
-registrar.psu.edu/change\_campus/change\_campus.cfm）
-
-与主校区相比：学费低一些；小班课居多；教授比较和善，给分不会很苛刻，学习压力小，氛围比较轻松，所以GPA也会高一些；社团活动不太多；
-
-**１.　哈里斯堡校区 Penn State Harrisburg**
-
-哈里斯堡（Harrisburg）是宾夕法尼亚州首府。哈里斯堡分校位于宾夕法尼亚州南部，坐落于哈里斯堡国际机场旁边的小镇－Middletown.
-
 ## Honor Program／Tutoring Center
 
 Honor Program未入学新生和已经就读的学生都可以申请，要求不同。优点：1.比同届的同学提前半个月选课。2. Honor有专门的study room，比一般图书馆的房间舒服。3.可以认识很多也是Honor的厉害的同学。缺点：1. 选Honor的课，难度相较正常课更大一些。2.每学期Honor的课，都没有太大变化，选择很少。
@@ -29,23 +9,6 @@ Honor Program未入学新生和已经就读的学生都可以申请，要求不�
 学校也有Tutorin center来帮助大家学习。Tutoring Center的Tutor们。
 
 大部分都是同龄人，当然在当tutor之前是经过考核的。他们可以帮同学们进行特定学科的答疑解惑，每个人可以在网上自己按照时间表预约，不收费。
-
-
-
-修改：
-
-  
-
-
-**Honor Program**
-
-Honor Program未入学新生和已经就读的学生都可以申请，要求不同。
-
-优点：1. 比同届的同学提前半个月选课。2. Honor有专门的study room，比一般图书馆的房间舒服。3. 可以认识很多Honor program的厉害的同学。
-
-缺点：1. 选Honor的课，难度相较正常课更大一些。2. 每学期Honor的课，都没有太大变化，选择很少。
-
-
 
 ## 校内宿舍
 
@@ -58,31 +21,6 @@ Honor Program未入学新生和已经就读的学生都可以申请，要求不�
 1.校内住宿必须购买Meal Plan（有三种选择，两千美金起，只能在校内书店食堂和小卖部消费，学期末有剩余的话不会退款）。
 
 2.大一的宿舍没有灶台，不能自己做饭。
-
-Note：如果新生希望在校内宿舍居住，一定要尽早申请。在每年的4月之后申请都会被安排在waiting list上。申请宿舍的步骤与主校区的步骤一样。
-
-修改：
-
-  
-
-
-◆ **校内宿舍**
-
-哈里斯堡校区的校内宿舍（on campus）数量有限，先到先得。
-
-在学校住宿必须购买Meal Plan（有三种选择，两千美金起，只能在校内书店食堂和小卖部消费，学期末有剩余的话不会退款）
-
-宿舍分布在两个地区。
-
-**Capital Village**：
-
-1. 离教学楼和图书馆最近的住宿，课间可以回宿舍休息，走路时间五分钟以内。
-
-2. 有多种房型选择，两人间，三人间，四人间，八人间（有特定房型，只有大二可以申请；大一的房间没有灶台）。价格两千到四千不等。（一般中国学生会选择三千刀四千一学期的房间），比校外宿舍贵。
-
-**Nittany Village**：
-
-相比离学校近的住宿区，楼里有电梯，房间里有厨房和灶台，走路到校园十几分钟。
 
 Note：如果新生希望在校内宿舍居住，一定要尽早申请。在每年的4月之后申请都会被安排在waiting list上。申请宿舍的步骤与主校区的步骤一样。
 
@@ -129,51 +67,6 @@ Note：如果新生希望在校内宿舍居住，一定要尽早申请。在每�
 其余具体的校外宿舍信息可以直接在宿舍列表中直接找到，哈里斯堡校外宿舍的列表做的比较完善，上面有各种信息，包括官网，房租，离学校的距离等。
 
 其他校外住房信息
-
-{% embed url="https://harrisburg.psu.edu/housing/off-campus-housing-listings" %}
-
-修改：
-
-  
-
-
-◆ 校外住宿
-
-**同学们可以在（harrisburg.psu.edu/housing/off-campus-housing-listings）可以找到宿舍列表。大多数中国学生会选择居住在Campus Heights， Nittany Place，Nittany Village, Village of Pineford以及 The Pointe。 前面三个是离学校主教学楼步行距离小于10分钟的纯学生公寓。大一不打算买车的同学可以考虑住在这里。但因为是纯学生公寓，所以party会相对来说多一些。Village of Pineford距离学校 5-8分钟车程，  The Pointe 距离学校10-15分钟车程，这两个比较适合有车的同学。**
-
-**１）Campus heights**
-
-地址：277 W Main St, Middletown, PA 17057
-
-网站：http://www.collegetowncommunities.com/middletownleasing/  
-
-**２）Nittany place**
-
-地址：625 N Spring St, Middletown, PA 17057
-
-网站：http://www.nittanyplace.com/
-
-**3）Village of Pineford**
-
-地址：1900 Pineford Dr, Middletown, PA 17057
-
-网站：http://www.villageofpineford.com/
-
-**4\)   Emerald Pointe Townhouse**
-
-地址：1239 Amber Lane, Harrisburg, PA 17111
-
- **5 ）School Loft**（比较少中国人住）
-
-地址：232 Ann St, Middletown, PA 17057
-
-网站：[http://www.collegetowncommunities.com/middletownleasing/](http://www.collegetowncommunities.com/middletownleasing/)
-
-以上几个校外宿舍的租约（lease）都可以在网上签定，想提前定宿舍的同学可以在提前签合同，这个时候还可以和office提出一些自己对于住房位置的要求。
-
-其余具体的校外宿舍信息可以直接在宿舍列表中直接找到，哈里斯堡校外宿舍的列表做的比较完善，上面有各种信息，包括官网，房租，离学校的距离等。
-
-**其他校外住房信息**
 
 [https://harrisburg.psu.edu/housing/off-campus-housing-listings](https://harrisburg.psu.edu/housing/off-campus-housing-listings)
 
@@ -349,20 +242,11 @@ Amtrak就是美国火车，四通八达，非常方便。Amtrak在Middletown有�
 
 Note：1. 一般会邮件通知，报名人数有限，名额先到先得。
 
-_**修改：**_
+2.都是当天往返，不收取任何车票费用，只收每人两刀，是给司机的小费。
 
-  
+3.有些时候是到达目的地后，时间完全自由安排。有些时候会带着参观特定景点，之后的时间自由安排。
 
-
-2. 都是当天往返，不收取任何车票费用，只收每人两刀，是给司机的小费。
-
-3. 有些时候是到达目的地后，时间完全自由安排。有些时候会带着参观特定景点，之后的时间自由安排。
-
-4. 除了城市，大巴出游春夏也会去周边能爬山，Zipline的公园。
-
-Note：学校活动要在https://psuharrisburg.campuslabs.com/engage/events 这个网站上登录，注册自己的信息之后，才能收到邮件提醒。
-
-### 
+4.除了城市，大巴出游春夏也会去周边能爬山，Zipline的公园。
 
 ### 学校内部的节日晚会
 
