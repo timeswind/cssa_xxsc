@@ -96,9 +96,9 @@ Almy：[https://www.youtube.com/watch?v=jahqeZlFhSE](https://www.youtube.com/wat
 
 想了解更多信息可进入如下链接。
 
-◇ The Apartment Store http://www.apartmentstore.com/
+◇ The Apartment Store [http://www.apartmentstore.com/](http://www.apartmentstore.com/)
 
-◇ Behrend http://www.psbehrend.psu.edu/
+◇ Behrend [http://www.psbehrend.psu.edu/](http://www.psbehrend.psu.edu/)
 
 ## 校内餐厅
 

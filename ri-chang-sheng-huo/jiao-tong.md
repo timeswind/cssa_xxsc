@@ -1,5 +1,7 @@
 # 交通
 
+## 自行车
+
 ## 公交（CATABUS）
 
 State College的公交系统是由CATA公司运营的，线路由字母命名，票价$2。
@@ -37,8 +39,6 @@ CATA BUS会在学校Pattee Library站点转换线路，即在 N（E），V（E�
 相当于月票或年票卡一样的卡，不限乘坐次数。一个月$79，四个月$309。在营业厅买的pass是所有线都可以坐的。还有一种公寓赠的pass则只能乘坐指定线路。
 
 ![](../.gitbook/assets/image%20%28149%29.png)
-
-
 
 ![](../.gitbook/assets/image%20%28136%29.png)
 
@@ -84,8 +84,6 @@ W
 
 连接着住宅区Heights，超市Giant，东方超市East Asian Market和学校downtown。
 
-
-
 **White Loop：**
 
 逆时针绕着校园转，经过Curtin road和Beaver Avenue。
@@ -96,7 +94,6 @@ W
 
 ![White Loop](../.gitbook/assets/image%20%2828%29.png)
 
-  
 **Blue Loop：**
 
 顺时针绕着校园转，经过Curtin road和College Avenue。
@@ -107,17 +104,11 @@ W
 
 沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC,Mount Nittany Medical Centre和Pattee Library。
 
-  
-
-
 ![Red Link](../.gitbook/assets/image%20%2871%29.png)
 
 **Green Link：**
 
 与Red Link方向相反，沿着Curtin Rd. 由东向西，连接BJC和west area。
-
-  
-
 
 ![Green Link](../.gitbook/assets/image%20%2829%29.png)
 
@@ -141,7 +132,7 @@ W
 
 ### 自行车
 
-需要先去注册自行车，注册完后才被允许在指定地方停放，注册是完全免费的。大家可以根据以下网站查询注册流程： http://transportation.psu.edu/bicycle-registration
+需要先去注册自行车，注册完后才被允许在指定地方停放，注册是完全免费的。大家可以根据以下网站查询注册流程： [http://transportation.psu.edu/bicycle-registration](http://transportation.psu.edu/bicycle-registration)
 
 ## 长途大巴
 
@@ -160,9 +151,7 @@ W
 ### 美国邮政公司
 
 1. USPS \(United States Postal Service\): [www.usps.com](http://www.usps.com)
-
 2. UPS \(United Parcel Service\): [www.ups.com](http://www.ups.com)
-
 3. FedEx: [www.fedex.com](http://www.fedex.com)
 
 注: 总的来说，寄小包裹的话，USPS 的价格是最实惠的，pick up 包裹是免费的（其他两家收费）。
@@ -208,8 +197,6 @@ University Park PA 16802（注意不要写State College）
 **【温馨提示】**
 
 1. 在学校寄信或包裹可以直接送去commons desk，但commons desk只在周一到周五早上七点到九点之间接受已经有prepaid label的包裹
-
 2. 邮票可以在邮局的柜台购买，也可以直接在邮局门口的自动售卖机购买。
-
 3. 其他服务需要到邮局办理，例如Express Mail，Priority Mail，Certified Mai\)
 
