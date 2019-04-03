@@ -56,7 +56,9 @@ Virtual Wallet
 
 ### 转账
 
-国际转账：（中国往美国）转账时需要用到Swift Code \(PNCCUS33），
+国际转账：
+
+中国往美国转账时需要用到Swift Code \(PNCCUS33），
 
 Routing Number,Account Number（开户后银行发的资料上有），PNC发卡行地址以及申请Debit Card时留下的在美国的Address。手续费根据国内各大银行的政策各不相同，但同时PNC也要收取转账手续费，$15/次。（PNC每个月可以有一次免手续费的汇入款）
 
@@ -131,12 +133,6 @@ PNC 现在有四种信用卡。第一种cash reward card可以通过不断消费
 3.在学校需要购买医疗保险，大约一年是$2619，需要
 
 在开学前办理。目前保险公司只接受money order或VISA信用卡。Free checking的支票就是money order的一种，可以在汇款到达后用free checking的支票购买，或者保证信用卡有足够的透支金额。CSSA的意见是，保证有一张信用卡够支付保险的费用，因为Penn State Policy严格规定学生没有医疗保险是不可以上课的。
-
-### 医疗保险Enrollment Deadlines：
-
-（[http://studentaffairs.psu.edu/health/services/insurance/accidentSickness.shtml](http://studentaffairs.psu.edu/health/services/insurance/accidentSickness.shtml)）
-
-注：目前这个保险是学校向国际学生统一提供的uniform insurance，在收取高额保费的同时，其承保范围更广泛，报销比例更高。目前CSSA同仁正在同保险公司及使馆留学生服务机构协调，争取为大家提供更加优惠、优质的保险产品。
 
 4.比较知名的银行如美国银行 （Bank of America）、
 

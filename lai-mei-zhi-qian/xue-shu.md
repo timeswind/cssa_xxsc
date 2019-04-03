@@ -2,15 +2,17 @@
 
 ## iStart
 
-网址：[http://istart.gp.psu.edu](http://istart.gp.psu.edu)
+网址：
+
+[http://istart.gp.psu.edu](http://istart.gp.psu.edu)
 
 ◆iStart是用来处理国际学生各种手续的网站。新生入学前要做的文件填写工作在Admission部分。换校区、专业等在I-20 or DS-2019 Requests部分。申请驾照（Driver’s License Social）/社保卡（Security Number） 则在Letter Requests部分完成。
 
 ## Lionpath 的使用
 
-◆更详细的攻略请向CSSA公众号发送Lionpath。
+◆ 更详细的攻略请向CSSA公众号发送Lionpath。
 
-◆网址：[https://lionpathsupport.psu.edu/](https://lionpathsupport.psu.edu/)
+◆ 网址：[https://lionpathsupport.psu.edu/](https://lionpathsupport.psu.edu/)
 
 ◆Lionpath 是Penn state学生用来注册选课（加/退课），缴学费，查整学期成绩，学生账户，专业毕业要求等的重要网站。每学期开始都需要在上面更新住址、紧急联系人等个人资料才可以进行选课等操作。
 
@@ -28,7 +30,7 @@
 
 4）剩下的两个部分分别是Academic Calendar和Enrollment date，分别是校历和注册日期。
 
-◆主页面上方有四个选项。分别是主页，Academics，Fiances和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
+◆ 主页面上方有四个选项。分别是主页，Academics，Fiances和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
 
 ![](../.gitbook/assets/image%20%28117%29.png)
 
@@ -113,7 +115,9 @@ Research Activities：关于学校Research的详细功能；
 
 ## Orientation网站
 
-网址：[http://orientation.psu.edu](http://orientation.psu.edu)
+网址：
+
+[http://orientation.psu.edu](http://orientation.psu.edu)
 
 看活动信息和吃住安排，做Pre-NSO Homework，在网站上完成
 
@@ -145,25 +149,25 @@ Penn State 本科所选的课程主要分为通识课\(general\)和专业课两�
 
 选课是大学生活很重要的一门技巧，选课的好坏直接影响学习质量和毕业时间。如果是大二进专业并且有GPA门槛，在大一第一年就要保持较高的GPA才能保证大二能够顺利进入心仪的专业。建议在大一第一年先选一些比较简单的General Education里的课程。
 
-每学期选课前都应该先咨询学长学姐和advisor，他们的建议是多年经验的结晶。另外学生可以在Rate My Professors\([http://www.ratemyprofessors.com](https://www.ratemyprofessors.com/)\)，上面可以找到过往学生对一些教授的评价，也是选课的重要参考。
+每学期选课前都应该先咨询学长学姐和advisor，他们的建议是多年经验的结晶。另外学生可以在Rate My Professors（[http://www.ratemyprofessors.com](https://www.ratemyprofessors.com/)），上面可以找到过往学生对一些教授的评价，也是选课的重要参考。
 
 ## 教材准备
 
-◆确定教材
+◆ 确定教材
 
 ![](../.gitbook/assets/image%20%2825%29.png)
 
 登录lionpath，在academic菜单栏下面点击enrollment，在页面上方点击my class schedule，选择想要查看的学期（例如fall 2018）。点击之后点击想要查看的课程的section number。在弹出页面的底部点击『view books』即可看到要求教材
 
-◆购买与租借
+◆ 购买与租借
 
 在美国教材非常贵，妥善选择教材购买与租借方式是非常重要的。
 
-◆电子版
+◆ 电子版
 
 可以在Bookstore\(HUB或者downtown均有\)或是通过google在一些国内外的网站上购买电子版，会比实体书便宜很多。
 
-◆实体书
+◆ 实体书
 
 去书店购买或租借，或者从HUB、Downtown的书店选购，优点是方便快捷，缺点是价格会较网上的贵些。在网上选课成功后，可以去HUB书店里的电脑旁刷一下ID Card，就会打印出一张列有所有学生需要的书的清单，根据清单要求工作人员帮忙找书即可。除了购买新书，还可以选择买Used Book或者租书，会比买新书便宜很多。
 
@@ -171,7 +175,7 @@ Penn State 本科所选的课程主要分为通识课\(general\)和专业课两�
 
 需要提醒的是，那个清单上只会列出12小时前的选课结果,所以要有最新的购书清单，必须在选课成功至少12小时后去Bookstore购书。如果在regular drop期间退课了，书店可以根据发票全额退款。但包装必须完整，不能有损坏。一旦过了正常试课期，则无法全额退款。
 
-◆从网上购买或租借
+◆ 从网上购买或租借
 
 价格会比在书店购买或租借便宜很多。有的书是international version（从印度之类的国家邮寄过来）,书是软皮封面，而且纸张质量稍差一些，但是可以忍受。如果选择租书，价格会便宜很多，学期结束后不要忘记再寄回给网站。
 
@@ -185,7 +189,7 @@ Penn State 本科所选的课程主要分为通识课\(general\)和专业课两�
 
 [http://www.half.com](http://www.half.com)
 
-◆图书馆借阅
+◆ 图书馆借阅
 
 PSU的图书馆资源丰富，大部分教授每学期都会保留几本教材，可以一次借阅两小时。如果只是偶尔要用教材的话，可以采取这种方式。具体信息可以在图书馆网站上查到。
 
@@ -239,7 +243,9 @@ Penn State致力于为学生们提供一个感受和学习不同文化的环境�
 
 进入之后会有学校奖学金的详细介绍，可以仔细阅读了解自己是否符合学校奖学金申请要求。之后点击apply，会出现较为具体的奖学金申请步骤以及问题咨询。
 
-点击FASFA，或直接搜索连接如下：[https://studentaid.ed.gov/sa/fafsa](https://studentaid.ed.gov/sa/fafsa)
+点击FASFA，或直接搜索连接如下：
+
+[https://studentaid.ed.gov/sa/fafsa](https://studentaid.ed.gov/sa/fafsa)
 
 打开之后会出现将学金申请页面，按照指导一步步自己的基本信息填写完，并将所需资料提前准备好（需要准备的资料参考方法1中提到的），填写完成提交后等待学校邮件通知结果就好。
 

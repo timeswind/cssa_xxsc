@@ -1,6 +1,8 @@
 # 住宿
 
-网址：[https://housing.psu.edu/housing-areas](https://housing.psu.edu/housing-areas)
+网址：
+
+[https://housing.psu.edu/housing-areas](https://housing.psu.edu/housing-areas)
 
 学校的宿舍楼是围绕各自的Commons形成相应的住宿区，Commons基本上可以理解为社区服务中心性质的建筑，其中包括物业、食堂、邮箱、小卖部、自习室、电脑室等服务设施。同时，Commons也有可提取现金的ATM机；在美国规定超过七天的长假期，宿舍楼将会关闭，所以学生需要提前考虑在这些假期中的住宿地点。长假期包括寒假（三 周），感恩节（9天）和春假（9天）。在长假期间学校宿舍将会断水，断电，断网，锁门。
 
@@ -8,7 +10,9 @@
 
 对于长假期（如寒假，春假和感恩节）没有去处或者有特殊情况需要留下来的同学，可以申请Break access/Holiday housing（比一般的合同多$370）。Break access 房屋选择分别是 Pollock \(Beaver,Hartranft,Mifflin\),South \(McElwain\),West \(Hamilton\) 和 East \(Brill,Miller,Young\)。申请了break access的同学将可以在假期的时候留下来。
 
-网址：[http://housing.psu.edu/break-accessholiday-housing](http://housing.psu.edu/break-accessholiday-housing)
+网址：
+
+[http://housing.psu.edu/break-accessholiday-housing](http://housing.psu.edu/break-accessholiday-housing)
 
 根据学校的规定，所有的大一新生一定要住学校宿舍，学校也会保证每一位新生有宿舍住。但是对于转学生没有这个要求。在学校发给大家的录取信息里就提到新生是可以在网上选择住宿区和房型及室友的。
 
@@ -72,5 +76,7 @@ University Club是由学校管理，研究生以及访问学者可以入住的�
 
 所有校内区域的房间都附带special living option，基本上是为帮助大家寻找志同道合的伙伴而设。
 
-详情咨询：[http://housing.psu.edu/special-living-options](http://housing.psu.edu/special-living-options)
+详情咨询：
+
+[http://housing.psu.edu/special-living-options](http://housing.psu.edu/special-living-options)
 

@@ -4,7 +4,9 @@
 
 大一新生必须要住学校的宿舍，大家一定要在来美之前通过eLiving Website，选好宿舍和食堂套餐meal plan。
 
-网址：[http://www.eliving.psu.edu](http://www.eliving.psu.edu)
+网址：
+
+[http://www.eliving.psu.edu](http://www.eliving.psu.edu)
 
 ### 1）宿舍
 
@@ -14,9 +16,9 @@
 
 住校内住宿必须买学校的meal plan。Meal plan分两部分，1385刀的基本费用（不能使用）加上可以使用的meal points。住校内宿舍的同学必须要选meal plan，有三个等级可供选择，可以在校内所有的食堂（自助性质，每餐钱数固定，无限供应各种餐点和饮品）、餐厅、咖啡馆和小卖部刷meal points。每学期结束前可以随意更改等级，但是没花完钱会在每个春季期末清零。校外住宿的同学可以自行选择是否购买meal plan  \(优点是在食堂吃比较便宜\) 。
 
-关于学校meal plan的更多消息欢迎登录 [http://foodservices.psu.edu/campus-meal-plan](http://foodservices.psu.edu/campus-meal-plan)
+关于学校meal plan的更多消息欢迎登录
 
-{% embed url="http://foodservices.psu.edu/campus-meal-plan" %}
+ [http://foodservices.psu.edu/campus-meal-plan](http://foodservices.psu.edu/campus-meal-plan)
 
 ![](../.gitbook/assets/image%20%2877%29.png)
 
@@ -30,7 +32,7 @@
 
 3）学校周边酒店。
 
-DAYS INN酒店
+#### DAYS INN酒店
 
 性价比非常好，房间非常干净，设施齐全，服务周到，环境优雅，还有游泳池，离学校很近，步行只需要 10 分钟左右。
 

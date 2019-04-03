@@ -24,13 +24,15 @@
 
 ## Orientation准备
 
-为了帮助来Penn State的同学尽早融入Penn State 校园文化，Penn State 提供了一个参加Orientation的机会。来美前没完成下列任务的同学，可以趁着Orientation期间完成。详情登陆：[https://orientation.psu.edu/up](https://orientation.psu.edu/up)
+为了帮助来Penn State的同学尽早融入Penn State 校园文化，Penn State 提供了一个参加Orientation的机会。来美前没完成下列任务的同学，可以趁着Orientation期间完成。详情登陆：
+
+[https://orientation.psu.edu/up](https://orientation.psu.edu/up)
 
 看活动信息，吃住安排，研究Pre-NSO Homework，在此网站上完成：
 
-1\)Complete Your Educational Planning Survey
+1）Complete Your Educational Planning Survey
 
-2\) Take Your ALEKS Math Assessment
+2）Take Your ALEKS Math Assessment
 
 相当于摸底测试，这是用来评估学生的综合数理化能力的测试，一共30道题，大概两到三小时的流程。除了数学，还有化学和英语的placement test（英语可以用SAT写作抵掉），成绩并不是很重要，主要为你选课做准备，关系到你能否直接选MATH 140这样的课程，必须要在去学校前完成。
 

@@ -278,15 +278,3 @@ State College范围内的所有餐馆的信息在网上都能够找到，大家�
 
 美国和中国不同，是有小费文化的。一般小费大约是在10%-25%之间，包括大部分中国餐馆，自助餐馆。除了收cash的Big Bowl，祥龙，唐龙不要小费以外。所以大家吃完一定要记得留钱哦，在那里打工的学生也是很需要你们的小费的。另外如果用OrderUp，部分餐馆也是要小费的，小费直接给送食物来的人即可。
 
-![](../.gitbook/assets/image%20%2827%29.png)
-
-![](../.gitbook/assets/image%20%28113%29.png)
-
-![](../.gitbook/assets/image%20%2889%29.png)
-
-![](../.gitbook/assets/image%20%2819%29.png)
-
-![](../.gitbook/assets/image%20%2843%29.png)
-
-![](../.gitbook/assets/image%20%28133%29.png)
-
