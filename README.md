@@ -1,5 +1,7 @@
 # CSSA简介
 
+> 电脑可以访问 book.cssapsu.cn 阅读此新生手册
+
 ![Penn State CSSA](.gitbook/assets/cssa_logo_2019-600-600.png)
 
 ## I.概况
