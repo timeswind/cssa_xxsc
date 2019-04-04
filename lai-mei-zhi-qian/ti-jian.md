@@ -8,9 +8,11 @@
 
 ### 1.准备好相关材料：
 
-登录[https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers](https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers)
+登录
 
-并打印Penn State Immunization Verification Form 
+[https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers](https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers)
+
+打印 Penn State Immunization Verification Form 
 
 [https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers](https://studentaffairs.psu.edu/health-wellness/medical-services/immunizations/immunization-forms-and-waivers)
 

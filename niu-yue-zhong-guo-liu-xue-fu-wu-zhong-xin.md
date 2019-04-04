@@ -4,7 +4,9 @@
 
 **纽约中心长期与中国驻美使（领）馆紧密合作，为广大留学人员提供专业、优质的服务。目前主要的服务有：《留学人员在线注册系统》、《学生学者医疗保险》、《学历学位认证》验证、《留学回国人员证明》、《J-1签证豁免》、《国家公派人员系统管理》等服务。**
 
-欢迎登陆纽约中心网站：[http://www.chinesehighway.com](http://www.chinesehighway.com)
+欢迎登陆纽约中心网站：
+
+[http://www.chinesehighway.com](http://www.chinesehighway.com)
 
 ## 主要留学服务项目简介
 
