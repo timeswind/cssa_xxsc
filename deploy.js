@@ -7,35 +7,44 @@ nodejieba.load({
     userDict: './jieba_split_dict.dict.utf8'
 });
 
-var pagePathDictory = {};
+
+var pageDic = {};
 var searchDictionary = {};
 var allDucomentPaths = getAllDocumentPaths();
 
 allDucomentPaths.forEach((path, index) => {
     var documentText = fs.readFileSync(path, "utf8");
     var words = splitWords(documentText)
-    pagePathDictory[index] = path
+    var title = documentText.split('\n')[0]
+    title = title.replace("# ", "")
+    pageDic[index] = [title, path]
     searchDictionary = addWordToDictionary(words, index, searchDictionary)
 })
 
 // console.log(JSON.stringify(searchDictionary))
-fs.writeFile("./page_to_path.json", JSON.stringify(pagePathDictory), function (err) {
-    if (err) {
-        return console.log(err);
-    }
-});
-fs.writeFile("./search.json", JSON.stringify(searchDictionary), function (err) {
-    if (err) {
-        return console.log(err);
-    }
-});
 
-//把图片移除隐藏文件夹
-copydir.sync("./.gitbook", "./gitbook");
+finalStep()
 
+function finalStep() {
+    fs.writeFile("./page_dic.json", JSON.stringify(pageDic), function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    });
+
+    fs.writeFile("./search.json", JSON.stringify(searchDictionary), function (err) {
+        if (err) {
+            return console.log(err);
+        }
+    });
+    //把图片移除隐藏文件夹
+    if (fs.existsSync("./.gitbook")) {
+        copydir.sync("./.gitbook", "./gitbook");
+    }
+
+}
 
 // tools
-
 function addWordToDictionary(words, documentPath, dictionary) {
     words.forEach((word) => {
         if (word in dictionary) {
