@@ -1,4 +1,4 @@
-# 各个宿舍区部分房屋规格
+# University Park 校内住宿部分房屋规格
 
 ![Pollock Hall](../.gitbook/assets/image%20%2812%29.png)
 

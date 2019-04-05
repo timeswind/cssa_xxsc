@@ -1,6 +1,6 @@
-# 住宿
+# 校内住宿
 
-网址：
+Penn State Housing官网：
 
 [https://housing.psu.edu/housing-areas](https://housing.psu.edu/housing-areas)
 
