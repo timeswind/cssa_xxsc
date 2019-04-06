@@ -82,6 +82,12 @@ NP摄影社 – Non Profit Photo Studio（非盈利摄影工作室），是为PS
 
  Instagram：**thedreamcrew666**
 
+## **UPVC**
+
+UPVC是创业者的摇篮，在这里来自不同专业的学生会在一起学习，讨论与实践产品思维。学生们将有机会学习到课程上没有但又极其重要的创业知识，并可以学以致用，把理论放在实践中，组队一起做project。最后，社员还可以与互联网专家们network。 优秀的社员也有机会获得国内外500强的实习与工作机会。
+
+![UPVC&#x793E;&#x5458;&#x5728;&#x8BA8;&#x8BBA;](../.gitbook/assets/wei-xin-tu-pian-20190405225516.jpg)
+
 ## ACMC民乐社
 
 ![](../.gitbook/assets/image%20%2899%29.png)
