@@ -1,6 +1,6 @@
 # Orientation
 
-对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： 暑期ISO（ 从6月22开始），秋季大学生ISO（从8月11开始） 以及 秋季研究生ISO（从八月7开始）。 
+对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有Orientation Leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： 暑假2019 ISO（ 6月22nd -23rd），秋季本科生 ISO（8月16th – 21th） 以及 秋季研究生ISO（8月12th – 14th开始）。
 
 详情咨询：[https://global.psu.edu/taxonomy/term/245](https://global.psu.edu/taxonomy/term/245)
 
