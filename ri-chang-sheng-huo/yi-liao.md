@@ -6,25 +6,25 @@
 
 ## 就医途径
 
-### University Health Service
+### University Health Services
 
-这是学校的医院，以全科医生为主，类似国内的社区医院。虽然医院不大，但是设施还是很齐全的，而且护士和医生都很友善。如果身体不适，一定要第一时间去看病。紧急情况外，这里是不错的第一选择。
+这是学校的医院，以全科医生为主，类似国内的社区医院。虽然医院不大，但是设施还是很齐全的，而且护士和医生都很友善。如果身体不适，一定要第一时间去看病。紧急情况外，这里是较合适的第一选择。
 
 地址：438 Student Health Ctr, University Park, PA 16802（Berkey Creamery附近，游泳池对面）
+
+营业时间：M, T, TH, F - 8 a.m. to 5 p.m.（需预约），Wednesday - 9 a.m. to 5 p.m.（需预约），Saturdays \(紧急护理，无需预约）- 11 a.m. to 3 p.m. during fall and spring semesters
 
 网上预约地址：[http://studentaffairs.psu.edu/health/myUHS/login.shtml](http://studentaffairs.psu.edu/health/myUHS/login.shtml)
 
 电话预约：814-863-0774
 
-若购买的是学校推荐的Penn State Student Health Insurance plan \(SHIP\)（自费购买的学生或者学校购买的TA/RA），每年可在University Health Service 预约一次免费的体检。虽然项目不多，但包括基本检查，如血检、妇科检查等。学校会给TA/RA买医疗保险，自己只需支付约20%的保费，但你需要填写医疗保险的申请表。 医疗保险的小册子非常重要，请保留以便日后查询。当然,最好能阅读一遍,了解有关的规定和管理办法。在校医院或者校外就病的时候，记住带上医疗保险卡（建议登录所购买的医疗保险公司官网，将保险卡电子版下载到手机上）。
+若购买的是学校推荐的Penn State Student Health Insurance plan \(SHIP\)（自费购买的学生或者学校购买的TA/RA），每年可在University Health Service 预约一次免费的体检。虽然项目不多，但包括基本检查，如血检、妇科检查等。学校会给TA/RA买医疗保险，自己只需支付约20%的保费，但你需要填写医疗保险的申请表。 医疗保险的小册子非常重要，请保留以便日后查询。当然,最好能阅读一遍,了解有关的规定和管理办法。在校医院或者校外就病的时候，记住带上医疗保险卡（建议登录所购买的医疗保险公司官网，将保险卡电子版下载到手机上）。如果你买的是学校推荐的保险，可登录[https://myaccount.uhcsr.com](https://myaccount.uhcsr.com)查看电子版保险卡。
 
 ### Mount Nittany Medical Center
 
 学校附近的综合性医院，可以乘坐RedLink前往。Mount Nittany Medical Center以专家医生为主，也有部分全科医生。建议门诊就医前往University Health Service，若有需要全科医生会转诊至Mount Nittany Medical Center。
 
 地址：1800 E Park Ave, State College, PA 16803
-
-**【温馨提示】**
 
 ## 美国急诊分类
 
@@ -52,7 +52,7 @@ MedExpress Urgent Care 地址：1613 N Atherton St Suite B, State College, PA 16
 
 [http://studentaffairs.psu.edu/counseling/](http://studentaffairs.psu.edu/counseling/)
 
-一些比较常见的咨询问题有焦虑，抑郁，人机关系紧张（朋友，室友或家庭等），难以放松或难以集中学习，厌食症，性侵犯和性虐待的恢复，对个人的价值观产生怀疑和对信仰的怀疑。 在线提供放松的资源作为学生最重要的是要照顾好自己。所以网站上提供了一些有价值的资源，可使同学们得到放松和减轻压力的效果。了解压力是如何影响健康和生活，可以通过PSU学生事务EDGE网络研讨会，寻找一些自救策略（需要PSU的登录）。也可查看其他教师同学们减压的资源，其中包括引导，念冥，放松的心灵治疗SPA。
+一些比较常见的咨询问题有焦虑、抑郁、人际关系紧张（朋友，室友或家庭等）、难以放松或难以集中学习、厌食症、性侵犯和性虐待的恢复、对个人的价值观产生怀疑和对信仰的怀疑。 在线提供放松的资源作为学生最重要的是要照顾好自己。所以网站上提供了一些有价值的资源，可使同学们得到放松和减轻压力的效果。了解压力是如何影响健康和生活，可以通过PSU学生事务EDGE网络研讨会，寻找一些自救策略（需要PSU的登录）。也可查看其他教师同学们减压的资源，其中包括引导、念冥、放松的心灵治疗SPA。
 
 性骚扰和暴力的咨询热线：这是一条用于帮助受害者和发现暴力或性骚扰的人的热线。这些训练有素的热线辅导员会帮助学生获得相应的资源。在任何校园（无论主校，分校）宾夕法尼亚州立大学的学生可以拨打1-800-550-7575（TTY 866-714-7177）每天24小时工作，全天可拨打的热线。
 
@@ -66,15 +66,15 @@ MedExpress Urgent Care 地址：1613 N Atherton St Suite B, State College, PA 16
 
 学校保险特殊服务
 
-1.Language Assistance Program
+1. Language Assistance Program
 
-如果在就医过程中遇到语言困难，请致电免费的中文语言协助服务：1-866-260-2723
+如果在就医过程中遇到语言困难，可以拨打免费的中文协助服务电话：1-866-260-2723
 
-2.Student Assistance Program
+2. Student Assistance Program
 
 如需要咨询服务、律师建议或是财务问题解答，可以拨打1-877-862-1172（24小时，一周7天）
 
-3.UnitedHealthCare Global
+3. UnitedHealthCare Global
 
 旅途中遇到紧急情况，可以拨打1-877-461-2273（免费）或1-410-453-6330或发送邮件到assistance@uhcglobal.com
 

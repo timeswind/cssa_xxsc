@@ -37,7 +37,7 @@ I-20或者访问学者的相应文件
 
 空白支票或者money order（建议现场填金额），不接受现金
 
-Social Security Number（没有SSN的同学，需要去Social Security Administration开具证明你没有SSN的证明信，即SSN rejection letter）地址：Suite 2, 901 University Dr, State College, PA 16801\)
+Social Security Number（没有SSN的同学，需要去Social Security Administration开具证明你没有SSN的证明信，即SSN rejection letter。地址：Suite 2, 901 University Dr, State College, PA 16801\)
 
 注：
 
@@ -65,7 +65,7 @@ Social Security Number（没有SSN的同学，需要去Social Security Administr
 
 预约路考：Google搜索pa dmv，点击driver license，找到get a license, step6即可找到预约路考界面。
 
-练车场推荐：一个是Parkway Plaza门前的专用练车场。现在很多专门的汽车驾校会用这个场所来练习，只有晚上和周末才开放给个人练习。另外一个是在北面Target和Kohl’s中间的闲置的停车场，地方特别宽敞，也相对安全。）
+练车场推荐：一个是Parkway Plaza门前的专用练车场。现在很多专门的汽车驾校会用这个场所来练习，只有晚上和周末才开放给个人练习。另外一个是在北面Target和Kohl’s中间的闲置的停车场，地方特别宽敞，也相对安全。
 
 路考需要的材料：learner’s permit，驾驶考试车辆者的驾照，车辆的insurance和registration。
 

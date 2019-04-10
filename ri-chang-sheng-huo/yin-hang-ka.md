@@ -2,7 +2,7 @@
 
 ## Debit Card（类似国内借记卡）
 
-## **学校官方合作银行PNC Bank**
+### **学校官方合作银行PNC Bank**
 
 网站：[www.pnc.com](http://www.pnc.com)
 
@@ -24,7 +24,7 @@ PNC银行或HUB \(有ATM\)，也可以在orientation签到时PNC的柜台直接�
 
 2\)填写申请。
 
-3\)预留签字并设置密码（pin）。
+3\)预留签字并设置密码（PIN）。
 
 Note: 美国的信用体系使得日常消费中签字比密码更具有效力，姓名拼音简单的同学不妨先设计一个不容易模仿的签名。
 
@@ -44,7 +44,7 @@ Note: 美国的信用体系使得日常消费中签字比密码更具有效力�
 
 有很少的利息，可以从取款机上体现，但不能开支票，支取现金要通银行。
 
-Virtual Wallet
+### Virtual Wallet
 
 开户之后一般会同时开通Virtual Wallet，可以下载此App，以便于随时跟踪自己的消费记录。
 
@@ -58,9 +58,7 @@ Virtual Wallet
 
 国际转账：
 
-中国往美国转账时需要用到Swift Code \(PNCCUS33），
-
-Routing Number,Account Number（开户后银行发的资料上有），PNC发卡行地址以及申请Debit Card时留下的在美国的Address。手续费根据国内各大银行的政策各不相同，但同时PNC也要收取转账手续费，$15/次。（PNC每个月可以有一次免手续费的汇入款）
+中国往美国转账时需要用到Swift Code \(PNCCUS33）, Routing Number, Account Number（开户后银行发的资料上有），PNC发卡行地址以及申请Debit Card时留下的在美国的Address。手续费根据国内各大银行的政策各不相同，但同时PNC也要收取转账手续费，$15/次。（PNC每个月可以有一次免手续费的汇入款）
 
 国内转账：收到汇入款项，会有$15/次的手续费。汇出款项，会有$30/次的手续费。（在手机上进行转账要另外收取$15/次的手续费）
 
@@ -70,27 +68,27 @@ Routing Number,Account Number（开户后银行发的资料上有），PNC发卡
 
 ### 推荐信用卡
 
-1.Discover It
+1. Discover It
 
 最好申请的信用卡（可网申），无年费，刷卡有1%-5%不等的返现。有开卡奖励（$75），好学生（GPA高于3.0）奖励。对于使用信用卡的同学是不错的选择。
 
-2.Citizens Bank
+2. Citizens Bank
 
 这是相对比较有名，也是取款机和网点比较多的一家。Citizens Bank目前有两种信用卡。第一种是Cash Back Plus World Mastercard，每次购物有1.8%现金返还。第二种是Clear Value Mastercard，年利率根据不同的信誉度可分为14.49%，18.49%，22.49%。两种信用卡均没有年费，可网上申请。
 
-3.PNC Bank
+3. PNC Bank
 
 PNC 现在有四种信用卡。第一种cash reward card可以通过不断消费获得更多的金钱返还。第二种PNC Core则是低利息借贷卡。第三种PNC point可以积累更多信用。最后一种PNC traveler则是针对旅游飞行多的消费者推行更多优惠。 所有卡不需要年费。
 
-4.Chase Freedom/Amazon
+4. Chase Freedom/Amazon
 
 这个卡的审查时间长，被拒的几率相对较高，建议在美国呆一年以上在申请会比较有利。每次购物都有1%返利，有些时候会有5%返利。返利是积分形式，可以随时冲到信用卡里面还账。值得一提的是，Amazon的信用卡也是由Chase管理，开通后30刀的立刻返利，返现力度和Chase类似。
 
-5.Bank of America
+5. Bank of America
 
 无年费。优惠返现政策：每次购物1%，生活用品2%，汽油3%。此外，他们还为旅行者定制了信用卡，全球范围内没有手续费。
 
-6.American Express
+6. American Express
 
 无年费。开通行之后三个月内消费超过1000美元立返100美元。此外，该公司在以下方面有所涉猎：旅游服务、综合性财务、金融投资及信息处理。所以在这些方面会有一些优惠政策或是返利活动。
 
@@ -98,7 +96,7 @@ PNC 现在有四种信用卡。第一种cash reward card可以通过不断消费
 
 ◇ 信用卡的申请关键条件是需要拿到SSN。
 
-◇ 申请的信用卡尽量找没有年费（Annual Fee）的，就是说一分钱不用掏，最好还能捞些好处的那种。很多卡都是这样，只要你看仔细了。包括上面提到的Credit Union VISA,AMERICAN EXPRESS for Students and Dicover \(Blue Card for students\) 。
+◇ 申请的信用卡尽量找没有年费（Annual Fee）的，就是说一分钱不用掏，最好还能捞些好处的那种。很多卡都是这样，只要你看仔细了。包括上面提到的Credit Union VISA, AMERICAN EXPRESS for Students and Discover \(Blue Card for students\) 。
 
 ◇ 申请时填表的技巧也不可忽略，以下几项可为参考：
 
