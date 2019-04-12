@@ -32,7 +32,7 @@
 
 17 Battery Place,Suite 929
 
-New York,NY 10004
+New York, NY 10004
 
 电话：212-835-5520；212-835-5526
 
