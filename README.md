@@ -19,16 +19,16 @@ Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结�
 
 ### 10个部门
 
-* 宣传部\(Communication Department\)
-* 财务部\(Treasury Department\)
-* 活动策划部\(Culture Event Department\)
-* 文体娱乐部\(Recreation & Sport Department\)
-* 学术发展部\(Intellectual Development Department\)
-* 公共关系部\(Public Relation Department\)
-* 人力资源部\(Human Resource Department\)
-* 网络部\(Web Team Department\)
-* THON 部\(THON Department\)
-* 研究生部（Graduate Student Department）
+* 宣传部 \(Communication Department\)
+* 财务部 \(Treasury Department\)
+* 活动策划部 \(Culture Event Department\)
+* 文体娱乐部 \(Recreation & Sport Department\)
+* 学术发展部 \(Intellectual Development Department\)
+* 公共关系部 \(Public Relation Department\)
+* 人力资源部 \(Human Resource Department\)
+* 网络部 \(Web Team Department\)
+* THON 部 \(THON Department\)
+* 研究生部 \(Graduate Student Department\)
 
 每个部门由部长、副部长及 Officer 组成，分工协作完成各项活动。
 
@@ -38,53 +38,45 @@ Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结�
 
 ## 宾夕法尼亚州立大学中国学生学者联合会主席团及部长团成员
 
-### 2018-2019
+### 2019-2020
 
-![&#x7AE0;&#x5B63;&#x6F9C;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D;](.gitbook/assets/image%20%2816%29.png)
+![&#x8303;&#x79CB;&#x6668;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D; ](.gitbook/assets/fan.jpg)
 
-![&#x949F;&#x5A31;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x79D8;&#x4E66;&#x957F;](.gitbook/assets/image%20%2810%29.png)
+![&#x5218;&#x777F;&#x54F2;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x672C;&#x79D1;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/liu-rui-zhe.jpg)
 
-![&#x5F20;&#x777F;&#x6CFD;  &#x5BA3;&#x4F20;&#x90E8; \| &#x603B;&#x76D1;](.gitbook/assets/image%20%2818%29.png)
+![&#x7EAA;&#x6587;&#x55BB;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x79D8;&#x4E66;&#x957F;](.gitbook/assets/img_4725.JPG)
 
-![&#x90ED;&#x6587;&#x6D69;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28102%29.png)
+![&#x9B4F;&#x4E00;&#x9E23;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4726.JPG)
 
-![&#x5468;&#x5E73;&#x5B87;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28130%29.png)
+![&#x674E;&#x7965;&#x745C;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4727.JPG)
 
-![&#x7F57;&#x6DFB;&#x7545;  &#x5BA3;&#x4F20;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28119%29.png)
+![&#x738B;&#x5929;&#x5A07;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4728.JPG)
 
-![&#x738B;&#x8363;&#x4ED5;  &#x7F51;&#x7EDC;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2844%29.png)
+![&#x6797;&#x6B23;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4729.JPG)
 
-![&#x6731;&#x76CA;&#x5E7F;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28110%29.png)
+![&#x767D;&#x777F;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/img_4730.JPG)
 
-![&#x4EFB;&#x6587;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x7814;&#x7A76;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28115%29.png)
+![Renee  THON&#x90E8; \| THON CHAIR](.gitbook/assets/img_4731.JPG)
 
-![&#x8303;&#x79CB;&#x6668;  &#x5BA3;&#x4F20;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2849%29.png)
+![&#x5E84;&#x5F71;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4732.JPG)
 
-![&#x5F90;&#x9759;&#x6021;  &#x7F51;&#x7EDC;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2881%29.png)
+![  &#x6768;&#x666F;&#x96C4;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4733.JPG)
 
-![&#x738B;&#x60DF;&#x626C;  &#x8D22;&#x52A1;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%281%29.png)
+![&#x9ECE;&#x601D;&#x6B23;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4734.JPG)
 
-![&#x5218;&#x9E4F;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28125%29.png)
+![&#x5F20;&#x7389;&#x5353;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4735.JPG)
 
-![&#x674E;&#x660E;&#x6CFD;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2897%29.png)
+![&#x5F20;&#x6587;&#x521D;  &#x8D22;&#x52A1;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4736.JPG)
 
-![&#x5F20;&#x6587;&#x8F69;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28126%29.png)
+![&#x9EC4;&#x9896;&#x6167;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4737.JPG)
 
-![&#x5E84;&#x5F71;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2874%29.png)
+![&#x5F20;&#x9759;&#x6668;  &#x7F51;&#x7EDC;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4738.JPG)
 
-![&#x9648;&#x601D;&#x4F73;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2892%29.png)
+![&#x6768;&#x94ED;&#x6DFB;  &#x5BA3;&#x4F20;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4739.JPG)
 
-![&#x949F;&#x6653;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28105%29.png)
+![&#x5218;&#x5609;&#x4E0A;  &#x5BA3;&#x4F20;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4740.JPG)
 
-![&#x6731;&#x8FEA;&#x626C;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28103%29.png)
+![&#x8D3E;&#x8BD7;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/img_4741.JPG)
 
-![&#x5218;&#x777F;&#x54F2;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28132%29.png)
-
-![&#x90A2;&#x6B63;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%2876%29.png)
-
-![&#x5F20;&#x96E8;&#x6674;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2814%29.png)
-
-![&#x5218;&#x5176;&#x950B;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28109%29.png)
-
-![&#x8D3E;&#x8BD7;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%2895%29.png)
+![  &#x6768;&#x71D5;&#x6797;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/img_4742.JPG)
 
