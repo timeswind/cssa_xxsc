@@ -4,15 +4,15 @@
 
 State College的公交系统是由CATA公司运营的，线路由字母命名，票价$2。
 
-![](../.gitbook/assets/image%20%28128%29.png)
+![](../.gitbook/assets/02e3738f-43d8-4cc0-baf4-eaeffbc6b102.png)
 
 ### 线路类型
 
-#### 1.Centre Line
+#### 1. Centre Line
 
 基本覆盖了各主要居住区，商场及其他必要的场所。由于 State College是围绕 Penn State建设的，所以绝大多数的线路都会经过学校。
 
-#### 2.LOOP/LINK
+#### 2. LOOP/LINK
 
 LOOP包括方向相反的两条环线BLUE LOOP和WHITE LOOP。LINK包括 以东西方向贯穿校园的GREEN LINK和RED LINK。途径campus和downtown大部分地区。这些线路都可以免费搭乘。
 
@@ -68,11 +68,11 @@ N
 
 V
 
-V线是去Wal-Mart,BestBuy,Staples和Trader Joe’s购物的不二之选。另外会经过State College Court,Nittany Crossing,the Pointe,Lions Crossing,Vairo Village,Copper Beach Oakwood等多个住宅区。
+V线是去Wal-Mart, BestBuy, Staples和Trader Joe’s购物的不二之选。另外会经过State College Court, Nittany Crossing, the Pointe,Lions Crossing, Vairo Village,Copper Beach Oakwood等多个住宅区。
 
 R
 
-贯穿小镇南面区域的公交线路，连接了很多住宅区域，像Parkway Plaza,Nittany Garden等，还有很多吃的地方，如 Fuji & Jade Garden, Pizza Hut等等。
+贯穿小镇南面区域的公交线路，连接了很多住宅区域，像Parkway Plaza, Nittany Garden等，还有很多吃的地方，如 Fuji & Jade Garden, Pizza Hut等等。
 
 UT
 
@@ -100,7 +100,7 @@ W
 
 **Red Link：**
 
-沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC,Mount Nittany Medical Centre和Pattee Library。
+沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC, Mount Nittany Medical Centre和Pattee Library。
 
 ![Red Link](../.gitbook/assets/image%20%2875%29.png)
 

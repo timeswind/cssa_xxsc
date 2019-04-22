@@ -3,7 +3,9 @@
 ### 美国邮政公司
 
 1. USPS \(United States Postal Service\): [www.usps.com](http://www.usps.com)
+
 2. UPS \(United Parcel Service\): [www.ups.com](http://www.ups.com)
+
 3. FedEx: [www.fedex.com](http://www.fedex.com)
 
 注: 总的来说，寄小包裹的话，USPS 的价格是最实惠的，pick up 包裹是免费的（其他两家收费）。
@@ -12,27 +14,27 @@
 
 **1. USPS:**
 
-**1\) US Post Office（on campus，HUB旁边）**
+**1\) US Post Office**（on campus，HUB旁边）
 
 地址：54 McAllister St, State College, PA 16802
 
-**2\) US Post Service（小四川附近）**
+**2\) US Post Service**（小四川附近）
 
 地址：237 S Fraser St, State College, PA 16801
 
 **2. UPS:**
 
-**1\) The UPS Store（学校南边）**
+**1\) The UPS Store**（学校南边）
 
 地址：Hamilton Square Shopping Center, 210 W Hamilton Ave, State College, PA 16801
 
-**2\) The UPS Store （Wegmans附近）**
+**2\) The UPS Store** （Wegmans附近）
 
 地址：19 Colonnade Way \#117, State College, PA 16803
 
 **3. FedEx:**
 
-1\) FedEx Office Print & Ship Center（小四川附近）
+**1\) FedEx Office Print & Ship Center**（小四川附近）
 
 地址：101 N Atherton St, State College, PA 16801
 

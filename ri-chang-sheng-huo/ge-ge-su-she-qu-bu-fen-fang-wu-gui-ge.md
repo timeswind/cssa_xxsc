@@ -1,5 +1,9 @@
 # University Park 校内住宿部分房屋规格
 
+最新信息参考Penn State Living官网
+
+[https://housing.psu.edu/housing-areas](https://housing.psu.edu/housing-areas)
+
 ![Pollock Hall](../.gitbook/assets/image%20%2812%29.png)
 
 ![South Hall](../.gitbook/assets/image%20%28146%29.png)
