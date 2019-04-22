@@ -82,7 +82,7 @@
 
 ### １）GotoBus
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28118%29.png)
 
 网站：[http://www.gotobus.com](http://www.gotobus.com)
 
@@ -90,7 +90,7 @@
 
 ### ２）Megabus
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 网站：
 

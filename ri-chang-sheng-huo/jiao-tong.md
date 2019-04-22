@@ -4,7 +4,7 @@
 
 State College的公交系统是由CATA公司运营的，线路由字母命名，票价$2。
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28128%29.png)
 
 ### 线路类型
 
@@ -36,9 +36,9 @@ CATA BUS会在学校Pattee Library站点转换线路，即在 N（E），V（E�
 
 相当于月票或年票卡一样的卡，不限乘坐次数。一个月$79，四个月$309。在营业厅买的pass是所有线都可以坐的。还有一种公寓赠的pass则只能乘坐指定线路。
 
-![](../.gitbook/assets/image%20%28149%29.png)
+![](../.gitbook/assets/image%20%28157%29.png)
 
-![](../.gitbook/assets/image%20%28136%29.png)
+![](../.gitbook/assets/image%20%28143%29.png)
 
 ### 办公地点（Office）
 
@@ -56,7 +56,7 @@ Mon.- Fri. 7:30 a.m.–5:30 p.m.
 
 Sat.9:00 a.m.–1:00 p.m. & Sun Closed.
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 M
 
@@ -96,13 +96,13 @@ W
 
 顺时针绕着校园转，经过Curtin road和College Avenue。
 
-![Blue Loop](../.gitbook/assets/image%20%2888%29.png)
+![Blue Loop](../.gitbook/assets/image%20%2894%29.png)
 
 **Red Link：**
 
 沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC,Mount Nittany Medical Centre和Pattee Library。
 
-![Red Link](../.gitbook/assets/image%20%2871%29.png)
+![Red Link](../.gitbook/assets/image%20%2875%29.png)
 
 **Green Link：**
 
@@ -112,7 +112,7 @@ W
 
 ## Taxi
 
-![](../.gitbook/assets/image%20%2867%29.png)
+![](../.gitbook/assets/image%20%2871%29.png)
 
 ### 普通出租车
 

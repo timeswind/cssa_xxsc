@@ -12,13 +12,13 @@ Pollock Commons是公认的最好吃的，口碑紧随其后的是West Commons�
 
 在学校的Commons用餐的话，Guest餐费（付现金，或刷卡）最贵，Lioncash 9折，Meal Plan最便宜。
 
-![](../.gitbook/assets/image%20%28151%29.png)
+![](../.gitbook/assets/image%20%28159%29.png)
 
 ### 2.HUB
 
 有Blue Burrito, Chick-Fil-A, Burger King, Crete Chee, Mixed Greens, Sbarro, Soup&Garden, McAlister’s Deli, Starbucks, Jamba Juice,Panda Express,Hibachi-San这类的亚洲餐厅。付帐除了刷卡和现金也可以刷Meal Plan或者Lion Cash，在Hub使用Lion Cash可以打9折。
 
-![](../.gitbook/assets/image%20%28120%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 ![HUB](../.gitbook/assets/image%20%2817%29.png)
 
@@ -34,7 +34,7 @@ HUB
 
 ![](../.gitbook/assets/image%20%2824%29.png)
 
-![](../.gitbook/assets/image%20%28154%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
 ![](../.gitbook/assets/image%20%2821%29.png)
 

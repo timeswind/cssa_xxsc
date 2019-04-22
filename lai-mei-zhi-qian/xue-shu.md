@@ -20,11 +20,11 @@
 
 1）第一部分是背景图为PENN STATE 标志石狮作底的栏目。Holds陈列了在作出某种操作前必须填写的申请表和调查，是校方用来控制学生选课或者转出学校成绩单的政策。To Do List 是用来核对个人信息的。Communication 则是学校通知。
 
-![](../.gitbook/assets/image%20%2854%29.png)
+![](../.gitbook/assets/image%20%2856%29.png)
 
 2）第二部分是QuickLink，罗列了大量学生常用的页面。
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28110%29.png)
 
 3）第三，四部分是 My Class Schedule和My Grade，可以查看目前所选的课和成绩。
 
@@ -32,7 +32,7 @@
 
 ◆ 主页面上方有四个选项。分别是主页，Academics，Fiances和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
 
-![](../.gitbook/assets/image%20%28117%29.png)
+![](../.gitbook/assets/image%20%28123%29.png)
 
 ### 1）核对个人信息
 
@@ -75,7 +75,7 @@ Research Activities：关于学校Research的详细功能；
 **Canvas系统是在fall 2017 投入使用的新学习系统，用来取代旧版Angel系统。**  
 
 
-![canvas login](../.gitbook/assets/image%20%2842%29.png)
+![canvas login](../.gitbook/assets/image%20%2844%29.png)
 
 其界面新颖整洁，看屏幕左侧是主要7个功能区：
 

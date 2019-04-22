@@ -230,7 +230,7 @@ State College最大的shopping mall。其中有Macy’s，Dunham’s Sports, Sea
 
 ### **1.Yamibuy 亚米网**
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 [http://www.yamibuy.com/](http://www.yamibuy.com/)
 

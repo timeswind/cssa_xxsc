@@ -26,7 +26,7 @@ Penn State Housing官网：
 
 在学校中南部的住宿所，毗邻学校的主要健身场所White Building。由于饭堂在2011年曾经进行过现代化整改，整体的就餐环境十分优雅，而且菜式多样，是学生投票第一的饭堂；在Pollock Halls 附近坐落着一座Pollock Building，第一层为Testing Center，是不少考试科目的电脑考试地点，第二层则是巨型的电脑机房，给想要安静学习的学生提供了好的去处；Pollock Halls 的房间相比于其他halls 属于小型房间。和East Halls 相同，也是同一层使用公共洗手间。
 
-![](../.gitbook/assets/image%20%2891%29.png)
+![](../.gitbook/assets/image%20%2897%29.png)
 
 ### 3.South Halls
 
@@ -50,13 +50,13 @@ West Halls 是典型的新英格兰式的古典住宿区，属于学校最古老
 
 Simmmon Hall 坐落在South附近，是Honors College的两处据点之一。2011年夏天，全楼进行了现代化改造，一跃成为全校条件最好的宿舍楼之一。但是申请条件较为苛刻，一般供应荣誉学院的学生。
 
-![](../.gitbook/assets/image%20%28108%29.png)
+![](../.gitbook/assets/image%20%28114%29.png)
 
 ### 7.Atherton Hall
 
 Atherton Hall紧挨Downtown和White Building。本区有自己的电脑房、琴房以及厨房，充斥各类学霸的自习室是全校闻名的Zombie Room。同时荣誉学院会定期在此举办一些活动。因为离Hub极近又紧挨Downtown，附近有超市、书店、酒吧、餐厅、银行、发廊、剧院等，生活非常方便，交通极为便利。但是申请条件较为苛刻，一般供应荣誉学院的学生。
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 ### 8.Nittany Apartment
 
