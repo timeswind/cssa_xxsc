@@ -31,7 +31,7 @@
   * [交通](ri-chang-sheng-huo/jiao-tong.md)
   * [邮政](ri-chang-sheng-huo/you-zheng.md)
   * [银行卡](ri-chang-sheng-huo/yin-hang-ka.md)
-  * [购物](ri-chang-sheng-huo/gou-wu.md)
+  * [购物/超市](ri-chang-sheng-huo/gou-wu.md)
   * [课余活动](ri-chang-sheng-huo/ke-yu-huo-dong.md)
   * [医疗与保险](ri-chang-sheng-huo/yi-liao.md)
   * [考驾照及买车](ri-chang-sheng-huo/kao-jia-zhao-ji-mai-che.md)

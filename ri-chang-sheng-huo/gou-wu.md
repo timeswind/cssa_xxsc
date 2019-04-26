@@ -1,4 +1,4 @@
-# 购物
+# 购物/超市
 
 ## 生活必需品
 
@@ -200,7 +200,7 @@ State College最大的shopping mall。其中有Macy’s，Dunham’s Sports, Sea
 
 美国的超市都有免费的会员卡供大家申请,在购物时使用会员卡可以获得不少折扣。
 
-### 中国食品
+## 中国食品/亚洲超市
 
 **1.Golden Dragon Market 金龙超市（downtown）**
 
