@@ -14,5 +14,5 @@
 
 **－CSSA2018–2019届主席及部长团成员**
 
-![CSSA2018&#x2013;2019&#x5C4A;&#x4E3B;&#x5E2D;&#x53CA;&#x90E8;&#x957F;&#x56E2;&#x6210;&#x5458;](.gitbook/assets/image%20%28158%29.png)
+![CSSA2018&#x2013;2019&#x5C4A;&#x4E3B;&#x5E2D;&#x53CA;&#x90E8;&#x957F;&#x56E2;&#x6210;&#x5458;](.gitbook/assets/image%20%28160%29.png)
 

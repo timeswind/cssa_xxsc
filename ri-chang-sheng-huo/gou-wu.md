@@ -230,7 +230,7 @@ State College最大的shopping mall。其中有Macy’s，Dunham’s Sports, Sea
 
 ### **1.Yamibuy 亚米网**
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 [http://www.yamibuy.com/](http://www.yamibuy.com/)
 
@@ -292,7 +292,7 @@ Note：苹果电脑或手机坏了是最头疼的，因为State College没有App
 
 ## 家具
 
-![](../.gitbook/assets/image%20%2835%29.png)
+![](../.gitbook/assets/image%20%2836%29.png)
 
 买家具有多种途径：
 
