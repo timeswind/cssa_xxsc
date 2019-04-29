@@ -38,7 +38,7 @@
 
 美国主要有4大通讯运营商，AT&T,Verizon, Sprint 及 T-Mobile。其中AT&T在学校HUB内有设门店，方便大家随时咨询。各大运营商在及信号上略有差异。Verizon因信号强度优异，价格偏高，AT&T紧随其后，T-Mobile价格则最为低廉。近年来因中国电信在发展手机套餐业务，让在美华人拥有了更多的选择权。
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 ### 1.中国电信美洲公司
 
@@ -64,7 +64,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![Mobile share plan](../.gitbook/assets/image%20%2838%29.png)
+![Mobile share plan](../.gitbook/assets/image%20%2841%29.png)
 
 3\)合约机
 

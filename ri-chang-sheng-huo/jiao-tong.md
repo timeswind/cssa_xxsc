@@ -36,9 +36,9 @@ CATA BUS会在学校Pattee Library站点转换线路，即在 N（E），V（E�
 
 相当于月票或年票卡一样的卡，不限乘坐次数。一个月$79，四个月$309。在营业厅买的pass是所有线都可以坐的。还有一种公寓赠的pass则只能乘坐指定线路。
 
-![](../.gitbook/assets/image%20%28159%29.png)
+![](../.gitbook/assets/image%20%28165%29.png)
 
-![](../.gitbook/assets/image%20%28145%29.png)
+![](../.gitbook/assets/image%20%28151%29.png)
 
 ### 办公地点（Office）
 
@@ -56,7 +56,7 @@ Mon.- Fri. 7:30 a.m.–5:30 p.m.
 
 Sat.9:00 a.m.–1:00 p.m. & Sun Closed.
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 M
 
@@ -90,29 +90,29 @@ W
 
 建议同学们下载CATA App，要乘公交车时随时查看实时动态。
 
-![White Loop](../.gitbook/assets/image%20%2829%29.png)
+![White Loop](../.gitbook/assets/image%20%2831%29.png)
 
 **Blue Loop：**
 
 顺时针绕着校园转，经过Curtin road和College Avenue。
 
-![Blue Loop](../.gitbook/assets/image%20%2895%29.png)
+![Blue Loop](../.gitbook/assets/image%20%2899%29.png)
 
 **Red Link：**
 
 沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC, Mount Nittany Medical Centre和Pattee Library。
 
-![Red Link](../.gitbook/assets/image%20%2876%29.png)
+![Red Link](../.gitbook/assets/image%20%2880%29.png)
 
 **Green Link：**
 
 与Red Link方向相反，沿着Curtin Rd. 由东向西，连接BJC和west area。
 
-![Green Link](../.gitbook/assets/image%20%2830%29.png)
+![Green Link](../.gitbook/assets/image%20%2832%29.png)
 
 ## Taxi
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2876%29.png)
 
 ### 普通出租车
 
@@ -141,4 +141,32 @@ W
 [https://www.greyhound.com/](https://www.greyhound.com/)
 
 [http://www.gotobus.com/](http://www.gotobus.com/)
+
+## 共享单车 **Zagster**
+
+[http://bike.zagster.com/psu/](http://bike.zagster.com/psu/)
+
+![](../.gitbook/assets/image%20%2829%29.png)
+
+### **PSU**联合**Zagster**共享单车服务
+
+PSU在校生可选择加入共享单车**包年计划**（**20$/年**），便可以在校园内20余个单车站之间使用共享单车。加入包年计划后，工作日租车**一小时内**免费，超过一小时的部分按 **3$/小时** 结算。周末租车**三小时内**免费。
+
+### **租车流程：**
+
+**输入车的编码-&gt;输入动态密码-&gt;提车**
+
+![](../.gitbook/assets/image%20%28136%29.png)
+
+### **还车流程：**
+
+**锁车-&gt;挂上安全锁-&gt;在app上结束租车**
+
+如中途需要在租车站之外停车，请将单车按要求锁好。
+
+![](../.gitbook/assets/image%20%2838%29.png)
+
+### **校内单车站点**
+
+![](../.gitbook/assets/image%20%2824%29.png)
 

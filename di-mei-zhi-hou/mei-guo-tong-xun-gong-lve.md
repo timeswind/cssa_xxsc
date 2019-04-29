@@ -50,5 +50,5 @@ Family Plan卡一般一个套餐可含4-5人，4-5人共享一定数额的流量
 
 ### 扫描二维码，了解更多
 
-![](../.gitbook/assets/image%20%2855%29.png)
+![](../.gitbook/assets/image%20%2859%29.png)
 

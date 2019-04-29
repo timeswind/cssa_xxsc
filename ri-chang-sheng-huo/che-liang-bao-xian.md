@@ -110,7 +110,7 @@
 
 注：费率（具体价格以学校发布的信息为准）官网：http://transportation.psu.edu/student-parking
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 

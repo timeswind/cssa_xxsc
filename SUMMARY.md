@@ -48,4 +48,6 @@
 * [新生常见问题](xin-sheng-chang-jian-wen-ti.md)
 * [纽约中国留学服务中心](niu-yue-zhong-guo-liu-xue-fu-wu-zhong-xin.md)
 * [写在最后](xie-zai-zui-hou.md)
+* [Fun Facts](fun-facts/README.md)
+  * [黑粉相间的PennState](fun-facts/untitled.md)
 
