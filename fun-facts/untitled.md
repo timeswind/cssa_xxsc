@@ -10,7 +10,7 @@
 
 ![](../.gitbook/assets/image%20%2853%29.png)
 
-![](../.gitbook/assets/image%20%28171%29.png)
+![](../.gitbook/assets/image%20%28174%29.png)
 
 ![](../.gitbook/assets/image%20%28102%29.png)
 

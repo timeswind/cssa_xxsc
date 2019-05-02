@@ -254,7 +254,7 @@ The Pointe是V线Vairo Boulevard上的一处房子。离Walmart很近，交通�
 
 房型和价格：[http://tremontstudentliving.com/floor-plans/](http://tremontstudentliving.com/floor-plans/)
 
-![Tremont](../.gitbook/assets/image%20%28162%29.png)
+![Tremont](../.gitbook/assets/image%20%28165%29.png)
 
 **【简介】**
 
@@ -264,5 +264,5 @@ Lions Crossing是V线Vairo Boulevard上非常好的一处房子。和Nittany Cro
 
 
 
-![](../.gitbook/assets/image%20%28157%29.png)
+![](../.gitbook/assets/image%20%28160%29.png)
 

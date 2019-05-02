@@ -6,7 +6,7 @@
 
 ![Pollock Hall](../.gitbook/assets/image%20%2813%29.png)
 
-![South Hall](../.gitbook/assets/image%20%28154%29.png)
+![South Hall](../.gitbook/assets/image%20%28157%29.png)
 
   
 
@@ -16,7 +16,7 @@
   
 
 
-![North Hall](../.gitbook/assets/image%20%28131%29.png)
+![North Hall](../.gitbook/assets/image%20%28132%29.png)
 
   
 
@@ -31,12 +31,12 @@
   
 
 
-![Nittany Apartment](../.gitbook/assets/image%20%28164%29.png)
+![Nittany Apartment](../.gitbook/assets/image%20%28167%29.png)
 
   
 
 
-![Atherton Hall](../.gitbook/assets/image%20%28142%29.png)
+![Atherton Hall](../.gitbook/assets/image%20%28145%29.png)
 
   
 

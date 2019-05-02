@@ -50,7 +50,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 只收现金。强烈推荐在柜台前会有一个小白板列出来的specials。大碗公类似于国内的大型快餐店，有很多种选择，是性价比很高的中餐馆。大碗公点餐的美国大叔能够听得懂所有食物的中文名，订餐的时候告诉他中文菜名就好了。
 
-![](../.gitbook/assets/image%20%28168%29.png)
+![](../.gitbook/assets/image%20%28171%29.png)
 
 主厨推荐：红烧牛肉汤面，香干肉丝饭，鱼香烘蛋饭
 
@@ -142,7 +142,7 @@ Corner Room是State College一家非常著名的 “传统老店”，它已经�
 
 Allen Street Grill位于Corner Room的楼上。相比Corner Room，它的用餐条件更高端，餐厅内能看到很美的景色，适合周末带上自己的男女朋友来这里用餐。饮食以牛排类为主。Allen Street Grill靠窗的座位非常抢手，由于不支持预定靠窗的座位，大家记得早点过来抢座。
 
-![](../.gitbook/assets/image%20%28152%29.png)
+![](../.gitbook/assets/image%20%28155%29.png)
 
 ### 3.Red Lobster
 

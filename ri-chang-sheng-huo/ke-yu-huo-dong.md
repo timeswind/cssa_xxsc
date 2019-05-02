@@ -26,13 +26,13 @@
 
 ## 演出
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/image%20%28163%29.png)
 
 学校的 Music School 经常会有一些免费的演出，具体的时间可以参考[http://music.psu.edu/events](http://music.psu.edu/events)。此外，每学期还有一些比较著名的艺术团体来到 PSU 演出。比如俄罗斯芭蕾舞团，百老汇戏剧等。 \(详情可参考[http://www.cpa.psu.edu/](http://www.cpa.psu.edu/)\)。
 
 ## 郊游
 
-![](../.gitbook/assets/image%20%28139%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
 小镇附近还有一些 国家公园State Park \(比如 Bald Eagle State Park\)，大家周末的时候可以公园里去远足，划船和烧烤等等。还，Stone Valley是理想的观星地点可以在傍晚去看美美的日落，在漆黑的夜晚看星星（Stone Valley\)Black Moshannon State Park和更远一点的Cherry Springs State Park都可以看星星）。
 

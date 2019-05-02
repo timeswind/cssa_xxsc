@@ -14,7 +14,7 @@
 
 学校不同专业的同学们拥有不同的advisor，**大家要记得多和自己的advisor沟通哟！**学校管international student的Mrs. Yoder 相信大家都很熟悉了。Mrs. Yoder致力于帮助所有留学生适应美国的生活并帮助大家解决日常生活中的一些疑难问题。学校会时常举办活动，时不时会有保龄球之夜等活动。每周四都有coffee hour大家可以去打乒乓球，做游戏，吃点心交朋友。每年学校都会有中秋节，春节两次中国节日活动，都十分隆重，希望大家踊跃参与呦。感恩节，圣诞节Mrs. Yoder会邀请大家去她家中过节，带大家体验最地道的美式传统习俗。
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28136%29.png)
 
 ## **周边**
 
@@ -66,7 +66,7 @@ H-mart, Asian market
 
 \(717\) 885-9625
 
-![Greenspring apartment](../.gitbook/assets/image%20%28161%29.png)
+![Greenspring apartment](../.gitbook/assets/image%20%28164%29.png)
 
 ### Lofts Apartment
 

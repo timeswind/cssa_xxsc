@@ -1,6 +1,6 @@
 # 考驾照及买车
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](../.gitbook/assets/image%20%28140%29.png)
 
 ## 考驾照
 

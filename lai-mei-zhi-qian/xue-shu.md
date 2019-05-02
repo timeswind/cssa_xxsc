@@ -32,7 +32,7 @@
 
 ◆ 主页面上方有四个选项。分别是主页，Academics，Fiances和My Information。Academic部分里面会显示已经注册的课程和所有关于课程的资料。Finances部分会显示现在的bill，可以用来交学费。My Information里面会显示你的个人信息，需要随时保持更新。
 
-![](../.gitbook/assets/image%20%28129%29.png)
+![](../.gitbook/assets/image%20%28130%29.png)
 
 ### 1）核对个人信息
 
