@@ -36,25 +36,13 @@
 
 ## 手机运营商选择
 
-美国主要有4大通讯运营商，AT&T,Verizon, Sprint 及 T-Mobile。其中AT&T在学校HUB内有设门店，方便大家随时咨询。各大运营商在及信号上略有差异。Verizon因信号强度优异，价格偏高，AT&T紧随其后，T-Mobile价格则最为低廉。近年来因中国电信在发展手机套餐业务，让在美华人拥有了更多的选择权。
+美国主要有4大通讯运营商，AT&T，Verizon，Sprint 及T-Mobile。**其中AT&T在学校HUB内有设门店，方便大家随时咨询。**各大运营商在及信号上略有差异。Verizon因信号强度优异，价格偏高，AT&T紧随其后，T-Mobile价格则最为低廉。近年来因中国电信在发展手机套餐业务，让在美华人拥有了更多的选择权。
 
-![](../.gitbook/assets/image%20%2866%29.png)
-
-### 1.中国电信美洲公司
-
-网址：[https://www.ctexcel.us](https://www.ctexcel.us)
-
-中国移动美洲公司作为在美首家推出电信移动业务的中国运营商，推出了CTExcel业务，除了免费赠送电话卡，还有四种价位的电话套餐可供选择:$45/m，$39/m，$29/m，$19/m. 后三种业务除了美国本地无限量的通话和短信，还拥有1000 分钟免费的中美国际通话，而$45/m的套餐，除了无限本地流量，本地通话，中美国际通话，还能免费获得一个国内的号码。这就是极具特色的一卡双号业务，让顾客在国内依然可以享受电信通信服务。
-
- 一卡双号的特色，最具竞争力的价格，贴心的人性化的服务。选择中国电信CTExcel，选择为在美华人私人订 制的最优服务。 
-
-*  一卡双号: 拥有了虚拟中国号码后，国内的亲人可以拨打此中国号码 \(免国际长途费用\)， 轻松连接到顾客在美国本土的手机上。
-
-### 2.AT&T
+### AT&T
 
 网址：www.att.com
 
-1）Prepaid plan \(Gophone\)
+1\) Prepaid plan \(Gophone\)
 
 Prepaid plan 是AT&T最基本的套餐，以下是套餐内容:
 
@@ -64,9 +52,9 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![Mobile share plan](../.gitbook/assets/image%20%2841%29.png)
+![Mobile share plan](../.gitbook/assets/image%20%2848%29.png)
 
-3\)合约机
+3\) 合约机
 
 合约机因绑定2年合同（two-year contract）俗称合约机。其单机价格比非合约机便宜。合约期间，用户如解除绑定将被收取高额的违约金。
 
@@ -74,7 +62,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 位于Hub的门店对新生会有不同折扣（包括免除押金），详情请自行咨询。暑假还可以停机，停机之后只需每月交10刀的停机费。
 
-### 3.Verizon
+### Verizon
 
 网址：[www.verizonwireless.com](www.verizonwireless.com)
 
@@ -86,7 +74,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2821%29.png)
+![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2827%29.png)
 
 3）Single Line plan \(individual plan\)
 
@@ -99,4 +87,14 @@ Verizon是不需要押金的。
 合约机方面 Verizon 和 AT&T 仅有细微差别，详情请咨询Verizon官网：
 
 [http://www.verizonwireless.com/landingpages/cell-phone-plans/](http://www.verizonwireless.com/landingpages/cell-phone-plans/)
+
+###  中国电信美洲公司 <a id="zhong-guo-dian-xin-mei-zhou-gong-si"></a>
+
+网址：[https://www.ctexcel.us](https://www.ctexcel.us/)​‌
+
+中国移动美洲公司作为在美首家推出电信移动业务的中国运营商，推出了CTExcel业务，除了免费赠送电话卡，还有四种价位的电话套餐可供选择:$45/m，$39/m，$29/m，$19/m. 后三种业务除了美国本地无限量的通话和短信，还拥有1000 分钟免费的中美国际通话，而$45/m的套餐，除了无限本地流量，本地通话，中美国际通话，还能免费获得一个国内的号码。这就是极具特色的一卡双号业务，让顾客在国内依然可以享受电信通信服务。‌
+
+ 一卡双号的特色，最具竞争力的价格，贴心的人性化的服务。选择中国电信CTExcel，选择为在美华人私人订 制的最优服务。‌
+
+*  一卡双号: 拥有了虚拟中国号码后，国内的亲人可以拨打此中国号码 \(免国际长途费用\)， 轻松连接到顾客在美国本土的手机上。
 

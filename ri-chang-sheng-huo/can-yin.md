@@ -12,15 +12,15 @@ Pollock Commons是公认的最好吃的，口碑紧随其后的是West Commons�
 
 在学校的Commons用餐的话，Guest餐费（付现金，或刷卡）最贵，Lioncash 9折，Meal Plan最便宜。
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28199%29.png)
 
 ### 2.HUB
 
 有Blue Burrito, Chick-Fil-A, Burger King, Crete Chee, Mixed Greens, Sbarro, Soup&Garden, McAlister’s Deli, Starbucks, Jamba Juice,Panda Express,Hibachi-San这类的亚洲餐厅。付帐除了刷卡和现金也可以刷Meal Plan或者Lion Cash，在Hub使用Lion Cash可以打9折。
 
-![](../.gitbook/assets/image%20%28134%29.png)
+![](../.gitbook/assets/image%20%28156%29.png)
 
-![HUB](../.gitbook/assets/image%20%2818%29.png)
+![HUB](../.gitbook/assets/image%20%2824%29.png)
 
 HUB
 
@@ -32,9 +32,9 @@ HUB
 
 在East Halls旁边，是Penn State的特色之一。Creamery是Penn State自己运营的一家奶制品工厂，由学校的Food Science Department运营。它是全美最大的大学的食品工厂。Penn State Creamery的冰激凌在全美都享有很高的评价。很多Penn State的学生都喜欢在闲暇的时候去Creamery和朋友喝一杯Milk Shake或者品尝那里的冰激凌，这边的冰激凌价格便宜，好吃并且量足。
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2832%29.png)
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28203%29.png)
 
-![](../.gitbook/assets/image%20%2822%29.png)
+![](../.gitbook/assets/image%20%2828%29.png)
 

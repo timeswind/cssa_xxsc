@@ -12,17 +12,17 @@ University Park 校区位于宾州中部的小城 State College。这个城市�
 
 [http://www.pennscave.com/rates-schedules.php](http://www.pennscave.com/rates-schedules.php)
 
-![Cavern Tour](../.gitbook/assets/image%20%28127%29.png)
+![Cavern Tour](../.gitbook/assets/image%20%28149%29.png)
 
 Cavern Tour 是Penn's Cave的最主要的游玩项目。Penn's Cave 是全美唯一的all-water cave，也就是说，游客不能步行入洞，需要乘坐能承载10人左右的小艇进洞。整个boating tour的时间大概是一个小时左右，开船的工作人员非常亲切，会向游客讲解溶洞的形成和其他关于溶洞的有趣的事情
 
-![ Wildlife Tour ](../.gitbook/assets/image%20%28135%29.png)
+![ Wildlife Tour ](../.gitbook/assets/image%20%28157%29.png)
 
 Wildlife Tour 是Penn's Cave 的一个附属游玩项目，工作人员会安排游客坐上一辆大巴，然后驱车在附近的农场和森林。那是一片美丽的野生动物的栖息地，在那里，我们有机会和各种野生动物近距离接触！机会十分难得啊！喜欢动物的同学一定不能错过哦～
 
 ### Amish Village
 
-![Amish Village](../.gitbook/assets/image%20%28139%29.png)
+![Amish Village](../.gitbook/assets/image%20%28161%29.png)
 
 2395 Lincoln Hwy E, Lancaster, PA 17602
 

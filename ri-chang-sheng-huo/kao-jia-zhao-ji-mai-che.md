@@ -1,6 +1,6 @@
 # 考驾照及买车
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28162%29.png)
 
 ## 考驾照
 
@@ -8,7 +8,7 @@
 
 Learner’s permit 相当于考驾照的笔试部分抽测，在美国是一种可以上路练车的凭证。正式路考前必须考到Permit。然后需要在已持有驾照的21岁以上成年人坐在副驾驶的陪同下上路练车。练好之后，便可以通过网站约考普通路考了。
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ### 2.笔试
 

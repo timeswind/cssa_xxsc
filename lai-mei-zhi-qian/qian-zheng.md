@@ -1,7 +1,5 @@
 # 签证
 
-![](../.gitbook/assets/image%20%28106%29.png)
-
 **学生签证是留学生留学的第一道门槛。学生必须首先被美国学校或项目录取，才能申请学生签证。一旦录取，美国教育机构会需求申请人提供申请学生签证所需的必备材料。**  
 
 
@@ -28,6 +26,12 @@
 ９．高中成绩单、毕业证明，学生同时也需提供大学在读证明、大学成绩单及课程描述。
 
 #### 【温馨提示】
+
+**\*2019年起，SEVIS的数字位数有变化，最多有11位数字**
+
+> SEVIS ID number” in the top right-hand corner, which consists of an “alpha” character \(N\) and up to 11 numerical characters \(E.g. N0002123457\).
+>
+> [https://j1visa.state.gov/participants/how-to-apply/about-ds-2019/detailed-description-of-the-ds-2019/](https://j1visa.state.gov/participants/how-to-apply/about-ds-2019/detailed-description-of-the-ds-2019/)
 
 以上材料建议放在文件夹内，必备材料放在第一栏，其他辅助材料分栏放，并贴上标签，签证官需要时迅速拿出来。拿到录取包裹后，填写DS-160表格。
 
@@ -63,7 +67,7 @@ DS-160表格一旦提交不可修改。提交以后生成的DS-160确认页打�
 
 ４．面签时间预约好之后，可直接打印面签预约确认信，上面有预约时间，地点，注意事项等，使馆还会给你所注册的邮箱发一份，请打印下来，面签时带上。
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2869%29.png)
 
 ５．整理签证材料，准备签证问题。对于一些重要问题的回答，要说出要点。
 

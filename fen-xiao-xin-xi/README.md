@@ -1,6 +1,6 @@
 # 分校信息
 
-![Penn State Lion](../.gitbook/assets/image%20%28172%29.png)
+![Penn State Lion](../.gitbook/assets/image%20%28201%29.png)
 
 ## 分校内容
 

@@ -8,11 +8,11 @@
 
 **粉色和黑色**
 
-![](../.gitbook/assets/image%20%2853%29.png)
+![](../.gitbook/assets/image%20%2862%29.png)
 
-![](../.gitbook/assets/image%20%28174%29.png)
+![](../.gitbook/assets/image%20%28204%29.png)
 
-![](../.gitbook/assets/image%20%28102%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 ## **1890年之前我校主题色是粉色和黑色**
 
