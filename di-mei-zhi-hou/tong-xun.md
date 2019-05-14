@@ -88,13 +88,3 @@ Verizon是不需要押金的。
 
 [http://www.verizonwireless.com/landingpages/cell-phone-plans/](http://www.verizonwireless.com/landingpages/cell-phone-plans/)
 
-###  中国电信美洲公司 <a id="zhong-guo-dian-xin-mei-zhou-gong-si"></a>
-
-网址：[https://www.ctexcel.us](https://www.ctexcel.us/)​‌
-
-中国移动美洲公司作为在美首家推出电信移动业务的中国运营商，推出了CTExcel业务，除了免费赠送电话卡，还有四种价位的电话套餐可供选择:$45/m，$39/m，$29/m，$19/m. 后三种业务除了美国本地无限量的通话和短信，还拥有1000 分钟免费的中美国际通话，而$45/m的套餐，除了无限本地流量，本地通话，中美国际通话，还能免费获得一个国内的号码。这就是极具特色的一卡双号业务，让顾客在国内依然可以享受电信通信服务。‌
-
- 一卡双号的特色，最具竞争力的价格，贴心的人性化的服务。选择中国电信CTExcel，选择为在美华人私人订 制的最优服务。‌
-
-*  一卡双号: 拥有了虚拟中国号码后，国内的亲人可以拨打此中国号码 \(免国际长途费用\)， 轻松连接到顾客在美国本土的手机上。
-
