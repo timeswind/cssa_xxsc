@@ -1,16 +1,24 @@
 language: node_js
 node_js:
-- "11.12.0"
-
+- 11.12.0
 before_deploy:
 - rm -r ./node_modules
-
 deploy:
-  provider: s3
-  cache_control: "max-age=86400"
-  access_key_id: AKIAIEOS7YTGIKSU7Z7A
+- provider: s3
+  endpoint: https://oss-cn-hangzhou.aliyuncs.com
+  cache_control: max-age=86400
+  access_key_id: LTAINCPM6DeIygu0
   secret_access_key:
-    secure: bzCmpidCqO3+TlplfrJwlXqGhhXSInDHqAC2Alu4GaJgT4yhcJkRWRvYEmo/RXra4aj5zXhUQnyOJd3CMo9vxWOrUvABOHsvarfyH+q1RALqwOzYAc0FIUVcz0IocPgK1iqPVypI0CibXgltDeaQjY/kvtxBLwkqqSwzW+nxMryZa33KbXfHkwhk0FO76kZG8yLgF8N8we3VAq+CkQsIwIh4WDCzF7Ns7DzEjSr6E9STZjZ4U2jaT7A2Vq0a+JAUMIXfshfdh6cTv6sRUSJqJsJj4aQpyW1uvSAXWnfh896rs3c6w0SgRCrNhzqKLinndMkWaC2gxqzsec2mia9YD1JnK5riXDFPyNdHOcMq29BqcDzQpny2urccjTt0ruHkeASN2JhS2jhIeIeg7cMO6PYlj3MfOHQ7RarEaHtmKRRtFe2MkMuKl2BIMW1N2kOGDUtaBQdEA57vn5tHd2GQ6Uf9BAs2WSLaC1nZy6Wz8I9zqyp76RD4Ko8JXQ5P1deN98p4qccWf5rk6BOp0kStlu+Tt2h3ncCzAWROLOq8Vlb8Tj5JjW9npq+CSqzQNQ/IuxVgL3wGRHxBLqRC96dHyN/f95OpQ6trts42lCkd0xow3gPDB5rsN9KGPETzJBA9wrTmAFhqCnyGqZ0EyX9qbdqdXdbjdLXSfFTObVDTq4Q=
-  bucket: psucssa-xssc
+    secure: "B2MenFvmVxEbqnGZnDiXBAE+IxzQgY/jt5KwdNPkR5tfrJaZCy80QpZqepnlhbX9DmqnHQ5MDQKaIyagkbPl6QMpUpC7w3/bDS+XgdNatsWe75who007jMYdiA8gk9VA/D7LNKJQXlx8WZFyPD8qM3zxYDOIXTAej3TCfSpEKI+n1Szm43ljvKptvvFtLQbiOh5d97TIkOepkHptR+9ySv9Meje9N7SYQzdC6IL/dGBRHIWakiWqp+CheqJEdoys+iyb8QiEvwphCFmAXB1W3xIzr1P8UAWUSxO1rOgRiK/m8TVJV1ThxMElAM1d6JigJC0SiqJxJjQfpmhaP0uTnS9a/RlLnjW7oNaJxpYWHCvdpYia3n7EE67qCrkjnjxXhcgW2b0LQgWyt8jxEZDDfE9tjaMGMyTwAw4on4rZhwpOt/1XymKrMnWGf3RuWztwdTyMWOPrqlc3qFKRnvHdkawHo5O2IcuB7jfZ+9nb70966r7P0cshAkSIfq/9rY7DTV9DjaEMjijC1JZ2Cz1OJS3PJFq+j+BtJiDGQAvjeWuXd29jzX0SWAxB9yqL3WOaqmcPjBCjEYWa/3j92nkJLzmfEZbBCXM+AEo28EmA7JHxqX3UYy7Ql7oq6cOiFfNarjwMClqTF2S2tpKvZ93IW1n463nQyUtx+mUmA3hsKYA="
+  bucket: cssapsu
+  skip_cleanup: true
+  upload-dir: books/freshman_wiki
+- provider: s3
+  endpoint: https://oss-us-east-1.aliyuncs.com
+  cache_control: max-age=86400
+  access_key_id: LTAINCPM6DeIygu0
+  secret_access_key:
+    secure: "B2MenFvmVxEbqnGZnDiXBAE+IxzQgY/jt5KwdNPkR5tfrJaZCy80QpZqepnlhbX9DmqnHQ5MDQKaIyagkbPl6QMpUpC7w3/bDS+XgdNatsWe75who007jMYdiA8gk9VA/D7LNKJQXlx8WZFyPD8qM3zxYDOIXTAej3TCfSpEKI+n1Szm43ljvKptvvFtLQbiOh5d97TIkOepkHptR+9ySv9Meje9N7SYQzdC6IL/dGBRHIWakiWqp+CheqJEdoys+iyb8QiEvwphCFmAXB1W3xIzr1P8UAWUSxO1rOgRiK/m8TVJV1ThxMElAM1d6JigJC0SiqJxJjQfpmhaP0uTnS9a/RlLnjW7oNaJxpYWHCvdpYia3n7EE67qCrkjnjxXhcgW2b0LQgWyt8jxEZDDfE9tjaMGMyTwAw4on4rZhwpOt/1XymKrMnWGf3RuWztwdTyMWOPrqlc3qFKRnvHdkawHo5O2IcuB7jfZ+9nb70966r7P0cshAkSIfq/9rY7DTV9DjaEMjijC1JZ2Cz1OJS3PJFq+j+BtJiDGQAvjeWuXd29jzX0SWAxB9yqL3WOaqmcPjBCjEYWa/3j92nkJLzmfEZbBCXM+AEo28EmA7JHxqX3UYy7Ql7oq6cOiFfNarjwMClqTF2S2tpKvZ93IW1n463nQyUtx+mUmA3hsKYA="
+  bucket: cssapsu-us-east-1
   skip_cleanup: true
   upload-dir: books/freshman_wiki
