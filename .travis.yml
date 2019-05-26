@@ -4,15 +4,14 @@ node_js:
 before_deploy:
 - rm -rf ./node_modules
 deploy:
- - provider: s3
-   endpoint: https://oss-us-east-1.aliyuncs.com
-   cache_control: max-age=86400
-   access_key_id: LTAINCPM6DeIygu0
-   bucket: cssapsu-us-east-1
-   skip_cleanup: true
-   upload-dir: books/freshman_wiki
-   secret_access_key:
-    secure: MJcaxQvKeGW5oyWOzqW3hhjA2msdeho5ShLzfEjKF77a0Z1AWWKUDysPPVNOmPrv/do5HapFBZZSFH55+zlZTVgMAhgMb7+dCUnjnL8voCWJP0taAtBa/2OYommUNtTosXpufZfgqHhPMG726wFRePc0JPzoAiUJ0zt4fOZyk9Dwbq6PrjSqUAYFSqJjxk77i061tgV+Avw00sG+NLl7XyXV8eUypUpW1wH/c61NeOqHIEv0liEw68m0TfW6enMlmKx4s5bgPI8EGeUxdc3eyIhUaDY/SuHn3LDjfN8LHmG/wOhO4B+5sNl76R00no7WsXCyd9uwcQv0jk8ttaGFbYmEW5iSKYr61OtRbM1kjKymF32vQc8WaGB5wlEZ4SfAzaFypX9JRGEf1AkofvBj+XxeZyJjMUCQQghfO3tjpOsrrRzrdfT5HVm4AL4Nc3S1oeQqB1t3og7sS460XMU4SM+epMsIJ7wtgaEwcHvd5TxuS9xiRXxNg7fzLbmlkWoAXUIJsmDlFj+hAvjGfNUrVKZndnR4CkZCNdQfpQbjGXN6JVybTs8DPXJEjuh0uoQiIhn+ZqUgE27FG9wwk0VPLIF4kYOalXWuvDQvIyFi4PXhgv0QPCdiokvtSZzlqc78ZZzT3hzYu8r473/eIyXLN0IOullulbg3Px2SOIqQjC4=
+ -  provider: s3
+    cache_control: "max-age=86400"
+    access_key_id: AKIAIEOS7YTGIKSU7Z7A
+    secret_access_key:
+      secure: bzCmpidCqO3+TlplfrJwlXqGhhXSInDHqAC2Alu4GaJgT4yhcJkRWRvYEmo/RXra4aj5zXhUQnyOJd3CMo9vxWOrUvABOHsvarfyH+q1RALqwOzYAc0FIUVcz0IocPgK1iqPVypI0CibXgltDeaQjY/kvtxBLwkqqSwzW+nxMryZa33KbXfHkwhk0FO76kZG8yLgF8N8we3VAq+CkQsIwIh4WDCzF7Ns7DzEjSr6E9STZjZ4U2jaT7A2Vq0a+JAUMIXfshfdh6cTv6sRUSJqJsJj4aQpyW1uvSAXWnfh896rs3c6w0SgRCrNhzqKLinndMkWaC2gxqzsec2mia9YD1JnK5riXDFPyNdHOcMq29BqcDzQpny2urccjTt0ruHkeASN2JhS2jhIeIeg7cMO6PYlj3MfOHQ7RarEaHtmKRRtFe2MkMuKl2BIMW1N2kOGDUtaBQdEA57vn5tHd2GQ6Uf9BAs2WSLaC1nZy6Wz8I9zqyp76RD4Ko8JXQ5P1deN98p4qccWf5rk6BOp0kStlu+Tt2h3ncCzAWROLOq8Vlb8Tj5JjW9npq+CSqzQNQ/IuxVgL3wGRHxBLqRC96dHyN/f95OpQ6trts42lCkd0xow3gPDB5rsN9KGPETzJBA9wrTmAFhqCnyGqZ0EyX9qbdqdXdbjdLXSfFTObVDTq4Q=
+    bucket: psucssa-xssc
+    skip_cleanup: true
+    upload-dir: books/freshman_wiki
  - provider: s3
    endpoint: https://oss-cn-hangzhou.aliyuncs.com
    cache_control: max-age=86400
