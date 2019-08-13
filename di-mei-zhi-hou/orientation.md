@@ -1,8 +1,12 @@
 # Orientation
 
-对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有Orientation Leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： 暑假2019 ISO（ 6月22nd -23rd），秋季本科生 ISO（8月16th – 21th） 以及 秋季研究生ISO（8月12th – 14th开始）。
+## ISO/NSO
 
-详情咨询：[https://global.psu.edu/taxonomy/term/245](https://global.psu.edu/taxonomy/term/245)
+对于新入学的同学，学校会提供international student orientation program（以下简称ISO）。这是一个帮助国际学生融入校园文化，适应本地生活的活动。是每一个新生必须参加的活动。活动包括一系列的新生活动，有Orientation Leader指引的各种活动以及临时居住房舍。ISO 分别分为三个种类： **暑假 2019 ISO（ 6月22nd -23rd），秋季本科生 ISO（8月16th – 21th） 以及 秋季研究生ISO（8月12th – 14th开始）。**
+
+各年ISO时间以校园官网为准：
+
+[https://global.psu.edu/taxonomy/term/245](https://global.psu.edu/taxonomy/term/245)
 
 **【温馨提示】**
 
@@ -12,7 +16,7 @@
 
 参加ISO可以选择住学校的临时宿舍， 也可以选择住校外酒店。 对于选择学校的临时宿舍， 新生可以在网上先预定好学校临时宿舍，每晚20刀。
 
-8月11号是ISO新生，转学生注册日，所以建议新生提早到达学校。8月11号当天，可在HUB申请PNC 银行卡和领取学生卡（请带护照，admission letter上的9个数字，i-20 和student handbook）。在8月11号你也会被分到不同的team当中进行活动，不同的team活动时间不一样， 密切关注你的student handbook，因为里面有所有的活动和行程安排。在活动中新生会熟悉学校环境和学校的规章制度。在ISO结束后会有NSO Advising Day, adviser 和学生志愿者在HUB对新生进行专业及选课指导。在此期间，新生可以进行转专业的咨询。
+**在ISO的第一日**，建议新生提早到达学校。在orientation当天，可在HUB申请PNC 银行卡和领取学生卡（请带护照，admission letter上的9个数字，i-20 和student handbook）。你也会被分到不同的team当中进行活动，不同的team活动时间不一样， 密切关注你的student handbook，因为里面有所有的活动和行程安排。在活动中新生会熟悉学校环境和学校的规章制度。在ISO结束后会有NSO Advising Day, adviser 和学生志愿者在HUB对新生进行专业及选课指导。在此期间，新生可以进行转专业的咨询。
 
 官方信息
 
@@ -20,13 +24,13 @@
 
 [https://global.psu.edu/category/international-student-orientation-iso](https://global.psu.edu/category/international-student-orientation-iso)  \(ISO\) 
 
-[https://orientation.psu.edu/up](https://orientation.psu.edu/up) （NSO）
+[https://orientation.psu.edu](https://orientation.psu.edu/up) （NSO）
 
-## Orientation准备
+## 更多
 
 为了帮助来Penn State的同学尽早融入Penn State 校园文化，Penn State 提供了一个参加Orientation的机会。来美前没完成下列任务的同学，可以趁着Orientation期间完成。详情登陆：
 
-[https://orientation.psu.edu/up](https://orientation.psu.edu/up)
+[https://orientation.psu.edu](https://orientation.psu.edu/up)
 
 看活动信息，吃住安排，研究Pre-NSO Homework，在此网站上完成：
 
