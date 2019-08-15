@@ -1,5 +1,7 @@
 # 考驾照及买车
 
+**在美国，驾照可以作为身份证/ID使用。乘搭美国境内航班，零售（烟，酒等等）的年龄凭证都可以使用大多数州的驾照。**
+
 ![](../.gitbook/assets/image%20%28162%29.png)
 
 ## 考驾照
@@ -22,24 +24,26 @@ Learner’s permit 相当于考驾照的笔试部分抽测，在美国是一种�
 
 DL-180\(包括体检报告\)可在以上网站下载打印
 
-* 1.校内体检：在学校的Student Health Center现场预约体检（driver's license physical exam）或者在网上预约，当天可以拿到体检报告。收费三十刀，会算在学校交学费的account里，也可以用卡支付。
-* 2.校外体检：在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址：1613 N Atherton St Unit B, State College, PA 16803）
+* **1.校内体检：**在学校的Student Health Center现场预约体检（driver's license physical exam）或者在网上预约，当天可以拿到体检报告。收费三十刀，会算在学校交学费的account里，也可以用卡支付。
+* **2.校外体检：**在Med Express体检，要带护照和三十刀现金不需要预约，当天就可以拿到体检报告。\(地址：1613 N Atherton St Unit B, State College, PA 16803）
 
-护照
+**护照**
 
-I-20或者访问学者的相应文件
+**I-20或者访问学者的相应文件**
 
-纸质I94（Google搜索 I94，进入官网获取即可打印）
+**纸质I94**（Google搜索 I94，进入官网获取即可打印）
 
-学校的证明信（在istart上申请，istart.gp.psu.edu/, request for Driver’s License or State I.D. Letter。需要几个工作日才会收到邮件通知去Boucke Building Global Office取。）
+**学校的证明信**（在istart上申请，istart.gp.psu.edu/, request for Driver’s License or State I.D. Letter。需要几个工作日才会收到邮件通知去Boucke Building Global Office取。）
 
-两份居住人姓名和地址一致的居住证明（银行信件，房租合同，水电费单，W2表格，工资单，税表，等等）
+**两份居住人姓名和地址一致的居住证明**（银行信件，房租合同，水电费单，W2表格，工资单，税表，等等）
 
-空白支票或者money order（建议现场填金额），不接受现金
+**空白支票或者money order（建议现场填金额）**
+
+**！！DMV不接受现金！！**
 
 Social Security Number（没有SSN的同学，需要去Social Security Administration开具证明你没有SSN的证明信，即SSN rejection letter。地址：Suite 2, 901 University Dr, State College, PA 16801\)
 
-注：
+**注：**
 
 1. 访问学者不能去校医院，只能去Med Express进行体检。
 
@@ -47,29 +51,33 @@ Social Security Number（没有SSN的同学，需要去Social Security Administr
 
 2）去DMV（车管所）进行笔试（不需要预约，直接进去就可以考试）
 
-注：车管所的周二到周六，推荐在工作日的早上去，人较少。
+**注：**
 
-交通：离学校最近的车管所的地址是：812 W College Ave, Bellefonte, PA 16823。离downtown开车大概只要10-15分钟。也可以从downtown坐XG线，在车管所前有一站。
+车管所的周二到周六，推荐在工作日的早上去，人较少。
 
-交证明并办理相关手续
+**交通**
 
-测视力（车管所有个测视力的仪器，里面会有多列／行字母和数字，根据工作人员的指示回答特定的信息。测视力时可以戴眼镜，如果测试不合格会拿到一张测视力的form，要去找眼科医生检查，才能再去考permit。）
+离学校最近的车管所的地址是：812 W College Ave, Bellefonte, PA 16823。离downtown开车大概只要10-15分钟。也可以从downtown坐XG线，在车管所前有一站。
 
-在电脑上做题：18道题对15道即可通过，正确率83%以上。
+**交证明并办理相关手续**
+
+**测视力**（车管所有个测视力的仪器，里面会有多列／行字母和数字，根据工作人员的指示回答特定的信息。测视力时可以戴眼镜，如果测试不合格会拿到一张测视力的form，要去找眼科医生检查，才能再去考permit。）
+
+在电脑上做题：**18道题对15道即可通过，正确率83%以上。**
 
 交钱（详细收费标准：[http://www.dmv.pa.gov/Information-Centers/Payment/Pages/Payments-and-Fees-Page.aspx\#SPECIAL](http://www.dmv.pa.gov/Information-Centers/Payment/Pages/Payments-and-Fees-Page.aspx#SPECIAL) ）
 
 ### 3.路考
 
-1）考前准备
+**1）考前准备**
 
-预约路考：Google搜索pa dmv，点击driver license，找到get a license, step6即可找到预约路考界面。
+预约路考：Google搜索**pa dmv**，点击**"Driver License"**，找到**"Get a License"**, 在**"Step 6"**即可找到预约路考界面。
 
 练车场推荐：一个是Parkway Plaza门前的专用练车场。现在很多专门的汽车驾校会用这个场所来练习，只有晚上和周末才开放给个人练习。另外一个是在北面Target和Kohl’s中间的闲置的停车场，地方特别宽敞，也相对安全。
 
-路考需要的材料：learner’s permit，驾驶考试车辆者的驾照，车辆的insurance和registration。
+路考需要的材料：**Learner’s Permit，驾驶考试车辆者的驾照，车辆的insurance和registration。**
 
-注：1.建议提前至少半个月预约考试时间，不然可能预约不到自己想要的时间。
+1.建议提前至少半个月预约考试时间，不然可能预约不到自己想要的时间。
 
 2. 练车时，副驾驶座位必须有一个有驾照的21岁及以上成年人陪同，并且要记得带permit。具体练车时间视个人情况而定。
 
@@ -79,7 +87,7 @@ Social Security Number（没有SSN的同学，需要去Social Security Administr
 
 5. 最好提前半个小时到达考场，不要迟到。
 
-2）路考流程
+**2）路考流程**
 
 车停在车位后的黄线后，然后考官会让你演示各种车内指示系统操作，包括low beam, high beam, horn, left/right turn, emergency light, emergency brake等，同时也会检查你的车灯有没有故障。
 
@@ -89,23 +97,25 @@ Social Security Number（没有SSN的同学，需要去Social Security Administr
 
 如果考官觉得你问题不大，可以通过，你就可以回到考试中心办理驾照了。要是出了问题，严重的话他们当时会跟你讲，不严重的话回来后考官会跟你一条一条罗列出来。
 
-### Q&A
+## Q&A
 
-Q：一共能考几次路考？
+**Q：一共能考几次路考？**
 
 A：考一次permit，可以考三次路考。超过三次后要重新考permit。并且第一次交的路考的钱只能考三次。之后的就要再交钱考三次。
 
-Q：我平时要上课，可以周末路考吗？
+**Q：我平时要上课，可以周末路考吗？**
 
 A：车管所的工作时间是周二至周六。不过周六需要考试的人很多，相对难预约到考位，所以如果你想在周末考试，最好提前较长一段时间预约。
 
-Q：路考必须要在学校附近的车管所考试吗？
+**Q：路考必须要在学校附近的车管所考试吗？**
 
 A：路考可以在宾州任意一个车管所考试，除了State College的车管所以外，开车50分钟的Altoona车管所也是大家去的比较多的。由于路况不同，各个车管所考察侧重点不同。比如State College的车管所考试时重视根据路标牌加速减速，而Altoona的车管所重点考察单行线的行驶和转弯。
 
-【温馨提示】dmv官网考驾照具体流程：[http://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/get-driver-license.aspx](http://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/get-driver-license.aspx)
+**【温馨提示】**
 
-## 购车
+DMV官网考驾照具体流程
+
+[http://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/get-driver-license.aspx](http://www.dmv.pa.gov/Driver-Services/Driver-Licensing/Pages/get-driver-license.aspx)
 
 ## 购车过程
 
