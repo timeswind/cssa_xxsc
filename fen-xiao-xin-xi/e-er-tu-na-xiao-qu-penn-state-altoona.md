@@ -1,6 +1,6 @@
 # 阿尔图纳校区  Penn State Altoona
 
-![](../.gitbook/assets/image%20%28205%29.png)
+![](../.gitbook/assets/image%20%28208%29.png)
 
 ## 校内宿舍
 

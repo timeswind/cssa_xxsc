@@ -36,9 +36,9 @@ CATA BUS会在学校Pattee Library站点转换线路，即在 N（E），V（E�
 
 相当于月票或年票卡一样的卡，不限乘坐次数。一个月$79，四个月$309。在营业厅买的pass是所有线都可以坐的。还有一种公寓赠的pass则只能乘坐指定线路。
 
-![](../.gitbook/assets/image%20%28197%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
-![](../.gitbook/assets/image%20%28180%29.png)
+![](../.gitbook/assets/image%20%28183%29.png)
 
 ### 办公地点（Office）
 
@@ -56,7 +56,7 @@ Mon.- Fri. 7:30 a.m.–5:30 p.m.
 
 Sat.9:00 a.m.–1:00 p.m. & Sun Closed.
 
-![](../.gitbook/assets/image%20%28110%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
 M
 
@@ -96,13 +96,13 @@ W
 
 顺时针绕着校园转，经过Curtin road和College Avenue。
 
-![Blue Loop](../.gitbook/assets/image%20%28117%29.png)
+![Blue Loop](../.gitbook/assets/image%20%28118%29.png)
 
 **Red Link：**
 
 沿着Curtin Rd.由西向东，连接White Course Apartments和Penn Stater Hotel，经过BJC, Mount Nittany Medical Centre和Pattee Library。
 
-![Red Link](../.gitbook/assets/image%20%2893%29.png)
+![Red Link](../.gitbook/assets/image%20%2894%29.png)
 
 **Green Link：**
 
@@ -112,7 +112,7 @@ W
 
 ## Taxi
 
-![](../.gitbook/assets/image%20%2889%29.png)
+![](../.gitbook/assets/image%20%2890%29.png)
 
 ### 普通出租车
 
@@ -156,7 +156,7 @@ PSU在校生可选择加入共享单车**包年计划**（**20$/年**），便�
 
 **输入车的编码-&gt;输入动态密码-&gt;提车**
 
-![](../.gitbook/assets/image%20%28160%29.png)
+![](../.gitbook/assets/image%20%28161%29.png)
 
 ### **还车流程：**
 
@@ -164,7 +164,7 @@ PSU在校生可选择加入共享单车**包年计划**（**20$/年**），便�
 
 如中途需要在租车站之外停车，请将单车按要求锁好。
 
-![](../.gitbook/assets/image%20%2845%29.png)
+![](../.gitbook/assets/image%20%2846%29.png)
 
 ### **校内单车站点**
 

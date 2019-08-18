@@ -49,7 +49,10 @@
   * [阿尔图纳校区  Penn State Altoona](fen-xiao-xin-xi/e-er-tu-na-xiao-qu-penn-state-altoona.md)
 * [新生常见问题](xin-sheng-chang-jian-wen-ti.md)
 * [纽约中国留学服务中心](niu-yue-zhong-guo-liu-xue-fu-wu-zhong-xin.md)
-* [写在最后](xie-zai-zui-hou.md)
 * [Fun Facts](fun-facts/README.md)
+  * [PSU的裸奔日](fun-facts/psu-de-luo-ben-ri.md)
   * [黑粉相间的PennState](fun-facts/untitled.md)
+* [生活娱乐](sheng-huo-yu-le/README.md)
+  * [咖啡店](sheng-huo-yu-le/ga-fei-dian.md)
+* [写在最后](xie-zai-zui-hou.md)
 

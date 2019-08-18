@@ -14,19 +14,19 @@ PSU-VPN可以让学校外的大家使用"**LIASVPN**"链接到**PSU内部资源�
 
 在"Connecting to Penn State"中选择Windows.
 
-![](../.gitbook/assets/image%20%28125%29.png)
+![](../.gitbook/assets/image%20%28126%29.png)
 
 ### 第二步
 
 下载完成后，双击下载文件进行安装。一路点击“next”，完成安装。
 
-![](../.gitbook/assets/image%20%28193%29.png)
+![](../.gitbook/assets/image%20%28196%29.png)
 
 ### 第三步
 
 打开安装完成的客户端“Cisco AnyConnect Secure Mobility Client”，如果找不到客户端位置，可以使用Windows的搜索功能：
 
-![](../.gitbook/assets/image%20%28107%29.png)
+![](../.gitbook/assets/image%20%28108%29.png)
 
 登陆方法请查看下方章节：“**VPN登陆 \(PC/MAC\)**”
 
@@ -44,11 +44,11 @@ PSU-VPN可以让学校外的大家使用"**LIASVPN**"链接到**PSU内部资源�
 
 下载完成后，双击下载文件根据提示完成安装。
 
-![](../.gitbook/assets/image%20%2866%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 ### **第三步**
 
-![](../.gitbook/assets/image%20%28191%29.png)
+![](../.gitbook/assets/image%20%28194%29.png)
 
 打开安装完成的客户端“Cisco AnyConnect Secure Mobility Client”，如果找不到客户端位置，可以使用Mac的搜索功能：
 
@@ -68,7 +68,7 @@ Network名称应和上图所示一致。 如不一致，点击上图的下拉箭
 
 点击“**Connect**”，弹出如下图所示窗口，并在Group中选择：**LIASVPN**
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2852%29.png)
 
 _**\*\*注意：GROUP选项请选择LIASVPN\*\***_
 
@@ -80,7 +80,7 @@ _**\*\*注意：GROUP选项请选择LIASVPN\*\***_
 
 填写完毕后，点击“**OK**”进行连接。如果网络连接正确，用户名与密码对应，你应该看到如下图的连接成功界面：
 
-![](../.gitbook/assets/image%20%28148%29.png)
+![](../.gitbook/assets/image%20%28149%29.png)
 
 ## iOS客户端安装/VPN登陆
 
@@ -88,14 +88,14 @@ _**\*\*注意：GROUP选项请选择LIASVPN\*\***_
 
 在AppStore中下载“Cisco AnyConnect”，如下图:
 
-![](../.gitbook/assets/image%20%28187%29.png)
+![](../.gitbook/assets/image%20%28190%29.png)
 
 ### 第二步
 
 下载完成后，打开自动安装完毕的app：  
 
 
-![](../.gitbook/assets/image%20%28202%29.png)
+![](../.gitbook/assets/image%20%28205%29.png)
 
 ### 第三步
 
@@ -105,13 +105,13 @@ Description: PSU Anyconnect
 
 Server Add: **vpn.its.psu.edu**
 
-![](../.gitbook/assets/image%20%28104%29.png)
+![](../.gitbook/assets/image%20%28105%29.png)
 
 ### 第四步
 
 输入完成后，点击“**Save**”，返回登录界面，点击AnyConnect VPN：
 
-![](../.gitbook/assets/image%20%28137%29.png)
+![](../.gitbook/assets/image%20%28138%29.png)
 
 ### 第五步
 
@@ -121,13 +121,13 @@ Group: **LIASVPN**
 
 **Password**: 你的PSU ID密码
 
-![](../.gitbook/assets/image%20%28165%29.png)
+![](../.gitbook/assets/image%20%28166%29.png)
 
 ### **第六步**
 
 填写完成后，点击“**Connect**”，如果网络设置正确，用户名密码对应，将弹出“**Banner**”：
 
-![](../.gitbook/assets/image%20%28170%29.png)
+![](../.gitbook/assets/image%20%28172%29.png)
 
 **选择“Accept”完成PSU-VPN登陆。**
 
@@ -137,13 +137,13 @@ Group: **LIASVPN**
 
 在Play Store中下载“Cisco AnyConnect”，如下图:
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28100%29.png)
 
 ### 第二步
 
 下载完成后，点开自动安装完毕的app，阅读用户协议，点击OK启动app：
 
-![](../.gitbook/assets/image%20%28112%29.png)
+![](../.gitbook/assets/image%20%28113%29.png)
 
 ### 第三步
 
@@ -153,7 +153,7 @@ Group: **LIASVPN**
 
 选择“**Add New VPN Connection...**”
 
-![](../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2844%29.png)
 
 弹出的窗口里选择“**Add New VPN...**”
 
@@ -169,7 +169,7 @@ Server Add: **vpn.its.psu.edu**
 
 填写完成后，选择“Done”。
 
-![](../.gitbook/assets/image%20%2886%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 ### 第五步
 
@@ -179,7 +179,7 @@ Username: 你的PSU邮箱ID，如xyz123
 
 Password: 你的PSU ID密码
 
-![](../.gitbook/assets/image%20%28167%29.png)
+![](../.gitbook/assets/image%20%28169%29.png)
 
 ### 第六步
 
@@ -187,7 +187,7 @@ Password: 你的PSU ID密码
 
 ![](../.gitbook/assets/image%20%2823%29.png)
 
-![](../.gitbook/assets/image%20%28147%29.png)
+![](../.gitbook/assets/image%20%28148%29.png)
 
 **选择“Accept”后，再新的提示窗口中选择“OK”，完成PSU-VPN登陆。**
 

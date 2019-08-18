@@ -20,13 +20,13 @@ Penn State Housing官网：
 
 拥有全校最多的宿舍和最大的Commons，就餐选择繁多。它毗邻IM Building \(健身、排球、壁球、篮球\)和网球场。住宿区内部还有一个室外篮球场和一个沙滩排球场。但同时由于人数比较多，住所房间会偏小，而且没有独立的厕所，同一楼层的人共用一个大型公共厕所。由于住宅区较大，娱乐设施和运动设施较为健全，许多美国社团愿意在East举行派对活动，所以难免会有吵闹的现象。
 
-![](../.gitbook/assets/image%20%2842%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 ### 2. Pollock Halls
 
 在学校中南部的住宿所，毗邻学校的主要健身场所White Building。由于饭堂在2011年曾经进行过现代化整改，整体的就餐环境十分优雅，而且菜式多样，是学生投票第一的饭堂；在Pollock Halls 附近坐落着一座Pollock Building，第一层为Testing Center，是不少考试科目的电脑考试地点，第二层则是巨型的电脑机房，给想要安静学习的学生提供了好的去处；Pollock Halls 的房间相比于其他halls 属于小型房间。和East Halls 相同，也是同一层使用公共洗手间。
 
-![](../.gitbook/assets/image%20%28121%29.png)
+![](../.gitbook/assets/image%20%28122%29.png)
 
 ### 3.South Halls
 
@@ -50,19 +50,19 @@ West Halls 是典型的新英格兰式的古典住宿区，属于学校最古老
 
 Simmmon Hall 坐落在South附近，是Honors College的两处据点之一。2011年夏天，全楼进行了现代化改造，一跃成为全校条件最好的宿舍楼之一。但是申请条件较为苛刻，一般供应荣誉学院的学生。
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28141%29.png)
 
 ### 7.Atherton Hall
 
 Atherton Hall紧挨Downtown和White Building。本区有自己的电脑房、琴房以及厨房，充斥各类学霸的自习室是全校闻名的Zombie Room。同时荣誉学院会定期在此举办一些活动。因为离Hub极近又紧挨Downtown，附近有超市、书店、酒吧、餐厅、银行、发廊、剧院等，生活非常方便，交通极为便利。但是申请条件较为苛刻，一般供应荣誉学院的学生。
 
-![](../.gitbook/assets/image%20%28119%29.png)
+![](../.gitbook/assets/image%20%28120%29.png)
 
 ### 8.Nittany Apartment
 
 Nittany Apartment 是一家坐落在Pollock旁边的公寓式住房，主要提供给高年级学生。每一座公寓只允许四人居住，而且必须是同性。公寓居住有三个选择： 2-bedroom garden apartment,4-bedroom gardent apartment, 4-bedroom Townhouse, Nittany Hall Suites。公寓内有客厅和厨房。 选择居住Nittany Hall Suites 的学生需要订购学校餐饮卡（PSU meal plan）。
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 ### 9.White Course Apartments（研究生住宿区）
 

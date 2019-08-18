@@ -10,7 +10,7 @@
 
 ## South Hall
 
-![South Hall](../.gitbook/assets/image%20%28183%29.png)
+![South Hall](../.gitbook/assets/image%20%28186%29.png)
 
 ##  East Hall
 
@@ -18,25 +18,25 @@
 
 ##  North Hall
 
-![North Hall](../.gitbook/assets/image%20%28154%29.png)
+![North Hall](../.gitbook/assets/image%20%28155%29.png)
 
 ##  Simmons Hall
 
-![Simmons Hall](../.gitbook/assets/image%20%2839%29.png)
+![Simmons Hall](../.gitbook/assets/image%20%2840%29.png)
 
 ##  West Hall
 
-![West Hall](../.gitbook/assets/image%20%28109%29.png)
+![West Hall](../.gitbook/assets/image%20%28110%29.png)
 
 ##  Nittany Apartment
 
-![Nittany Apartment](../.gitbook/assets/image%20%28196%29.png)
+![Nittany Apartment](../.gitbook/assets/image%20%28199%29.png)
 
 ##  Atherton Hall
 
-![Atherton Hall](../.gitbook/assets/image%20%28169%29.png)
+![Atherton Hall](../.gitbook/assets/image%20%28171%29.png)
 
 ##  White Course Apartment
 
-![White Course Apartment](../.gitbook/assets/image%20%2861%29.png)
+![White Course Apartment](../.gitbook/assets/image%20%2862%29.png)
 

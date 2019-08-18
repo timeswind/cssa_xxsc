@@ -14,7 +14,7 @@
 
 THON是一个学生运营的慈善组织，为了改善有患有癌症儿童的家庭的生活。Dance Marathon这个活动是通过一些舞者46小时不停歇地跳舞来呼吁更多人关注到儿童癌症患者并为他们筹集善款，每年二月底在BJC举办。这是世界上最大的学生运营非盈利性活动，也是PSU每年最火爆的活动之一。除了这个活动，Penn State的大部分学生组织会在全年以THON的名义展开各种Alternative Fundraising 活动去筹集善款，善款将直接纳入FOUR DIAMONDS FUND基金会，并直接帮助到Pennsylvania Hershey Hospital的癌症患儿们。迄今位置，Penn State THON迄今为止已经有40多年的历史了，帮助了至少4000多个癌症患儿家庭。在2018年，THON一共为癌症患儿们筹到了$10,151,663.93，Penn Staters给更多的癌症患儿家庭带去了温暖与希望。
 
-![THON](../.gitbook/assets/image%20%28116%29.png)
+![THON](../.gitbook/assets/image%20%28117%29.png)
 
 ### CSSA与THON
 
@@ -30,7 +30,7 @@ Bounce街舞社，全名Bounce Dance Organization，成立于2015年，是PSU Pa
 
 ## 茶Institute
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 邮件：tea.psu@gmail.com
 

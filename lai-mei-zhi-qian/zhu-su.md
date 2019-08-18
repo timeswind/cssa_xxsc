@@ -20,7 +20,7 @@
 
  [http://foodservices.psu.edu/campus-meal-plan](http://foodservices.psu.edu/campus-meal-plan)
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 ## 临时住宿
 
@@ -36,13 +36,13 @@
 
 性价比非常好，房间非常干净，设施齐全，服务周到，环境优雅，还有游泳池，离学校很近，步行只需要 10 分钟左右。
 
-![DAYS INN&#x9152;&#x5E97;](../.gitbook/assets/image%20%2849%29.png)
+![DAYS INN&#x9152;&#x5E97;](../.gitbook/assets/image%20%2850%29.png)
 
 比较近的酒店包括Days Inn，Hotel State College & Co，The Atherton Hotel，Imperial Motor Inn，The Nittany Lion Inn（Penn State自己的酒店）。
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2885%29.png)
 
-![](../.gitbook/assets/image%20%2883%29.png)
+![](../.gitbook/assets/image%20%2884%29.png)
 
 转学生可以选择住学校宿舍，或者在校外租房（房源信息请参见本手册抵美之后住宿板块）。也可以在CSSA的BBS等信息发布平台上寻找转租及找室友的信息。
 

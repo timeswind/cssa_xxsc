@@ -8,7 +8,7 @@ Hi～ 欢迎各位学弟学妹加入PSU的大家庭，成为新一届的Penn Sta
 
 下面是University Bulletin列出的General Education的表格。
 
-![BACCALAUREATE DEGREE REQUIREMENTS GENERAL EDUCATION](../.gitbook/assets/image%20%2857%29.png)
+![BACCALAUREATE DEGREE REQUIREMENTS GENERAL EDUCATION](../.gitbook/assets/image%20%2858%29.png)
 
 另外需要特别说明的是：
 

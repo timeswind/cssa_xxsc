@@ -4,7 +4,7 @@
 
 [http://www.abington.psu.edu/international-students](http://www.abington.psu.edu/international-students)
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 ## 住宿
 

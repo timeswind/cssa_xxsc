@@ -52,7 +52,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![Mobile share plan](../.gitbook/assets/image%20%2848%29.png)
+![Mobile share plan](../.gitbook/assets/image%20%2849%29.png)
 
 3\) 合约机
 
