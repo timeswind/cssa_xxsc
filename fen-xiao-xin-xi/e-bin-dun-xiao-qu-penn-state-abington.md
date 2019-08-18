@@ -4,7 +4,7 @@
 
 [http://www.abington.psu.edu/international-students](http://www.abington.psu.edu/international-students)
 
-![](../.gitbook/assets/image%20%2893%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 ## 住宿
 
@@ -124,7 +124,7 @@ Note：推荐无家具的房子，带家具的价格会比较贵。
 
 ### 周边娱乐
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 **1. AMC Loews Cherry Hill 24**
 

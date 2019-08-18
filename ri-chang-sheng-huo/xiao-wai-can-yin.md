@@ -18,7 +18,7 @@
 
 　　最后欢迎大家随时光临，我们在杏花楼等你哦！”
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 主厨推荐：小笼包，三黄鸡，夫妻肺片
 
@@ -26,7 +26,7 @@
 
 Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉皮凉面及板面米线。也提供夜宵以及送餐服务。
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%28106%29.png)
 
 主厨推荐：板面，臊子面，排骨面
 
@@ -34,7 +34,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 又名小四川，主营川菜。小四川在用餐高峰经常需要排队等位用餐。建议大家在高峰期去用餐的时候，早一点过去。
 
-![](../.gitbook/assets/image%20%28140%29.png)
+![](../.gitbook/assets/image%20%28153%29.png)
 
 友情推荐：酸菜鱼、火爆牛百叶、干锅牛筋
 
@@ -42,7 +42,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 祥龙虽然店面不大但感觉很温馨。祥龙的午餐时间从11：15 到 2：00，是快餐式中餐三菜一汤，类似中国大学食堂菜。晚上则为点餐，祥龙的菜系为川菜，口味偏辣，但价格非常便宜，是日常用餐的不错选择。
 
-![](../.gitbook/assets/image%20%2896%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 主厨推荐：大盘鸡，上汤娃娃菜，土豆牛腩。
 
@@ -50,7 +50,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 只收现金。强烈推荐在柜台前会有一个小白板列出来的specials。大碗公类似于国内的大型快餐店，有很多种选择，是性价比很高的中餐馆。大碗公点餐的美国大叔能够听得懂所有食物的中文名，订餐的时候告诉他中文菜名就好了。
 
-![](../.gitbook/assets/image%20%28203%29.png)
+![](../.gitbook/assets/image%20%28222%29.png)
 
 主厨推荐：红烧牛肉汤面，香干肉丝饭，鱼香烘蛋饭
 
@@ -58,7 +58,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 主营川菜，广受四川本地人好评。除了有经济实惠的精美午餐三菜一汤，各式精美的川菜菜式更是让人赞不绝口，十分地道。友情推荐：红烧肉，炝炒莲白，小椒牛肉丝，红油水饺和水煮牛肉。
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ### 7.Tokyo
 
@@ -66,7 +66,7 @@ Downtown唯一一家西安餐馆，主要特色是各种烤串、肉夹馍及凉
 
 友情推荐：King Kong Roll， 阿拉斯加手卷，寿司船
 
-![](../.gitbook/assets/image%20%2829%29.png)
+![](../.gitbook/assets/image%20%2831%29.png)
 
 ### 8.Uncle Chen
 
@@ -86,13 +86,13 @@ Waker Chicken是一家备受欢迎的韩国炸鸡店，特色的酱汁加上精�
 
 该餐厅位于 Westerly parkway上，分为中式菜肴区，铁板烧和日本菜肴区，周一到周五都有 Lunch special，空间大环境好，适合聚餐。百叶烤肉、蒜泥白肉、冷锅鱼、无锡排骨、铁板豆腐等都非常受欢迎。可以注意一下白板墙上和菜单里的specials。周日中午日本菜肴区有自助餐，品种繁多，值得一试。友情提示：原百度火锅（Hundred Degrees Hotpot）和Fuji现已合并。
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ### 2.樱花 Sakura
 
 Sakura是在学校南边的一家中国人经营的日式餐馆。Sakura提供铁板烧以及Sushi Bar。价格适中，很多这边的学生都喜欢Sakura的铁板烧，用餐环境良好，适合周末和朋友一起聚餐。
 
-![](../.gitbook/assets/image%20%28130%29.png)
+![](../.gitbook/assets/image%20%28142%29.png)
 
 ## Nittany Mall 方向
 
@@ -136,13 +136,13 @@ State College有很多家西餐厅，遍布在学校周围的各个角落。美�
 
 Corner Room是State College一家非常著名的 “传统老店”，它已经有了很多年的历史。Corner Room位于Allen St和College Ave的交汇口，离学校非常近。这里的早餐和午餐比较便宜，不过提供的都是以sandwich和pancake为主的传统美式早午餐。晚餐会提供非常丰盛的牛排以及各类Specials。餐厅里面会有很多老照片记录下了State College的历史，用餐条件优异。
 
-![Corner Room](../.gitbook/assets/image%20%2892%29.png)
+![Corner Room](../.gitbook/assets/image%20%28100%29.png)
 
 ### 2.Allen Street Grill
 
 Allen Street Grill位于Corner Room的楼上。相比Corner Room，它的用餐条件更高端，餐厅内能看到很美的景色，适合周末带上自己的男女朋友来这里用餐。饮食以牛排类为主。Allen Street Grill靠窗的座位非常抢手，由于不支持预定靠窗的座位，大家记得早点过来抢座。
 
-![](../.gitbook/assets/image%20%28184%29.png)
+![](../.gitbook/assets/image%20%28200%29.png)
 
 ### 3.Red Lobster
 
@@ -184,7 +184,7 @@ Zola是Downtown一家非常高端的餐馆，建议大家晚上去的话要穿�
 
 一家印度餐厅。整间餐厅从装潢到音乐都弥漫着浓厚的印度风情。环境十分整洁，饭菜分量也很足，虽然种类没有很多，但是可以吃到饱。这家的甜点很特别，还有生菜沙拉和现烤的印度抓饼。中午也有buffet，没吃过印度菜的朋友可以来试试。
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../.gitbook/assets/image%20%2868%29.png)
 
 ### 6.Pho 11
 

@@ -52,7 +52,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![Mobile share plan](../.gitbook/assets/image%20%2849%29.png)
+![Mobile share plan](../.gitbook/assets/image%20%2851%29.png)
 
 3\) 合约机
 
@@ -74,7 +74,7 @@ Mobile share plan，顾名思义，人数越多越便宜。每个套餐由一名
 
 
 
-![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2827%29.png)
+![The More Everything plan \(Family plan\)](../.gitbook/assets/image%20%2829%29.png)
 
 3）Single Line plan \(individual plan\)
 

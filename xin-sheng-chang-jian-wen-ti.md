@@ -1,6 +1,6 @@
 # 新生常见问题
 
-![](.gitbook/assets/image%20%28124%29.png)
+![](.gitbook/assets/image%20%28135%29.png)
 
 ## 什么时间到达 PSU 比较合适?
 

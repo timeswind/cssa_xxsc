@@ -6,27 +6,27 @@
 
 [https://istart.gp.psu.edu](https://istart.gp.psu.edu)
 
-![](../.gitbook/assets/image%20%2888%29.png)
+![](../.gitbook/assets/image%20%2894%29.png)
 
 ## 第二步
 
 选择 “**other request**”
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2867%29.png)
 
 ## 第三步
 
 选择“**travel signature**”
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28111%29.png)
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## 最后
 
 填完i-start表格后大概两个工作日之后，你会收到一封confirmation letter. 把这封email打印出来，带着I-20就可以去签字啦！（walk-in hour去的话，可以当时取走哦！）
 
-![](../.gitbook/assets/image%20%28173%29.png)
+![](../.gitbook/assets/image%20%28188%29.png)
 
 #### 本章特别鸣谢林博渊
 
