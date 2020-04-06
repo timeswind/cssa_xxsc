@@ -28,6 +28,7 @@
   * [校外住宿](ri-chang-sheng-huo/xiao-wai-zhu-su.md)
   * [校内餐饮](ri-chang-sheng-huo/can-yin.md)
   * [校外餐饮](ri-chang-sheng-huo/xiao-wai-can-yin.md)
+  * [健身房与课程](ri-chang-sheng-huo/jian-shen-fang-yu-ke-cheng.md)
   * [交通](ri-chang-sheng-huo/jiao-tong.md)
   * [邮政](ri-chang-sheng-huo/you-zheng.md)
   * [银行卡](ri-chang-sheng-huo/yin-hang-ka.md)
