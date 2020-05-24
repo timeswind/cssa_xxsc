@@ -127,10 +127,6 @@ Research Activities：关于学校Research的详细功能；
 
 这是用来评估学生综合教程化能力的测试，总共30道题目，大概两到三个小时的流程。除了数学，还有英语的placement test ，可以用SAT写作抵掉。这个测试主要是为你选课做准备，关系到你是否能直接选择MATH 140这样的课程。测试必须在来学校前完成。
 
-3）中国国际学生orientation网站如下，详情咨询：
-
-[https://global.psu.edu/isosp18](https://global.psu.edu/isosp18)
-
 ## 选课建议
 
 Penn State 本科所选的课程主要分为通识课\(general\)和专业课两部分。由于专业课一般来讲难度都比较大，所以如果能在大一大二阶段，巧妙利用选课的技巧，成功选到一些容易掌握的General的课，会直接关系到四年的GPA和学习的系统性。
