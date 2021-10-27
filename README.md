@@ -1,15 +1,14 @@
 # CSSA简介
 
-> 电脑可以访问 book.cssapsu.cn 阅读此新生手册
+> 电脑可以访问 book.cssapsu.cn 阅读此新生手册 v.20211027
 
-![Penn State CSSA &#x6807;&#x5FD7;](.gitbook/assets/cssa_logo_2019-600-600.png)
+![Penn State CSSA 标志](.gitbook/assets/cssa\_logo\_2019-600-600.png)
 
 ## I.概况
 
-  
-CSSA 全称为 **Chinese Students and Scholars Association，**是全美高校中最大最具影响力的中国学生组织。PSU CSSA 作为全美 CSSA 大家庭的有机组成部分,自 2001 年创建至今已有 19 年的历史。
+CSSA 全称为 \*\*Chinese Students and Scholars Association，\*\*是全美高校中最大最具影响力的中国学生组织。PSU CSSA 作为全美 CSSA 大家庭的有机组成部分,自 2001 年创建至今已有 19 年的历史。
 
-Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结和友谊，丰富业余生活，扩大中国文化在校园中的影响，最终达到增进中美两国、以及和其他国家青年人间 友谊的目的。在 CSSA 存在的这 19年里，我们可以自豪地说我们完美地完成了我们的任务，曾连续三年被学校评为 Penn State **最具影响力的学生组织（Outstanding Student Organization Award）**。2011 年中秋文化节更是获得 Outstanding Program of the Year，成为全校**唯一获得杰出奖项的国际学生组织，**更成为 PSU 全校唯一一个同时获得两项荣誉的学生组织。PSU CSSA 的成功是 PSU 华人活跃的体现，也是学校对中国学生学者整体素质的认可。欢迎大家加入我们 CSSA 的大家庭，共同谱写 CSSA 新的华美篇章！
+Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结和友谊，丰富业余生活，扩大中国文化在校园中的影响，最终达到增进中美两国、以及和其他国家青年人间 友谊的目的。在 CSSA 存在的这 19年里，我们可以自豪地说我们完美地完成了我们的任务，曾连续三年被学校评为 Penn State **最具影响力的学生组织（Outstanding Student Organization Award）**。2011 年中秋文化节更是获得 Outstanding Program of the Year，成为全校\*\*唯一获得杰出奖项的国际学生组织，\*\*更成为 PSU 全校唯一一个同时获得两项荣誉的学生组织。PSU CSSA 的成功是 PSU 华人活跃的体现，也是学校对中国学生学者整体素质的认可。欢迎大家加入我们 CSSA 的大家庭，共同谱写 CSSA 新的华美篇章！
 
 ## II.组成部分
 
@@ -19,16 +18,16 @@ Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结�
 
 ### 10个部门
 
-* 宣传部 \(Communication Department\)
-* 财务部 \(Treasury Department\)
-* 活动策划部 \(Culture Event Department\)
-* 文体娱乐部 \(Recreation & Sport Department\)
-* 学术发展部 \(Intellectual Development Department\)
-* 公共关系部 \(Public Relation Department\)
-* 人力资源部 \(Human Resource Department\)
-* 网络部 \(Web Team Department\)
-* THON 部 \(THON Department\)
-* 研究生部 \(Graduate Student Department\)
+* 宣传部 (Communication Department)
+* 财务部 (Treasury Department)
+* 活动策划部 (Culture Event Department)
+* 文体娱乐部 (Recreation & Sport Department)
+* 学术发展部 (Intellectual Development Department)
+* 公共关系部 (Public Relation Department)
+* 人力资源部 (Human Resource Department)
+* 网络部 (Web Team Department)
+* THON 部 (THON Department)
+* 研究生部 (Graduate Student Department)
 
 每个部门由部长、副部长及 Officer 组成，分工协作完成各项活动。
 
@@ -40,45 +39,44 @@ Penn State CSSA 的宗旨是服务全体中国留学生和学者，增进团结�
 
 ### 2020-2021
 
-![&#x674E;&#x7965;&#x745C;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28230%29.png)
+![李祥瑜  主席团 | 主席](<.gitbook/assets/image (230).png>)
 
-![&#x6768;&#x71D5;&#x6797;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x672C;&#x79D1;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28242%29.png)
+![杨燕林  主席团 | 本科生副主席](<.gitbook/assets/image (242).png>)
 
-![&#x7AE0;&#x65ED;  &#x4E3B;&#x5E2D;&#x56E2; \| &#x7814;&#x7A76;&#x751F;&#x526F;&#x4E3B;&#x5E2D;](.gitbook/assets/image%20%28235%29.png)
+![章旭  主席团 | 研究生副主席](<.gitbook/assets/image (235).png>)
 
-![&#x9AD8;&#x5FC3;&#x8FDC;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28245%29.png)
+![高心远  活动策划部 | 部长](<.gitbook/assets/image (245).png>)
 
-![&#x8C2D;&#x8389;&#x534E;  &#x6D3B;&#x52A8;&#x7B56;&#x5212;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28244%29.png)
+![谭莉华  活动策划部 | 副部长](<.gitbook/assets/image (244).png>)
 
-![&#x738B;&#x8BD7;&#x96E8;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28247%29.png)
+![王诗雨  文体娱乐部 | 部长](<.gitbook/assets/image (247).png>)
 
-![&#x795D;&#x5B50;&#x8431;  &#x6587;&#x4F53;&#x5A31;&#x4E50;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28239%29.png)
+![祝子萱  文体娱乐部 | 副部长](<.gitbook/assets/image (239).png>)
 
-![&#x4E8E;&#x6D0B;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28251%29.png)
+![于洋  THON部 | THON CHAIR](<.gitbook/assets/image (251).png>)
 
-![&#x4FDE;&#x6D77;&#x6D0B;  THON&#x90E8; \| THON CHAIR](.gitbook/assets/image%20%28250%29.png)
+![俞海洋  THON部 | THON CHAIR](<.gitbook/assets/image (250).png>)
 
-![  &#x738B;&#x6CFD;&#x5B87;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28246%29.png)
+![王泽宇  公共关系部 | 部长](<.gitbook/assets/image (246).png>)
 
-![  &#x6768;&#x4F0A;&#x7EB3;  &#x516C;&#x5171;&#x5173;&#x7CFB;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28243%29.png)
+![杨伊纳  公共关系部 | 副部长](<.gitbook/assets/image (243).png>)
 
-![&#x9648;&#x6602;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28240%29.png)
+![陈昂  学术发展部 | 部长](<.gitbook/assets/image (240).png>)
 
-![&#x8D75;&#x884C;&#x5065;  &#x5B66;&#x672F;&#x53D1;&#x5C55;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28233%29.png)
+![赵行健  学术发展部 | 副部长](<.gitbook/assets/image (233).png>)
 
-![&#x674E;&#x6613;&#x6D0B;  &#x8D22;&#x52A1;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28238%29.png)
+![李易洋  财务部 | 部长](<.gitbook/assets/image (238).png>)
 
-![&#x6768;&#x97F5;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28231%29.png)
+![杨韵  研究生部 | 部长](<.gitbook/assets/image (231).png>)
 
-![&#x76DB;&#x4F73;&#x707F;  &#x7814;&#x7A76;&#x751F;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28229%29.png)
+![盛佳灿  研究生部 | 副部长](<.gitbook/assets/image (229).png>)
 
-![&#x53F6;&#x5B50;  &#x7F51;&#x7EDC;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28237%29.png)
+![叶子  网络部 | 部长](<.gitbook/assets/image (237).png>)
 
-![&#x5B8B;&#x5B50;&#x6052;  &#x7F51;&#x7EDC;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28241%29.png)
+![宋子恒  网络部 | 副部长](<.gitbook/assets/image (241).png>)
 
-![&#x4E8E;&#x7AE5;&#x5149;  &#x5BA3;&#x4F20;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28236%29.png)
+![于童光  宣传部 | 部长](<.gitbook/assets/image (236).png>)
 
-![&#x5F20;&#x65E5;&#x5347;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x90E8;&#x957F;](.gitbook/assets/image%20%28232%29.png)
+![张日升  人力资源部 | 部长](<.gitbook/assets/image (232).png>)
 
-![&#x9AD8;&#x5065;&#x7FD4;  &#x4EBA;&#x529B;&#x8D44;&#x6E90;&#x90E8; \| &#x526F;&#x90E8;&#x957F;](.gitbook/assets/image%20%28248%29.png)
-
+![高健翔  人力资源部 | 副部长](<.gitbook/assets/image (248).png>)
